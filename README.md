@@ -13,11 +13,11 @@ Currently, I have so far managed to extract the jump tables and code for all the
 
 ```
         table_op:
-000000                                dc.w  table_op - op_00
-000002                                dc.w  table_op - op_01
+000000  0200                          dc.w      op_00 - table_op
+000002  020c                          dc.w      op_01 - table_op
 ...
-0001fc                                dc.w  table_op - op_fe
-0001fe                                dc.w  table_op - op_ff
+0001fc  1f14                          dc.w      op_fe - table_op
+0001fe  1f2c                          dc.w      op_ff - table_op
         op_00:                        ; nop
 000200  1019                          MOVE.b    (A1)+,D0
 000202  d040                          ADD.w     D0,D0
@@ -45,24 +45,22 @@ Currently, I have so far managed to extract the jump tables and code for all the
 001f42  3233 0000                     MOVE.w    $00(A3,D0),D1
 001f46  4ef3 1000                     JMP       $00(A3,D1)
         table_opcb:
-001f4a                                dc.w  table_opcb - op_cb00
-001f4c                                dc.w  table_opcb - op_cb01
+001f4a  0200                          dc.w      op_cb00 - table_opcb
+001f4c  021c                          dc.w      op_cb01 - table_opcb
 ...
-001fa6                                dc.w  table_opcb - op_cb2e
-001fa8                                dc.w  table_opcb - op_cb2f
-001faa                                dc.w  table_opcb - op_undefined
-001fac                                dc.w  table_opcb - op_undefined
-001fae                                dc.w  table_opcb - op_undefined
-001fb0                                dc.w  table_opcb - op_undefined
-001fb2                                dc.w  table_opcb - op_undefined
-001fb4                                dc.w  table_opcb - op_undefined
-001fb6                                dc.w  table_opcb - op_undefined
-001fb8                                dc.w  table_opcb - op_undefined
-001fba                                dc.w  table_opcb - op_cb38
-001fbc                                dc.w  table_opcb - op_cb39
+001fa8  0702                          dc.w      op_cb2f - table_opcb
+001faa  ffff                          dc.w      op_undefined - table_opcb
+001fac  ffff                          dc.w      op_undefined - table_opcb
+001fae  ffff                          dc.w      op_undefined - table_opcb
+001fb0  ffff                          dc.w      op_undefined - table_opcb
+001fb2  ffff                          dc.w      op_undefined - table_opcb
+001fb4  ffff                          dc.w      op_undefined - table_opcb
+001fb6  ffff                          dc.w      op_undefined - table_opcb
+001fb8  ffff                          dc.w      op_undefined - table_opcb
+001fba  0716                          dc.w      op_cb38 - table_opcb
 ...
-002146                                dc.w  table_opcb - op_cbfe
-002148                                dc.w  table_opcb - op_cbff
+002146  1684                          dc.w      op_cbfe - table_opcb
+002148  169a                          dc.w      op_cbff - table_opcb
         op_cb00:                      ; rlc b
 00214a  122d 0004                     MOVE.b    ($0004,a5),D1
 00214e  e319                          ROL.b     #1,D1

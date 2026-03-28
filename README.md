@@ -8,3 +8,80 @@ Thinking about it now, I am surprised I managed to do this so quickly.  So, I de
 At this point, I was able to start examining the code of this emulator.  This CP/M emulator uses a jump table for each of the various groups of up to 256 Z80 instructions, some one byte and some multiple byte instructions.  Within the first 256 one byte instructions, are 4 instructions that are further decoded using another jump table of 256 instructions.  For this emulator, there are a total of 6 jump tables, 1 for the one byte instructions, 4 for the 2 byte instruction, CBxx, DDxx, EDxx, FDxx.  Then there is 1 table shared by both the DDCBxx and FDCBxx instructions.  Not everyone of these groups have 256 instruction, some of the opcodes are undefined and are therefore redirected to code to handle these undefined instructions.
 
 Currently, I have so far managed to extract the jump tables and code for all the instructions.  I have yet to go through all the code and replace any hardcoded references with labels.  Plus, not of the support routines used by this code have not been included.  At this point, the tables and code I have constructed, does not match the address of the running code in the CP/M emulator.  Therefore, some of the code may attempt to address absolute addresses that would not be valid.  But the primary purpose of having this code as a reference for how one might emulate the various instructions has mostly been fulfilled.  I still need to add some info on how the various 68000 registers are used and some of the variables stored in memory are used, in order for this code to be easier to understand.
+
+```
+        table_op:
+000000                                dc.w  table_op - op_00
+000002                                dc.w  table_op - op_01
+...
+0001fc                                dc.w  table_op - op_fe
+0001fe                                dc.w  table_op - op_ff
+        op_00:                        ; nop
+000200  1019                          MOVE.b    (A1)+,D0
+000202  d040                          ADD.w     D0,D0
+000204  3233 0000                     MOVE.w    $00(A3,D0),D1
+000208  4ef3 1000                     JMP       $00(A3,D1)
+        op_01:                        ; ld bc,nn
+00020c  1b59 0005                     MOVE.b    (A1)+,$0005(A5)
+000210  1b59 0004                     MOVE.b    (A1)+,$0004(A5)
+000214  1019                          MOVE.b    (A1)+,D0
+000216  d040                          ADD.w     D0,D0
+000218  3233 0000                     MOVE.w    $00(A3,D0),D1
+00021c  4ef3 1000                     JMP       $00(A3,D1)
+...
+        op_ff:                        ; rst 38h
+001f2c  93ce                          SUBA.l    A6,A1
+001f2e  3009                          MOVE.w    A1,D0
+001f30  1200                          MOVE.b    D0,D1
+001f32  e058                          ROR.w     #8,D0
+001f34  1500                          MOVE.b    D0,-(A2)
+001f36  1501                          MOVE.b    D1,-(A2)
+001f38  43ee 0038                     LEA       $0038(A6),A1
+001f3c  4240                          CLR.w     D0
+001f3e  1019                          MOVE.b    (A1)+,D0
+001f40  d040                          ADD.w     D0,D0
+001f42  3233 0000                     MOVE.w    $00(A3,D0),D1
+001f46  4ef3 1000                     JMP       $00(A3,D1)
+        table_opcb:
+001f4a                                dc.w  table_opcb - op_cb00
+001f4c                                dc.w  table_opcb - op_cb01
+...
+001fa6                                dc.w  table_opcb - op_cb2e
+001fa8                                dc.w  table_opcb - op_cb2f
+001faa                                dc.w  table_opcb - op_undefined
+001fac                                dc.w  table_opcb - op_undefined
+001fae                                dc.w  table_opcb - op_undefined
+001fb0                                dc.w  table_opcb - op_undefined
+001fb2                                dc.w  table_opcb - op_undefined
+001fb4                                dc.w  table_opcb - op_undefined
+001fb6                                dc.w  table_opcb - op_undefined
+001fb8                                dc.w  table_opcb - op_undefined
+001fba                                dc.w  table_opcb - op_cb38
+001fbc                                dc.w  table_opcb - op_cb39
+...
+002146                                dc.w  table_opcb - op_cbfe
+002148                                dc.w  table_opcb - op_cbff
+        op_cb00:                      ; rlc b
+00214a  122d 0004                     MOVE.b    ($0004,a5),D1
+00214e  e319                          ROL.b     #1,D1
+002150  5bc2                          SMI       D2
+002152  57c3                          SEQ       D3
+002154  55c6                          SCS       D6
+002156  1b41 0004                     MOVE.b    D1,$0004(A5)
+00215a  1019                          MOVE.b    (A1)+,D0
+00215c  d040                          ADD.w     D0,D0
+00215e  3233 0000                     MOVE.w    $00(A3,D0),D1
+002162  4ef3 1000                     JMP       $00(A3,D1)
+...
+...
+...
+        op_ddcbfe:                    ; set 7,(ix+d)
+0051a2  08f6 0007 1800                BSET      #$07,$00(A6,D1.l)
+0051a8  4240                          CLR.w     D0
+0051aa  1019                          MOVE.b    (A1)+,D0
+0051ac  d040                          ADD.w     D0,D0
+0051ae  3233 0000                     MOVE.w    $00(A3,D0),D1
+0051b2  4ef3 1000                     JMP       $00(A3,D1)
+```
+
+

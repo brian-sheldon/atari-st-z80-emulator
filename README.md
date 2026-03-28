@@ -9,6 +9,8 @@ At this point, I was able to start examining the code of this emulator.  This CP
 
 Currently, I have so far managed to extract the jump tables and code for all the instructions.  I have yet to go through all the code and replace any hardcoded references with labels.  Plus, not of the support routines used by this code have not been included.  At this point, the tables and code I have constructed, does not match the address of the running code in the CP/M emulator.  Therefore, some of the code may attempt to address absolute addresses that would not be valid.  But the primary purpose of having this code as a reference for how one might emulate the various instructions has mostly been fulfilled.  I still need to add some info on how the various 68000 registers are used and some of the variables stored in memory are used, in order for this code to be easier to understand.
 
+### Sample pieces of the extracted code
+
 ```
         table_op:
 000000                                dc.w  table_op - op_00

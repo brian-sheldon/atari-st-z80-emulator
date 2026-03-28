@@ -1,260 +1,260 @@
         table_op:
-000000                                dc.w  table_op - op_00
-000002                                dc.w  table_op - op_01
-000004                                dc.w  table_op - op_02
-000006                                dc.w  table_op - op_03
-000008                                dc.w  table_op - op_04
-00000a                                dc.w  table_op - op_05
-00000c                                dc.w  table_op - op_06
-00000e                                dc.w  table_op - op_07
-000010                                dc.w  table_op - op_08
-000012                                dc.w  table_op - op_09
-000014                                dc.w  table_op - op_0a
-000016                                dc.w  table_op - op_0b
-000018                                dc.w  table_op - op_0c
-00001a                                dc.w  table_op - op_0d
-00001c                                dc.w  table_op - op_0e
-00001e                                dc.w  table_op - op_0f
-000020                                dc.w  table_op - op_10
-000022                                dc.w  table_op - op_11
-000024                                dc.w  table_op - op_12
-000026                                dc.w  table_op - op_13
-000028                                dc.w  table_op - op_14
-00002a                                dc.w  table_op - op_15
-00002c                                dc.w  table_op - op_16
-00002e                                dc.w  table_op - op_17
-000030                                dc.w  table_op - op_18
-000032                                dc.w  table_op - op_19
-000034                                dc.w  table_op - op_1a
-000036                                dc.w  table_op - op_1b
-000038                                dc.w  table_op - op_1c
-00003a                                dc.w  table_op - op_1d
-00003c                                dc.w  table_op - op_1e
-00003e                                dc.w  table_op - op_1f
-000040                                dc.w  table_op - op_20
-000042                                dc.w  table_op - op_21
-000044                                dc.w  table_op - op_22
-000046                                dc.w  table_op - op_23
-000048                                dc.w  table_op - op_24
-00004a                                dc.w  table_op - op_25
-00004c                                dc.w  table_op - op_26
-00004e                                dc.w  table_op - op_27
-000050                                dc.w  table_op - op_28
-000052                                dc.w  table_op - op_29
-000054                                dc.w  table_op - op_2a
-000056                                dc.w  table_op - op_2b
-000058                                dc.w  table_op - op_2c
-00005a                                dc.w  table_op - op_2d
-00005c                                dc.w  table_op - op_2e
-00005e                                dc.w  table_op - op_2f
-000060                                dc.w  table_op - op_30
-000062                                dc.w  table_op - op_31
-000064                                dc.w  table_op - op_32
-000066                                dc.w  table_op - op_33
-000068                                dc.w  table_op - op_34
-00006a                                dc.w  table_op - op_35
-00006c                                dc.w  table_op - op_36
-00006e                                dc.w  table_op - op_37
-000070                                dc.w  table_op - op_38
-000072                                dc.w  table_op - op_39
-000074                                dc.w  table_op - op_3a
-000076                                dc.w  table_op - op_3b
-000078                                dc.w  table_op - op_3c
-00007a                                dc.w  table_op - op_3d
-00007c                                dc.w  table_op - op_3e
-00007e                                dc.w  table_op - op_3f
-000080                                dc.w  table_op - op_40
-000082                                dc.w  table_op - op_41
-000084                                dc.w  table_op - op_42
-000086                                dc.w  table_op - op_43
-000088                                dc.w  table_op - op_44
-00008a                                dc.w  table_op - op_45
-00008c                                dc.w  table_op - op_46
-00008e                                dc.w  table_op - op_47
-000090                                dc.w  table_op - op_48
-000092                                dc.w  table_op - op_49
-000094                                dc.w  table_op - op_4a
-000096                                dc.w  table_op - op_4b
-000098                                dc.w  table_op - op_4c
-00009a                                dc.w  table_op - op_4d
-00009c                                dc.w  table_op - op_4e
-00009e                                dc.w  table_op - op_4f
-0000a0                                dc.w  table_op - op_50
-0000a2                                dc.w  table_op - op_51
-0000a4                                dc.w  table_op - op_52
-0000a6                                dc.w  table_op - op_53
-0000a8                                dc.w  table_op - op_54
-0000aa                                dc.w  table_op - op_55
-0000ac                                dc.w  table_op - op_56
-0000ae                                dc.w  table_op - op_57
-0000b0                                dc.w  table_op - op_58
-0000b2                                dc.w  table_op - op_59
-0000b4                                dc.w  table_op - op_5a
-0000b6                                dc.w  table_op - op_5b
-0000b8                                dc.w  table_op - op_5c
-0000ba                                dc.w  table_op - op_5d
-0000bc                                dc.w  table_op - op_5e
-0000be                                dc.w  table_op - op_5f
-0000c0                                dc.w  table_op - op_60
-0000c2                                dc.w  table_op - op_61
-0000c4                                dc.w  table_op - op_62
-0000c6                                dc.w  table_op - op_63
-0000c8                                dc.w  table_op - op_64
-0000ca                                dc.w  table_op - op_65
-0000cc                                dc.w  table_op - op_66
-0000ce                                dc.w  table_op - op_67
-0000d0                                dc.w  table_op - op_68
-0000d2                                dc.w  table_op - op_69
-0000d4                                dc.w  table_op - op_6a
-0000d6                                dc.w  table_op - op_6b
-0000d8                                dc.w  table_op - op_6c
-0000da                                dc.w  table_op - op_6d
-0000dc                                dc.w  table_op - op_6e
-0000de                                dc.w  table_op - op_6f
-0000e0                                dc.w  table_op - op_70
-0000e2                                dc.w  table_op - op_71
-0000e4                                dc.w  table_op - op_72
-0000e6                                dc.w  table_op - op_73
-0000e8                                dc.w  table_op - op_74
-0000ea                                dc.w  table_op - op_75
-0000ec                                dc.w  table_op - op_76
-0000ee                                dc.w  table_op - op_77
-0000f0                                dc.w  table_op - op_78
-0000f2                                dc.w  table_op - op_79
-0000f4                                dc.w  table_op - op_7a
-0000f6                                dc.w  table_op - op_7b
-0000f8                                dc.w  table_op - op_7c
-0000fa                                dc.w  table_op - op_7d
-0000fc                                dc.w  table_op - op_7e
-0000fe                                dc.w  table_op - op_7f
-000100                                dc.w  table_op - op_80
-000102                                dc.w  table_op - op_81
-000104                                dc.w  table_op - op_82
-000106                                dc.w  table_op - op_83
-000108                                dc.w  table_op - op_84
-00010a                                dc.w  table_op - op_85
-00010c                                dc.w  table_op - op_86
-00010e                                dc.w  table_op - op_87
-000110                                dc.w  table_op - op_88
-000112                                dc.w  table_op - op_89
-000114                                dc.w  table_op - op_8a
-000116                                dc.w  table_op - op_8b
-000118                                dc.w  table_op - op_8c
-00011a                                dc.w  table_op - op_8d
-00011c                                dc.w  table_op - op_8e
-00011e                                dc.w  table_op - op_8f
-000120                                dc.w  table_op - op_90
-000122                                dc.w  table_op - op_91
-000124                                dc.w  table_op - op_92
-000126                                dc.w  table_op - op_93
-000128                                dc.w  table_op - op_94
-00012a                                dc.w  table_op - op_95
-00012c                                dc.w  table_op - op_96
-00012e                                dc.w  table_op - op_97
-000130                                dc.w  table_op - op_98
-000132                                dc.w  table_op - op_99
-000134                                dc.w  table_op - op_9a
-000136                                dc.w  table_op - op_9b
-000138                                dc.w  table_op - op_9c
-00013a                                dc.w  table_op - op_9d
-00013c                                dc.w  table_op - op_9e
-00013e                                dc.w  table_op - op_9f
-000140                                dc.w  table_op - op_a0
-000142                                dc.w  table_op - op_a1
-000144                                dc.w  table_op - op_a2
-000146                                dc.w  table_op - op_a3
-000148                                dc.w  table_op - op_a4
-00014a                                dc.w  table_op - op_a5
-00014c                                dc.w  table_op - op_a6
-00014e                                dc.w  table_op - op_a7
-000150                                dc.w  table_op - op_a8
-000152                                dc.w  table_op - op_a9
-000154                                dc.w  table_op - op_aa
-000156                                dc.w  table_op - op_ab
-000158                                dc.w  table_op - op_ac
-00015a                                dc.w  table_op - op_ad
-00015c                                dc.w  table_op - op_ae
-00015e                                dc.w  table_op - op_af
-000160                                dc.w  table_op - op_b0
-000162                                dc.w  table_op - op_b1
-000164                                dc.w  table_op - op_b2
-000166                                dc.w  table_op - op_b3
-000168                                dc.w  table_op - op_b4
-00016a                                dc.w  table_op - op_b5
-00016c                                dc.w  table_op - op_b6
-00016e                                dc.w  table_op - op_b7
-000170                                dc.w  table_op - op_b8
-000172                                dc.w  table_op - op_b9
-000174                                dc.w  table_op - op_ba
-000176                                dc.w  table_op - op_bb
-000178                                dc.w  table_op - op_bc
-00017a                                dc.w  table_op - op_bd
-00017c                                dc.w  table_op - op_be
-00017e                                dc.w  table_op - op_bf
-000180                                dc.w  table_op - op_c0
-000182                                dc.w  table_op - op_c1
-000184                                dc.w  table_op - op_c2
-000186                                dc.w  table_op - op_c3
-000188                                dc.w  table_op - op_c4
-00018a                                dc.w  table_op - op_c5
-00018c                                dc.w  table_op - op_c6
-00018e                                dc.w  table_op - op_c7
-000190                                dc.w  table_op - op_c8
-000192                                dc.w  table_op - op_c9
-000194                                dc.w  table_op - op_ca
-000196                                dc.w  table_op - op_cb
-000198                                dc.w  table_op - op_cc
-00019a                                dc.w  table_op - op_cd
-00019c                                dc.w  table_op - op_ce
-00019e                                dc.w  table_op - op_cf
-0001a0                                dc.w  table_op - op_d0
-0001a2                                dc.w  table_op - op_d1
-0001a4                                dc.w  table_op - op_d2
-0001a6                                dc.w  table_op - op_d3
-0001a8                                dc.w  table_op - op_d4
-0001aa                                dc.w  table_op - op_d5
-0001ac                                dc.w  table_op - op_d6
-0001ae                                dc.w  table_op - op_d7
-0001b0                                dc.w  table_op - op_d8
-0001b2                                dc.w  table_op - op_d9
-0001b4                                dc.w  table_op - op_da
-0001b6                                dc.w  table_op - op_db
-0001b8                                dc.w  table_op - op_dc
-0001ba                                dc.w  table_op - op_dd
-0001bc                                dc.w  table_op - op_de
-0001be                                dc.w  table_op - op_df
-0001c0                                dc.w  table_op - op_e0
-0001c2                                dc.w  table_op - op_e1
-0001c4                                dc.w  table_op - op_e2
-0001c6                                dc.w  table_op - op_e3
-0001c8                                dc.w  table_op - op_e4
-0001ca                                dc.w  table_op - op_e5
-0001cc                                dc.w  table_op - op_e6
-0001ce                                dc.w  table_op - op_e7
-0001d0                                dc.w  table_op - op_e8
-0001d2                                dc.w  table_op - op_e9
-0001d4                                dc.w  table_op - op_ea
-0001d6                                dc.w  table_op - op_eb
-0001d8                                dc.w  table_op - op_ec
-0001da                                dc.w  table_op - op_ed
-0001dc                                dc.w  table_op - op_ee
-0001de                                dc.w  table_op - op_ef
-0001e0                                dc.w  table_op - op_f0
-0001e2                                dc.w  table_op - op_f1
-0001e4                                dc.w  table_op - op_f2
-0001e6                                dc.w  table_op - op_f3
-0001e8                                dc.w  table_op - op_f4
-0001ea                                dc.w  table_op - op_f5
-0001ec                                dc.w  table_op - op_f6
-0001ee                                dc.w  table_op - op_f7
-0001f0                                dc.w  table_op - op_f8
-0001f2                                dc.w  table_op - op_f9
-0001f4                                dc.w  table_op - op_fa
-0001f6                                dc.w  table_op - op_fb
-0001f8                                dc.w  table_op - op_fc
-0001fa                                dc.w  table_op - op_fd
-0001fc                                dc.w  table_op - op_fe
-0001fe                                dc.w  table_op - op_ff
+000000  0200                          op_00 - dc.w  table_op
+000002  020c                          op_01 - dc.w  table_op
+000004  0220                          op_02 - dc.w  table_op
+000006  0234                          op_03 - dc.w  table_op
+000008  0244                          op_04 - dc.w  table_op
+00000a  0268                          op_05 - dc.w  table_op
+00000c  028c                          op_06 - dc.w  table_op
+00000e  029c                          op_07 - dc.w  table_op
+000010  02ac                          op_08 - dc.w  table_op
+000012  0310                          op_09 - dc.w  table_op
+000014  0324                          op_0a - dc.w  table_op
+000016  0338                          op_0b - dc.w  table_op
+000018  0348                          op_0c - dc.w  table_op
+00001a  036c                          op_0d - dc.w  table_op
+00001c  0390                          op_0e - dc.w  table_op
+00001e  03a0                          op_0f - dc.w  table_op
+000020  03b0                          op_10 - dc.w  table_op
+000022  03d6                          op_11 - dc.w  table_op
+000024  03ea                          op_12 - dc.w  table_op
+000026  03fe                          op_13 - dc.w  table_op
+000028  040e                          op_14 - dc.w  table_op
+00002a  0432                          op_15 - dc.w  table_op
+00002c  0456                          op_16 - dc.w  table_op
+00002e  0466                          op_17 - dc.w  table_op
+000030  0478                          op_18 - dc.w  table_op
+000032  048a                          op_19 - dc.w  table_op
+000034  049e                          op_1a - dc.w  table_op
+000036  04b2                          op_1b - dc.w  table_op
+000038  04c2                          op_1c - dc.w  table_op
+00003a  04e6                          op_1d - dc.w  table_op
+00003c  050a                          op_1e - dc.w  table_op
+00003e  051a                          op_1f - dc.w  table_op
+000040  052c                          op_20 - dc.w  table_op
+000042  0550                          op_21 - dc.w  table_op
+000044  0562                          op_22 - dc.w  table_op
+000046  0580                          op_23 - dc.w  table_op
+000048  058e                          op_24 - dc.w  table_op
+00004a  05ae                          op_25 - dc.w  table_op
+00004c  05ce                          op_26 - dc.w  table_op
+00004e  05dc                          op_27 - dc.w  table_op
+000050  0660                          op_28 - dc.w  table_op
+000052  0684                          op_29 - dc.w  table_op
+000054  0694                          op_2a - dc.w  table_op
+000056  06b2                          op_2b - dc.w  table_op
+000058  06c0                          op_2c - dc.w  table_op
+00005a  06e4                          op_2d - dc.w  table_op
+00005c  0708                          op_2e - dc.w  table_op
+00005e  0718                          op_2f - dc.w  table_op
+000060  072c                          op_30 - dc.w  table_op
+000062  0750                          op_31 - dc.w  table_op
+000064  0768                          op_32 - dc.w  table_op
+000066  0780                          op_33 - dc.w  table_op
+000068  078e                          op_34 - dc.w  table_op
+00006a  07b4                          op_35 - dc.w  table_op
+00006c  07da                          op_36 - dc.w  table_op
+00006e  07ec                          op_37 - dc.w  table_op
+000070  07fc                          op_38 - dc.w  table_op
+000072  0820                          op_39 - dc.w  table_op
+000074  0834                          op_3a - dc.w  table_op
+000076  084c                          op_3b - dc.w  table_op
+000078  085a                          op_3c - dc.w  table_op
+00007a  087a                          op_3d - dc.w  table_op
+00007c  089a                          op_3e - dc.w  table_op
+00007e  08a8                          op_3f - dc.w  table_op
+000080  08b6                          op_40 - dc.w  table_op
+000082  08c2                          op_41 - dc.w  table_op
+000084  08d4                          op_42 - dc.w  table_op
+000086  08e6                          op_43 - dc.w  table_op
+000088  08f8                          op_44 - dc.w  table_op
+00008a  0908                          op_45 - dc.w  table_op
+00008c  091a                          op_46 - dc.w  table_op
+00008e  092e                          op_47 - dc.w  table_op
+000090  093e                          op_48 - dc.w  table_op
+000092  0950                          op_49 - dc.w  table_op
+000094  095c                          op_4a - dc.w  table_op
+000096  096e                          op_4b - dc.w  table_op
+000098  0980                          op_4c - dc.w  table_op
+00009a  0990                          op_4d - dc.w  table_op
+00009c  09a2                          op_4e - dc.w  table_op
+00009e  09b6                          op_4f - dc.w  table_op
+0000a0  09c6                          op_50 - dc.w  table_op
+0000a2  09d8                          op_51 - dc.w  table_op
+0000a4  09ea                          op_52 - dc.w  table_op
+0000a6  09f6                          op_53 - dc.w  table_op
+0000a8  0a08                          op_54 - dc.w  table_op
+0000aa  0a18                          op_55 - dc.w  table_op
+0000ac  0a2a                          op_56 - dc.w  table_op
+0000ae  0a3e                          op_57 - dc.w  table_op
+0000b0  0a4e                          op_58 - dc.w  table_op
+0000b2  0a60                          op_59 - dc.w  table_op
+0000b4  0a72                          op_5a - dc.w  table_op
+0000b6  0a84                          op_5b - dc.w  table_op
+0000b8  0a90                          op_5c - dc.w  table_op
+0000ba  0aa0                          op_5d - dc.w  table_op
+0000bc  0ab2                          op_5e - dc.w  table_op
+0000be  0ac6                          op_5f - dc.w  table_op
+0000c0  0ad6                          op_60 - dc.w  table_op
+0000c2  0ae6                          op_61 - dc.w  table_op
+0000c4  0af6                          op_62 - dc.w  table_op
+0000c6  0b06                          op_63 - dc.w  table_op
+0000c8  0b16                          op_64 - dc.w  table_op
+0000ca  0b22                          op_65 - dc.w  table_op
+0000cc  0b32                          op_66 - dc.w  table_op
+0000ce  0b44                          op_67 - dc.w  table_op
+0000d0  0b52                          op_68 - dc.w  table_op
+0000d2  0b64                          op_69 - dc.w  table_op
+0000d4  0b76                          op_6a - dc.w  table_op
+0000d6  0b88                          op_6b - dc.w  table_op
+0000d8  0b9a                          op_6c - dc.w  table_op
+0000da  0baa                          op_6d - dc.w  table_op
+0000dc  0bb6                          op_6e - dc.w  table_op
+0000de  0bca                          op_6f - dc.w  table_op
+0000e0  0bda                          op_70 - dc.w  table_op
+0000e2  0bee                          op_71 - dc.w  table_op
+0000e4  0c02                          op_72 - dc.w  table_op
+0000e6  0c16                          op_73 - dc.w  table_op
+0000e8  0c2a                          op_74 - dc.w  table_op
+0000ea  0c3c                          op_75 - dc.w  table_op
+0000ec  0c50                          op_76 - dc.w  table_op
+0000ee  0c78                          op_77 - dc.w  table_op
+0000f0  0c8a                          op_78 - dc.w  table_op
+0000f2  0c9a                          op_79 - dc.w  table_op
+0000f4  0caa                          op_7a - dc.w  table_op
+0000f6  0cba                          op_7b - dc.w  table_op
+0000f8  0cca                          op_7c - dc.w  table_op
+0000fa  0cd8                          op_7d - dc.w  table_op
+0000fc  0ce8                          op_7e - dc.w  table_op
+0000fe  0cfa                          op_7f - dc.w  table_op
+000100  0d06                          op_80 - dc.w  table_op
+000102  0d34                          op_81 - dc.w  table_op
+000104  0d62                          op_82 - dc.w  table_op
+000106  0d90                          op_83 - dc.w  table_op
+000108  0dbe                          op_84 - dc.w  table_op
+00010a  0dea                          op_85 - dc.w  table_op
+00010c  0e18                          op_86 - dc.w  table_op
+00010e  0e48                          op_87 - dc.w  table_op
+000110  0e6a                          op_88 - dc.w  table_op
+000112  0ea0                          op_89 - dc.w  table_op
+000114  0ed6                          op_8a - dc.w  table_op
+000116  0f0c                          op_8b - dc.w  table_op
+000118  0f42                          op_8c - dc.w  table_op
+00011a  0f76                          op_8d - dc.w  table_op
+00011c  0fac                          op_8e - dc.w  table_op
+00011e  0fe4                          op_8f - dc.w  table_op
+000120  100a                          op_90 - dc.w  table_op
+000122  1038                          op_91 - dc.w  table_op
+000124  1066                          op_92 - dc.w  table_op
+000126  1094                          op_93 - dc.w  table_op
+000128  10c2                          op_94 - dc.w  table_op
+00012a  10ee                          op_95 - dc.w  table_op
+00012c  111c                          op_96 - dc.w  table_op
+00012e  114c                          op_97 - dc.w  table_op
+000130  1168                          op_98 - dc.w  table_op
+000132  119e                          op_99 - dc.w  table_op
+000134  11d4                          op_9a - dc.w  table_op
+000136  120a                          op_9b - dc.w  table_op
+000138  1240                          op_9c - dc.w  table_op
+00013a  1274                          op_9d - dc.w  table_op
+00013c  12aa                          op_9e - dc.w  table_op
+00013e  12e2                          op_9f - dc.w  table_op
+000140  12fe                          op_a0 - dc.w  table_op
+000142  1316                          op_a1 - dc.w  table_op
+000144  132e                          op_a2 - dc.w  table_op
+000146  1346                          op_a3 - dc.w  table_op
+000148  135e                          op_a4 - dc.w  table_op
+00014a  1374                          op_a5 - dc.w  table_op
+00014c  138c                          op_a6 - dc.w  table_op
+00014e  13a6                          op_a7 - dc.w  table_op
+000150  13bc                          op_a8 - dc.w  table_op
+000152  13d6                          op_a9 - dc.w  table_op
+000154  13f0                          op_aa - dc.w  table_op
+000156  140a                          op_ab - dc.w  table_op
+000158  1424                          op_ac - dc.w  table_op
+00015a  143c                          op_ad - dc.w  table_op
+00015c  1456                          op_ae - dc.w  table_op
+00015e  1472                          op_af - dc.w  table_op
+000160  148a                          op_b0 - dc.w  table_op
+000162  14a2                          op_b1 - dc.w  table_op
+000164  14ba                          op_b2 - dc.w  table_op
+000166  14d2                          op_b3 - dc.w  table_op
+000168  14ea                          op_b4 - dc.w  table_op
+00016a  1500                          op_b5 - dc.w  table_op
+00016c  1518                          op_b6 - dc.w  table_op
+00016e  1532                          op_b7 - dc.w  table_op
+000170  154c                          op_b8 - dc.w  table_op
+000172  1566                          op_b9 - dc.w  table_op
+000174  1580                          op_ba - dc.w  table_op
+000176  159a                          op_bb - dc.w  table_op
+000178  15b4                          op_bc - dc.w  table_op
+00017a  15cc                          op_bd - dc.w  table_op
+00017c  15e6                          op_be - dc.w  table_op
+00017e  1602                          op_bf - dc.w  table_op
+000180  1618                          op_c0 - dc.w  table_op
+000182  1644                          op_c1 - dc.w  table_op
+000184  165a                          op_c2 - dc.w  table_op
+000186  1688                          op_c3 - dc.w  table_op
+000188  16a2                          op_c4 - dc.w  table_op
+00018a  16dc                          op_c5 - dc.w  table_op
+00018c  16f2                          op_c6 - dc.w  table_op
+00018e  171e                          op_c7 - dc.w  table_op
+000190  173a                          op_c8 - dc.w  table_op
+000192  1766                          op_c9 - dc.w  table_op
+000194  1780                          op_ca - dc.w  table_op
+000196  17ae                          op_cb - dc.w  table_op
+000198  17c0                          op_cc - dc.w  table_op
+00019a  17fa                          op_cd - dc.w  table_op
+00019c  1820                          op_ce - dc.w  table_op
+00019e  1854                          op_cf - dc.w  table_op
+0001a0  1872                          op_d0 - dc.w  table_op
+0001a2  189e                          op_d1 - dc.w  table_op
+0001a4  18b4                          op_d2 - dc.w  table_op
+0001a6  18e2                          op_d3 - dc.w  table_op
+0001a8  190c                          op_d4 - dc.w  table_op
+0001aa  1946                          op_d5 - dc.w  table_op
+0001ac  195c                          op_d6 - dc.w  table_op
+0001ae  1988                          op_d7 - dc.w  table_op
+0001b0  19a6                          op_d8 - dc.w  table_op
+0001b2  19d2                          op_d9 - dc.w  table_op
+0001b4  19f8                          op_da - dc.w  table_op
+0001b6  1a26                          op_db - dc.w  table_op
+0001b8  1a52                          op_dc - dc.w  table_op
+0001ba  1a8c                          op_dd - dc.w  table_op
+0001bc  1a9e                          op_de - dc.w  table_op
+0001be  1ad2                          op_df - dc.w  table_op
+0001c0  1af0                          op_e0 - dc.w  table_op
+0001c2  1b1c                          op_e1 - dc.w  table_op
+0001c4  1b30                          op_e2 - dc.w  table_op
+0001c6  1b5e                          op_e3 - dc.w  table_op
+0001c8  1b7c                          op_e4 - dc.w  table_op
+0001ca  1bb6                          op_e5 - dc.w  table_op
+0001cc  1bca                          op_e6 - dc.w  table_op
+0001ce  1be0                          op_e7 - dc.w  table_op
+0001d0  1bfe                          op_e8 - dc.w  table_op
+0001d2  1c2a                          op_e9 - dc.w  table_op
+0001d4  1c3e                          op_ea - dc.w  table_op
+0001d6  1c6c                          op_eb - dc.w  table_op
+0001d8  1c84                          op_ec - dc.w  table_op
+0001da  1cbe                          op_ed - dc.w  table_op
+0001dc  1cd0                          op_ee - dc.w  table_op
+0001de  1ce8                          op_ef - dc.w  table_op
+0001e0  1d06                          op_f0 - dc.w  table_op
+0001e2  1d32                          op_f1 - dc.w  table_op
+0001e4  1d68                          op_f2 - dc.w  table_op
+0001e6  1d96                          op_f3 - dc.w  table_op
+0001e8  1da4                          op_f4 - dc.w  table_op
+0001ea  1dde                          op_f5 - dc.w  table_op
+0001ec  1e18                          op_f6 - dc.w  table_op
+0001ee  1e2e                          op_f7 - dc.w  table_op
+0001f0  1e4c                          op_f8 - dc.w  table_op
+0001f2  1e78                          op_f9 - dc.w  table_op
+0001f4  1e8c                          op_fa - dc.w  table_op
+0001f6  1eba                          op_fb - dc.w  table_op
+0001f8  1ec8                          op_fc - dc.w  table_op
+0001fa  1f02                          op_fd - dc.w  table_op
+0001fc  1f14                          op_fe - dc.w  table_op
+0001fe  1f2c                          op_ff - dc.w  table_op
         op_00:                        ; nop
 000200  1019                          MOVE.b    (A1)+,D0
 000202  d040                          ADD.w     D0,D0
@@ -3253,262 +3253,262 @@
 001f42  3233 0000                     MOVE.w    $00(A3,D0),D1
 001f46  4ef3 1000                     JMP       $00(A3,D1)
         table_opcb:
-001f4a                                dc.w  table_opcb - op_cb00
-001f4c                                dc.w  table_opcb - op_cb01
-001f4e                                dc.w  table_opcb - op_cb02
-001f50                                dc.w  table_opcb - op_cb03
-001f52                                dc.w  table_opcb - op_cb04
-001f54                                dc.w  table_opcb - op_cb05
-001f56                                dc.w  table_opcb - op_cb06
-001f58                                dc.w  table_opcb - op_cb07
-001f5a                                dc.w  table_opcb - op_cb08
-001f5c                                dc.w  table_opcb - op_cb09
-001f5e                                dc.w  table_opcb - op_cb0a
-001f60                                dc.w  table_opcb - op_cb0b
-001f62                                dc.w  table_opcb - op_cb0c
-001f64                                dc.w  table_opcb - op_cb0d
-001f66                                dc.w  table_opcb - op_cb0e
-001f68                                dc.w  table_opcb - op_cb0f
-001f6a                                dc.w  table_opcb - op_cb10
-001f6c                                dc.w  table_opcb - op_cb11
-001f6e                                dc.w  table_opcb - op_cb12
-001f70                                dc.w  table_opcb - op_cb13
-001f72                                dc.w  table_opcb - op_cb14
-001f74                                dc.w  table_opcb - op_cb15
-001f76                                dc.w  table_opcb - op_cb16
-001f78                                dc.w  table_opcb - op_cb17
-001f7a                                dc.w  table_opcb - op_cb18
-001f7c                                dc.w  table_opcb - op_cb19
-001f7e                                dc.w  table_opcb - op_cb1a
-001f80                                dc.w  table_opcb - op_cb1b
-001f82                                dc.w  table_opcb - op_cb1c
-001f84                                dc.w  table_opcb - op_cb1d
-001f86                                dc.w  table_opcb - op_cb1e
-001f88                                dc.w  table_opcb - op_cb1f
-001f8a                                dc.w  table_opcb - op_cb20
-001f8c                                dc.w  table_opcb - op_cb21
-001f8e                                dc.w  table_opcb - op_cb22
-001f90                                dc.w  table_opcb - op_cb23
-001f92                                dc.w  table_opcb - op_cb24
-001f94                                dc.w  table_opcb - op_cb25
-001f96                                dc.w  table_opcb - op_cb26
-001f98                                dc.w  table_opcb - op_cb27
-001f9a                                dc.w  table_opcb - op_cb28
-001f9c                                dc.w  table_opcb - op_cb29
-001f9e                                dc.w  table_opcb - op_cb2a
-001fa0                                dc.w  table_opcb - op_cb2b
-001fa2                                dc.w  table_opcb - op_cb2c
-001fa4                                dc.w  table_opcb - op_cb2d
-001fa6                                dc.w  table_opcb - op_cb2e
-001fa8                                dc.w  table_opcb - op_cb2f
-001faa                                dc.w  table_opcb - op_undefined
-001fac                                dc.w  table_opcb - op_undefined
-001fae                                dc.w  table_opcb - op_undefined
-001fb0                                dc.w  table_opcb - op_undefined
-001fb2                                dc.w  table_opcb - op_undefined
-001fb4                                dc.w  table_opcb - op_undefined
-001fb6                                dc.w  table_opcb - op_undefined
-001fb8                                dc.w  table_opcb - op_undefined
-001fba                                dc.w  table_opcb - op_cb38
-001fbc                                dc.w  table_opcb - op_cb39
-001fbe                                dc.w  table_opcb - op_cb3a
-001fc0                                dc.w  table_opcb - op_cb3b
-001fc2                                dc.w  table_opcb - op_cb3c
-001fc4                                dc.w  table_opcb - op_cb3d
-001fc6                                dc.w  table_opcb - op_cb3e
-001fc8                                dc.w  table_opcb - op_cb3f
-001fca                                dc.w  table_opcb - op_cb40
-001fcc                                dc.w  table_opcb - op_cb41
-001fce                                dc.w  table_opcb - op_cb42
-001fd0                                dc.w  table_opcb - op_cb43
-001fd2                                dc.w  table_opcb - op_cb44
-001fd4                                dc.w  table_opcb - op_cb45
-001fd6                                dc.w  table_opcb - op_cb46
-001fd8                                dc.w  table_opcb - op_cb47
-001fda                                dc.w  table_opcb - op_cb48
-001fdc                                dc.w  table_opcb - op_cb49
-001fde                                dc.w  table_opcb - op_cb4a
-001fe0                                dc.w  table_opcb - op_cb4b
-001fe2                                dc.w  table_opcb - op_cb4c
-001fe4                                dc.w  table_opcb - op_cb4d
-001fe6                                dc.w  table_opcb - op_cb4e
-001fe8                                dc.w  table_opcb - op_cb4f
-001fea                                dc.w  table_opcb - op_cb50
-001fec                                dc.w  table_opcb - op_cb51
-001fee                                dc.w  table_opcb - op_cb52
-001ff0                                dc.w  table_opcb - op_cb53
-001ff2                                dc.w  table_opcb - op_cb54
-001ff4                                dc.w  table_opcb - op_cb55
-001ff6                                dc.w  table_opcb - op_cb56
-001ff8                                dc.w  table_opcb - op_cb57
-001ffa                                dc.w  table_opcb - op_cb58
-001ffc                                dc.w  table_opcb - op_cb59
-001ffe                                dc.w  table_opcb - op_cb5a
-002000                                dc.w  table_opcb - op_cb5b
-002002                                dc.w  table_opcb - op_cb5c
-002004                                dc.w  table_opcb - op_cb5d
-002006                                dc.w  table_opcb - op_cb5e
-002008                                dc.w  table_opcb - op_cb5f
-00200a                                dc.w  table_opcb - op_cb60
-00200c                                dc.w  table_opcb - op_cb61
-00200e                                dc.w  table_opcb - op_cb62
-002010                                dc.w  table_opcb - op_cb63
-002012                                dc.w  table_opcb - op_cb64
-002014                                dc.w  table_opcb - op_cb65
-002016                                dc.w  table_opcb - op_cb66
-002018                                dc.w  table_opcb - op_cb67
-00201a                                dc.w  table_opcb - op_cb68
-00201c                                dc.w  table_opcb - op_cb69
-00201e                                dc.w  table_opcb - op_cb6a
-002020                                dc.w  table_opcb - op_cb6b
-002022                                dc.w  table_opcb - op_cb6c
-002024                                dc.w  table_opcb - op_cb6d
-002026                                dc.w  table_opcb - op_cb6e
-002028                                dc.w  table_opcb - op_cb6f
-00202a                                dc.w  table_opcb - op_cb70
-00202c                                dc.w  table_opcb - op_cb71
-00202e                                dc.w  table_opcb - op_cb72
-002030                                dc.w  table_opcb - op_cb73
-002032                                dc.w  table_opcb - op_cb74
-002034                                dc.w  table_opcb - op_cb75
-002036                                dc.w  table_opcb - op_cb76
-002038                                dc.w  table_opcb - op_cb77
-00203a                                dc.w  table_opcb - op_cb78
-00203c                                dc.w  table_opcb - op_cb79
-00203e                                dc.w  table_opcb - op_cb7a
-002040                                dc.w  table_opcb - op_cb7b
-002042                                dc.w  table_opcb - op_cb7c
-002044                                dc.w  table_opcb - op_cb7d
-002046                                dc.w  table_opcb - op_cb7e
-002048                                dc.w  table_opcb - op_cb7f
-00204a                                dc.w  table_opcb - op_cb80
-00204c                                dc.w  table_opcb - op_cb81
-00204e                                dc.w  table_opcb - op_cb82
-002050                                dc.w  table_opcb - op_cb83
-002052                                dc.w  table_opcb - op_cb84
-002054                                dc.w  table_opcb - op_cb85
-002056                                dc.w  table_opcb - op_cb86
-002058                                dc.w  table_opcb - op_cb87
-00205a                                dc.w  table_opcb - op_cb88
-00205c                                dc.w  table_opcb - op_cb89
-00205e                                dc.w  table_opcb - op_cb8a
-002060                                dc.w  table_opcb - op_cb8b
-002062                                dc.w  table_opcb - op_cb8c
-002064                                dc.w  table_opcb - op_cb8d
-002066                                dc.w  table_opcb - op_cb8e
-002068                                dc.w  table_opcb - op_cb8f
-00206a                                dc.w  table_opcb - op_cb90
-00206c                                dc.w  table_opcb - op_cb91
-00206e                                dc.w  table_opcb - op_cb92
-002070                                dc.w  table_opcb - op_cb93
-002072                                dc.w  table_opcb - op_cb94
-002074                                dc.w  table_opcb - op_cb95
-002076                                dc.w  table_opcb - op_cb96
-002078                                dc.w  table_opcb - op_cb97
-00207a                                dc.w  table_opcb - op_cb98
-00207c                                dc.w  table_opcb - op_cb99
-00207e                                dc.w  table_opcb - op_cb9a
-002080                                dc.w  table_opcb - op_cb9b
-002082                                dc.w  table_opcb - op_cb9c
-002084                                dc.w  table_opcb - op_cb9d
-002086                                dc.w  table_opcb - op_cb9e
-002088                                dc.w  table_opcb - op_cb9f
-00208a                                dc.w  table_opcb - op_cba0
-00208c                                dc.w  table_opcb - op_cba1
-00208e                                dc.w  table_opcb - op_cba2
-002090                                dc.w  table_opcb - op_cba3
-002092                                dc.w  table_opcb - op_cba4
-002094                                dc.w  table_opcb - op_cba5
-002096                                dc.w  table_opcb - op_cba6
-002098                                dc.w  table_opcb - op_cba7
-00209a                                dc.w  table_opcb - op_cba8
-00209c                                dc.w  table_opcb - op_cba9
-00209e                                dc.w  table_opcb - op_cbaa
-0020a0                                dc.w  table_opcb - op_cbab
-0020a2                                dc.w  table_opcb - op_cbac
-0020a4                                dc.w  table_opcb - op_cbad
-0020a6                                dc.w  table_opcb - op_cbae
-0020a8                                dc.w  table_opcb - op_cbaf
-0020aa                                dc.w  table_opcb - op_cbb0
-0020ac                                dc.w  table_opcb - op_cbb1
-0020ae                                dc.w  table_opcb - op_cbb2
-0020b0                                dc.w  table_opcb - op_cbb3
-0020b2                                dc.w  table_opcb - op_cbb4
-0020b4                                dc.w  table_opcb - op_cbb5
-0020b6                                dc.w  table_opcb - op_cbb6
-0020b8                                dc.w  table_opcb - op_cbb7
-0020ba                                dc.w  table_opcb - op_cbb8
-0020bc                                dc.w  table_opcb - op_cbb9
-0020be                                dc.w  table_opcb - op_cbba
-0020c0                                dc.w  table_opcb - op_cbbb
-0020c2                                dc.w  table_opcb - op_cbbc
-0020c4                                dc.w  table_opcb - op_cbbd
-0020c6                                dc.w  table_opcb - op_cbbe
-0020c8                                dc.w  table_opcb - op_cbbf
-0020ca                                dc.w  table_opcb - op_cbc0
-0020cc                                dc.w  table_opcb - op_cbc1
-0020ce                                dc.w  table_opcb - op_cbc2
-0020d0                                dc.w  table_opcb - op_cbc3
-0020d2                                dc.w  table_opcb - op_cbc4
-0020d4                                dc.w  table_opcb - op_cbc5
-0020d6                                dc.w  table_opcb - op_cbc6
-0020d8                                dc.w  table_opcb - op_cbc7
-0020da                                dc.w  table_opcb - op_cbc8
-0020dc                                dc.w  table_opcb - op_cbc9
-0020de                                dc.w  table_opcb - op_cbca
-0020e0                                dc.w  table_opcb - op_cbcb
-0020e2                                dc.w  table_opcb - op_cbcc
-0020e4                                dc.w  table_opcb - op_cbcd
-0020e6                                dc.w  table_opcb - op_cbce
-0020e8                                dc.w  table_opcb - op_cbcf
-0020ea                                dc.w  table_opcb - op_cbd0
-0020ec                                dc.w  table_opcb - op_cbd1
-0020ee                                dc.w  table_opcb - op_cbd2
-0020f0                                dc.w  table_opcb - op_cbd3
-0020f2                                dc.w  table_opcb - op_cbd4
-0020f4                                dc.w  table_opcb - op_cbd5
-0020f6                                dc.w  table_opcb - op_cbd6
-0020f8                                dc.w  table_opcb - op_cbd7
-0020fa                                dc.w  table_opcb - op_cbd8
-0020fc                                dc.w  table_opcb - op_cbd9
-0020fe                                dc.w  table_opcb - op_cbda
-002100                                dc.w  table_opcb - op_cbdb
-002102                                dc.w  table_opcb - op_cbdc
-002104                                dc.w  table_opcb - op_cbdd
-002106                                dc.w  table_opcb - op_cbde
-002108                                dc.w  table_opcb - op_cbdf
-00210a                                dc.w  table_opcb - op_cbe0
-00210c                                dc.w  table_opcb - op_cbe1
-00210e                                dc.w  table_opcb - op_cbe2
-002110                                dc.w  table_opcb - op_cbe3
-002112                                dc.w  table_opcb - op_cbe4
-002114                                dc.w  table_opcb - op_cbe5
-002116                                dc.w  table_opcb - op_cbe6
-002118                                dc.w  table_opcb - op_cbe7
-00211a                                dc.w  table_opcb - op_cbe8
-00211c                                dc.w  table_opcb - op_cbe9
-00211e                                dc.w  table_opcb - op_cbea
-002120                                dc.w  table_opcb - op_cbeb
-002122                                dc.w  table_opcb - op_cbec
-002124                                dc.w  table_opcb - op_cbed
-002126                                dc.w  table_opcb - op_cbee
-002128                                dc.w  table_opcb - op_cbef
-00212a                                dc.w  table_opcb - op_cbf0
-00212c                                dc.w  table_opcb - op_cbf1
-00212e                                dc.w  table_opcb - op_cbf2
-002130                                dc.w  table_opcb - op_cbf3
-002132                                dc.w  table_opcb - op_cbf4
-002134                                dc.w  table_opcb - op_cbf5
-002136                                dc.w  table_opcb - op_cbf6
-002138                                dc.w  table_opcb - op_cbf7
-00213a                                dc.w  table_opcb - op_cbf8
-00213c                                dc.w  table_opcb - op_cbf9
-00213e                                dc.w  table_opcb - op_cbfa
-002140                                dc.w  table_opcb - op_cbfb
-002142                                dc.w  table_opcb - op_cbfc
-002144                                dc.w  table_opcb - op_cbfd
-002146                                dc.w  table_opcb - op_cbfe
-002148                                dc.w  table_opcb - op_cbff
+001f4a  0200                          op_cb00 - dc.w  table_opcb
+001f4c  021c                          op_cb01 - dc.w  table_opcb
+001f4e  0238                          op_cb02 - dc.w  table_opcb
+001f50  0254                          op_cb03 - dc.w  table_opcb
+001f52  0270                          op_cb04 - dc.w  table_opcb
+001f54  0288                          op_cb05 - dc.w  table_opcb
+001f56  02a4                          op_cb06 - dc.w  table_opcb
+001f58  02c2                          op_cb07 - dc.w  table_opcb
+001f5a  02d6                          op_cb08 - dc.w  table_opcb
+001f5c  02f2                          op_cb09 - dc.w  table_opcb
+001f5e  030e                          op_cb0a - dc.w  table_opcb
+001f60  032a                          op_cb0b - dc.w  table_opcb
+001f62  0346                          op_cb0c - dc.w  table_opcb
+001f64  035e                          op_cb0d - dc.w  table_opcb
+001f66  037a                          op_cb0e - dc.w  table_opcb
+001f68  0398                          op_cb0f - dc.w  table_opcb
+001f6a  03ac                          op_cb10 - dc.w  table_opcb
+001f6c  03ca                          op_cb11 - dc.w  table_opcb
+001f6e  03e8                          op_cb12 - dc.w  table_opcb
+001f70  0406                          op_cb13 - dc.w  table_opcb
+001f72  0424                          op_cb14 - dc.w  table_opcb
+001f74  043e                          op_cb15 - dc.w  table_opcb
+001f76  045c                          op_cb16 - dc.w  table_opcb
+001f78  047c                          op_cb17 - dc.w  table_opcb
+001f7a  0492                          op_cb18 - dc.w  table_opcb
+001f7c  04b0                          op_cb19 - dc.w  table_opcb
+001f7e  04ce                          op_cb1a - dc.w  table_opcb
+001f80  04ec                          op_cb1b - dc.w  table_opcb
+001f82  050a                          op_cb1c - dc.w  table_opcb
+001f84  0524                          op_cb1d - dc.w  table_opcb
+001f86  0542                          op_cb1e - dc.w  table_opcb
+001f88  0562                          op_cb1f - dc.w  table_opcb
+001f8a  0578                          op_cb20 - dc.w  table_opcb
+001f8c  0592                          op_cb21 - dc.w  table_opcb
+001f8e  05ac                          op_cb22 - dc.w  table_opcb
+001f90  05c6                          op_cb23 - dc.w  table_opcb
+001f92  05e0                          op_cb24 - dc.w  table_opcb
+001f94  05f6                          op_cb25 - dc.w  table_opcb
+001f96  0610                          op_cb26 - dc.w  table_opcb
+001f98  062c                          op_cb27 - dc.w  table_opcb
+001f9a  0640                          op_cb28 - dc.w  table_opcb
+001f9c  065c                          op_cb29 - dc.w  table_opcb
+001f9e  0678                          op_cb2a - dc.w  table_opcb
+001fa0  0694                          op_cb2b - dc.w  table_opcb
+001fa2  06b0                          op_cb2c - dc.w  table_opcb
+001fa4  06c8                          op_cb2d - dc.w  table_opcb
+001fa6  06e4                          op_cb2e - dc.w  table_opcb
+001fa8  0702                          op_cb2f - dc.w  table_opcb
+001faa  ffff                          op_undefined - dc.w  table_opcb
+001fac  ffff                          op_undefined - dc.w  table_opcb
+001fae  ffff                          op_undefined - dc.w  table_opcb
+001fb0  ffff                          op_undefined - dc.w  table_opcb
+001fb2  ffff                          op_undefined - dc.w  table_opcb
+001fb4  ffff                          op_undefined - dc.w  table_opcb
+001fb6  ffff                          op_undefined - dc.w  table_opcb
+001fb8  ffff                          op_undefined - dc.w  table_opcb
+001fba  0716                          op_cb38 - dc.w  table_opcb
+001fbc  0732                          op_cb39 - dc.w  table_opcb
+001fbe  074e                          op_cb3a - dc.w  table_opcb
+001fc0  076a                          op_cb3b - dc.w  table_opcb
+001fc2  0786                          op_cb3c - dc.w  table_opcb
+001fc4  079e                          op_cb3d - dc.w  table_opcb
+001fc6  07ba                          op_cb3e - dc.w  table_opcb
+001fc8  07d8                          op_cb3f - dc.w  table_opcb
+001fca  07ec                          op_cb40 - dc.w  table_opcb
+001fcc  0800                          op_cb41 - dc.w  table_opcb
+001fce  0814                          op_cb42 - dc.w  table_opcb
+001fd0  0828                          op_cb43 - dc.w  table_opcb
+001fd2  083c                          op_cb44 - dc.w  table_opcb
+001fd4  084e                          op_cb45 - dc.w  table_opcb
+001fd6  0862                          op_cb46 - dc.w  table_opcb
+001fd8  0878                          op_cb47 - dc.w  table_opcb
+001fda  088a                          op_cb48 - dc.w  table_opcb
+001fdc  089e                          op_cb49 - dc.w  table_opcb
+001fde  08b2                          op_cb4a - dc.w  table_opcb
+001fe0  08c6                          op_cb4b - dc.w  table_opcb
+001fe2  08da                          op_cb4c - dc.w  table_opcb
+001fe4  08ec                          op_cb4d - dc.w  table_opcb
+001fe6  0900                          op_cb4e - dc.w  table_opcb
+001fe8  0916                          op_cb4f - dc.w  table_opcb
+001fea  0928                          op_cb50 - dc.w  table_opcb
+001fec  093c                          op_cb51 - dc.w  table_opcb
+001fee  0950                          op_cb52 - dc.w  table_opcb
+001ff0  0964                          op_cb53 - dc.w  table_opcb
+001ff2  0978                          op_cb54 - dc.w  table_opcb
+001ff4  098a                          op_cb55 - dc.w  table_opcb
+001ff6  099e                          op_cb56 - dc.w  table_opcb
+001ff8  09b4                          op_cb57 - dc.w  table_opcb
+001ffa  09c6                          op_cb58 - dc.w  table_opcb
+001ffc  09da                          op_cb59 - dc.w  table_opcb
+001ffe  09ee                          op_cb5a - dc.w  table_opcb
+002000  0a02                          op_cb5b - dc.w  table_opcb
+002002  0a16                          op_cb5c - dc.w  table_opcb
+002004  0a28                          op_cb5d - dc.w  table_opcb
+002006  0a3c                          op_cb5e - dc.w  table_opcb
+002008  0a52                          op_cb5f - dc.w  table_opcb
+00200a  0a64                          op_cb60 - dc.w  table_opcb
+00200c  0a78                          op_cb61 - dc.w  table_opcb
+00200e  0a8c                          op_cb62 - dc.w  table_opcb
+002010  0aa0                          op_cb63 - dc.w  table_opcb
+002012  0ab4                          op_cb64 - dc.w  table_opcb
+002014  0ac6                          op_cb65 - dc.w  table_opcb
+002016  0ada                          op_cb66 - dc.w  table_opcb
+002018  0af0                          op_cb67 - dc.w  table_opcb
+00201a  0b02                          op_cb68 - dc.w  table_opcb
+00201c  0b16                          op_cb69 - dc.w  table_opcb
+00201e  0b2a                          op_cb6a - dc.w  table_opcb
+002020  0b3e                          op_cb6b - dc.w  table_opcb
+002022  0b52                          op_cb6c - dc.w  table_opcb
+002024  0b64                          op_cb6d - dc.w  table_opcb
+002026  0b78                          op_cb6e - dc.w  table_opcb
+002028  0b8e                          op_cb6f - dc.w  table_opcb
+00202a  0ba0                          op_cb70 - dc.w  table_opcb
+00202c  0bb4                          op_cb71 - dc.w  table_opcb
+00202e  0bc8                          op_cb72 - dc.w  table_opcb
+002030  0bdc                          op_cb73 - dc.w  table_opcb
+002032  0bf0                          op_cb74 - dc.w  table_opcb
+002034  0c02                          op_cb75 - dc.w  table_opcb
+002036  0c16                          op_cb76 - dc.w  table_opcb
+002038  0c2c                          op_cb77 - dc.w  table_opcb
+00203a  0c3e                          op_cb78 - dc.w  table_opcb
+00203c  0c50                          op_cb79 - dc.w  table_opcb
+00203e  0c62                          op_cb7a - dc.w  table_opcb
+002040  0c74                          op_cb7b - dc.w  table_opcb
+002042  0c86                          op_cb7c - dc.w  table_opcb
+002044  0c96                          op_cb7d - dc.w  table_opcb
+002046  0ca8                          op_cb7e - dc.w  table_opcb
+002048  0cbc                          op_cb7f - dc.w  table_opcb
+00204a  0ccc                          op_cb80 - dc.w  table_opcb
+00204c  0ce0                          op_cb81 - dc.w  table_opcb
+00204e  0cf4                          op_cb82 - dc.w  table_opcb
+002050  0d08                          op_cb83 - dc.w  table_opcb
+002052  0d1c                          op_cb84 - dc.w  table_opcb
+002054  0d2e                          op_cb85 - dc.w  table_opcb
+002056  0d42                          op_cb86 - dc.w  table_opcb
+002058  0d58                          op_cb87 - dc.w  table_opcb
+00205a  0d6a                          op_cb88 - dc.w  table_opcb
+00205c  0d7e                          op_cb89 - dc.w  table_opcb
+00205e  0d92                          op_cb8a - dc.w  table_opcb
+002060  0da6                          op_cb8b - dc.w  table_opcb
+002062  0dba                          op_cb8c - dc.w  table_opcb
+002064  0dcc                          op_cb8d - dc.w  table_opcb
+002066  0de0                          op_cb8e - dc.w  table_opcb
+002068  0df6                          op_cb8f - dc.w  table_opcb
+00206a  0e08                          op_cb90 - dc.w  table_opcb
+00206c  0e1c                          op_cb91 - dc.w  table_opcb
+00206e  0e30                          op_cb92 - dc.w  table_opcb
+002070  0e44                          op_cb93 - dc.w  table_opcb
+002072  0e58                          op_cb94 - dc.w  table_opcb
+002074  0e6a                          op_cb95 - dc.w  table_opcb
+002076  0e7e                          op_cb96 - dc.w  table_opcb
+002078  0e94                          op_cb97 - dc.w  table_opcb
+00207a  0ea6                          op_cb98 - dc.w  table_opcb
+00207c  0eba                          op_cb99 - dc.w  table_opcb
+00207e  0ece                          op_cb9a - dc.w  table_opcb
+002080  0ee2                          op_cb9b - dc.w  table_opcb
+002082  0ef6                          op_cb9c - dc.w  table_opcb
+002084  0f08                          op_cb9d - dc.w  table_opcb
+002086  0f1c                          op_cb9e - dc.w  table_opcb
+002088  0f32                          op_cb9f - dc.w  table_opcb
+00208a  0f44                          op_cba0 - dc.w  table_opcb
+00208c  0f58                          op_cba1 - dc.w  table_opcb
+00208e  0f6c                          op_cba2 - dc.w  table_opcb
+002090  0f80                          op_cba3 - dc.w  table_opcb
+002092  0f94                          op_cba4 - dc.w  table_opcb
+002094  0fa6                          op_cba5 - dc.w  table_opcb
+002096  0fba                          op_cba6 - dc.w  table_opcb
+002098  0fd0                          op_cba7 - dc.w  table_opcb
+00209a  0fe2                          op_cba8 - dc.w  table_opcb
+00209c  0ff6                          op_cba9 - dc.w  table_opcb
+00209e  100a                          op_cbaa - dc.w  table_opcb
+0020a0  101e                          op_cbab - dc.w  table_opcb
+0020a2  1032                          op_cbac - dc.w  table_opcb
+0020a4  1044                          op_cbad - dc.w  table_opcb
+0020a6  1058                          op_cbae - dc.w  table_opcb
+0020a8  106e                          op_cbaf - dc.w  table_opcb
+0020aa  1080                          op_cbb0 - dc.w  table_opcb
+0020ac  1094                          op_cbb1 - dc.w  table_opcb
+0020ae  10a8                          op_cbb2 - dc.w  table_opcb
+0020b0  10bc                          op_cbb3 - dc.w  table_opcb
+0020b2  10d0                          op_cbb4 - dc.w  table_opcb
+0020b4  10e2                          op_cbb5 - dc.w  table_opcb
+0020b6  10f6                          op_cbb6 - dc.w  table_opcb
+0020b8  110c                          op_cbb7 - dc.w  table_opcb
+0020ba  111e                          op_cbb8 - dc.w  table_opcb
+0020bc  1132                          op_cbb9 - dc.w  table_opcb
+0020be  1146                          op_cbba - dc.w  table_opcb
+0020c0  115a                          op_cbbb - dc.w  table_opcb
+0020c2  116e                          op_cbbc - dc.w  table_opcb
+0020c4  1180                          op_cbbd - dc.w  table_opcb
+0020c6  1194                          op_cbbe - dc.w  table_opcb
+0020c8  11aa                          op_cbbf - dc.w  table_opcb
+0020ca  11bc                          op_cbc0 - dc.w  table_opcb
+0020cc  11d0                          op_cbc1 - dc.w  table_opcb
+0020ce  11e4                          op_cbc2 - dc.w  table_opcb
+0020d0  11f8                          op_cbc3 - dc.w  table_opcb
+0020d2  120c                          op_cbc4 - dc.w  table_opcb
+0020d4  121e                          op_cbc5 - dc.w  table_opcb
+0020d6  1232                          op_cbc6 - dc.w  table_opcb
+0020d8  1248                          op_cbc7 - dc.w  table_opcb
+0020da  125a                          op_cbc8 - dc.w  table_opcb
+0020dc  126e                          op_cbc9 - dc.w  table_opcb
+0020de  1282                          op_cbca - dc.w  table_opcb
+0020e0  1296                          op_cbcb - dc.w  table_opcb
+0020e2  12aa                          op_cbcc - dc.w  table_opcb
+0020e4  12bc                          op_cbcd - dc.w  table_opcb
+0020e6  12d0                          op_cbce - dc.w  table_opcb
+0020e8  12e6                          op_cbcf - dc.w  table_opcb
+0020ea  12f8                          op_cbd0 - dc.w  table_opcb
+0020ec  130c                          op_cbd1 - dc.w  table_opcb
+0020ee  1320                          op_cbd2 - dc.w  table_opcb
+0020f0  1334                          op_cbd3 - dc.w  table_opcb
+0020f2  1348                          op_cbd4 - dc.w  table_opcb
+0020f4  135a                          op_cbd5 - dc.w  table_opcb
+0020f6  136e                          op_cbd6 - dc.w  table_opcb
+0020f8  1384                          op_cbd7 - dc.w  table_opcb
+0020fa  1396                          op_cbd8 - dc.w  table_opcb
+0020fc  13aa                          op_cbd9 - dc.w  table_opcb
+0020fe  13be                          op_cbda - dc.w  table_opcb
+002100  13d2                          op_cbdb - dc.w  table_opcb
+002102  13e6                          op_cbdc - dc.w  table_opcb
+002104  13f8                          op_cbdd - dc.w  table_opcb
+002106  140c                          op_cbde - dc.w  table_opcb
+002108  1422                          op_cbdf - dc.w  table_opcb
+00210a  1434                          op_cbe0 - dc.w  table_opcb
+00210c  1448                          op_cbe1 - dc.w  table_opcb
+00210e  145c                          op_cbe2 - dc.w  table_opcb
+002110  1470                          op_cbe3 - dc.w  table_opcb
+002112  1484                          op_cbe4 - dc.w  table_opcb
+002114  1496                          op_cbe5 - dc.w  table_opcb
+002116  14aa                          op_cbe6 - dc.w  table_opcb
+002118  14c0                          op_cbe7 - dc.w  table_opcb
+00211a  14d2                          op_cbe8 - dc.w  table_opcb
+00211c  14e6                          op_cbe9 - dc.w  table_opcb
+00211e  14fa                          op_cbea - dc.w  table_opcb
+002120  150e                          op_cbeb - dc.w  table_opcb
+002122  1522                          op_cbec - dc.w  table_opcb
+002124  1534                          op_cbed - dc.w  table_opcb
+002126  1548                          op_cbee - dc.w  table_opcb
+002128  155e                          op_cbef - dc.w  table_opcb
+00212a  1570                          op_cbf0 - dc.w  table_opcb
+00212c  1584                          op_cbf1 - dc.w  table_opcb
+00212e  1598                          op_cbf2 - dc.w  table_opcb
+002130  15ac                          op_cbf3 - dc.w  table_opcb
+002132  15c0                          op_cbf4 - dc.w  table_opcb
+002134  15d2                          op_cbf5 - dc.w  table_opcb
+002136  15e6                          op_cbf6 - dc.w  table_opcb
+002138  15fc                          op_cbf7 - dc.w  table_opcb
+00213a  160e                          op_cbf8 - dc.w  table_opcb
+00213c  1622                          op_cbf9 - dc.w  table_opcb
+00213e  1636                          op_cbfa - dc.w  table_opcb
+002140  164a                          op_cbfb - dc.w  table_opcb
+002142  165e                          op_cbfc - dc.w  table_opcb
+002144  1670                          op_cbfd - dc.w  table_opcb
+002146  1684                          op_cbfe - dc.w  table_opcb
+002148  169a                          op_cbff - dc.w  table_opcb
         op_cb00:                      ; rlc b
 00214a  122d 0004                     MOVE.b    ($0004,a5),D1
 00214e  e319                          ROL.b     #1,D1
@@ -5496,262 +5496,262 @@
 0035ee  3233 0000                     MOVE.w    $00(A3,D0),D1
 0035f2  4ef3 1000                     JMP       $00(A3,D1)
         table_oped:
-0035f6                                dc.w  table_oped - op_undefined
-0035f8                                dc.w  table_oped - op_undefined
-0035fa                                dc.w  table_oped - op_undefined
-0035fc                                dc.w  table_oped - op_undefined
-0035fe                                dc.w  table_oped - op_undefined
-003600                                dc.w  table_oped - op_undefined
-003602                                dc.w  table_oped - op_undefined
-003604                                dc.w  table_oped - op_undefined
-003606                                dc.w  table_oped - op_undefined
-003608                                dc.w  table_oped - op_undefined
-00360a                                dc.w  table_oped - op_undefined
-00360c                                dc.w  table_oped - op_undefined
-00360e                                dc.w  table_oped - op_undefined
-003610                                dc.w  table_oped - op_undefined
-003612                                dc.w  table_oped - op_undefined
-003614                                dc.w  table_oped - op_undefined
-003616                                dc.w  table_oped - op_undefined
-003618                                dc.w  table_oped - op_undefined
-00361a                                dc.w  table_oped - op_undefined
-00361c                                dc.w  table_oped - op_undefined
-00361e                                dc.w  table_oped - op_undefined
-003620                                dc.w  table_oped - op_undefined
-003622                                dc.w  table_oped - op_undefined
-003624                                dc.w  table_oped - op_undefined
-003626                                dc.w  table_oped - op_undefined
-003628                                dc.w  table_oped - op_undefined
-00362a                                dc.w  table_oped - op_undefined
-00362c                                dc.w  table_oped - op_undefined
-00362e                                dc.w  table_oped - op_undefined
-003630                                dc.w  table_oped - op_undefined
-003632                                dc.w  table_oped - op_undefined
-003634                                dc.w  table_oped - op_undefined
-003636                                dc.w  table_oped - op_undefined
-003638                                dc.w  table_oped - op_undefined
-00363a                                dc.w  table_oped - op_undefined
-00363c                                dc.w  table_oped - op_undefined
-00363e                                dc.w  table_oped - op_undefined
-003640                                dc.w  table_oped - op_undefined
-003642                                dc.w  table_oped - op_undefined
-003644                                dc.w  table_oped - op_undefined
-003646                                dc.w  table_oped - op_undefined
-003648                                dc.w  table_oped - op_undefined
-00364a                                dc.w  table_oped - op_undefined
-00364c                                dc.w  table_oped - op_undefined
-00364e                                dc.w  table_oped - op_undefined
-003650                                dc.w  table_oped - op_undefined
-003652                                dc.w  table_oped - op_undefined
-003654                                dc.w  table_oped - op_undefined
-003656                                dc.w  table_oped - op_undefined
-003658                                dc.w  table_oped - op_undefined
-00365a                                dc.w  table_oped - op_undefined
-00365c                                dc.w  table_oped - op_undefined
-00365e                                dc.w  table_oped - op_undefined
-003660                                dc.w  table_oped - op_undefined
-003662                                dc.w  table_oped - op_undefined
-003664                                dc.w  table_oped - op_undefined
-003666                                dc.w  table_oped - op_undefined
-003668                                dc.w  table_oped - op_undefined
-00366a                                dc.w  table_oped - op_undefined
-00366c                                dc.w  table_oped - op_undefined
-00366e                                dc.w  table_oped - op_undefined
-003670                                dc.w  table_oped - op_undefined
-003672                                dc.w  table_oped - op_undefined
-003674                                dc.w  table_oped - op_undefined
-003676                                dc.w  table_oped - op_ed40
-003678                                dc.w  table_oped - op_ed41
-00367a                                dc.w  table_oped - op_ed42
-00367c                                dc.w  table_oped - op_ed43
-00367e                                dc.w  table_oped - op_ed44
-003680                                dc.w  table_oped - op_undefined
-003682                                dc.w  table_oped - op_undefined
-003684                                dc.w  table_oped - op_ed47
-003686                                dc.w  table_oped - op_ed48
-003688                                dc.w  table_oped - op_ed49
-00368a                                dc.w  table_oped - op_ed4a
-00368c                                dc.w  table_oped - op_ed4b
-00368e                                dc.w  table_oped - op_undefined
-003690                                dc.w  table_oped - op_undefined
-003692                                dc.w  table_oped - op_undefined
-003694                                dc.w  table_oped - op_ed4f
-003696                                dc.w  table_oped - op_ed50
-003698                                dc.w  table_oped - op_ed51
-00369a                                dc.w  table_oped - op_ed52
-00369c                                dc.w  table_oped - op_ed53
-00369e                                dc.w  table_oped - op_undefined
-0036a0                                dc.w  table_oped - op_undefined
-0036a2                                dc.w  table_oped - op_undefined
-0036a4                                dc.w  table_oped - op_ed57
-0036a6                                dc.w  table_oped - op_ed58
-0036a8                                dc.w  table_oped - op_ed59
-0036aa                                dc.w  table_oped - op_ed5a
-0036ac                                dc.w  table_oped - op_ed5b
-0036ae                                dc.w  table_oped - op_undefined
-0036b0                                dc.w  table_oped - op_undefined
-0036b2                                dc.w  table_oped - op_undefined
-0036b4                                dc.w  table_oped - op_ed5f
-0036b6                                dc.w  table_oped - op_ed60
-0036b8                                dc.w  table_oped - op_ed61
-0036ba                                dc.w  table_oped - op_ed62
-0036bc                                dc.w  table_oped - op_undefined
-0036be                                dc.w  table_oped - op_undefined
-0036c0                                dc.w  table_oped - op_undefined
-0036c2                                dc.w  table_oped - op_undefined
-0036c4                                dc.w  table_oped - op_ed67
-0036c6                                dc.w  table_oped - op_ed68
-0036c8                                dc.w  table_oped - op_ed69
-0036ca                                dc.w  table_oped - op_ed6a
-0036cc                                dc.w  table_oped - op_undefined
-0036ce                                dc.w  table_oped - op_undefined
-0036d0                                dc.w  table_oped - op_undefined
-0036d2                                dc.w  table_oped - op_undefined
-0036d4                                dc.w  table_oped - op_ed6f
-0036d6                                dc.w  table_oped - op_undefined
-0036d8                                dc.w  table_oped - op_undefined
-0036da                                dc.w  table_oped - op_ed72
-0036dc                                dc.w  table_oped - op_ed73
-0036de                                dc.w  table_oped - op_undefined
-0036e0                                dc.w  table_oped - op_undefined
-0036e2                                dc.w  table_oped - op_undefined
-0036e4                                dc.w  table_oped - op_undefined
-0036e6                                dc.w  table_oped - op_ed78
-0036e8                                dc.w  table_oped - op_ed79
-0036ea                                dc.w  table_oped - op_ed7a
-0036ec                                dc.w  table_oped - op_ed7b
-0036ee                                dc.w  table_oped - op_undefined
-0036f0                                dc.w  table_oped - op_undefined
-0036f2                                dc.w  table_oped - op_undefined
-0036f4                                dc.w  table_oped - op_undefined
-0036f6                                dc.w  table_oped - op_undefined
-0036f8                                dc.w  table_oped - op_undefined
-0036fa                                dc.w  table_oped - op_undefined
-0036fc                                dc.w  table_oped - op_undefined
-0036fe                                dc.w  table_oped - op_undefined
-003700                                dc.w  table_oped - op_undefined
-003702                                dc.w  table_oped - op_undefined
-003704                                dc.w  table_oped - op_undefined
-003706                                dc.w  table_oped - op_undefined
-003708                                dc.w  table_oped - op_undefined
-00370a                                dc.w  table_oped - op_undefined
-00370c                                dc.w  table_oped - op_undefined
-00370e                                dc.w  table_oped - op_undefined
-003710                                dc.w  table_oped - op_undefined
-003712                                dc.w  table_oped - op_undefined
-003714                                dc.w  table_oped - op_undefined
-003716                                dc.w  table_oped - op_undefined
-003718                                dc.w  table_oped - op_undefined
-00371a                                dc.w  table_oped - op_undefined
-00371c                                dc.w  table_oped - op_undefined
-00371e                                dc.w  table_oped - op_undefined
-003720                                dc.w  table_oped - op_undefined
-003722                                dc.w  table_oped - op_undefined
-003724                                dc.w  table_oped - op_undefined
-003726                                dc.w  table_oped - op_undefined
-003728                                dc.w  table_oped - op_undefined
-00372a                                dc.w  table_oped - op_undefined
-00372c                                dc.w  table_oped - op_undefined
-00372e                                dc.w  table_oped - op_undefined
-003730                                dc.w  table_oped - op_undefined
-003732                                dc.w  table_oped - op_undefined
-003734                                dc.w  table_oped - op_undefined
-003736                                dc.w  table_oped - op_eda0
-003738                                dc.w  table_oped - op_eda1
-00373a                                dc.w  table_oped - op_eda2
-00373c                                dc.w  table_oped - op_eda3
-00373e                                dc.w  table_oped - op_undefined
-003740                                dc.w  table_oped - op_undefined
-003742                                dc.w  table_oped - op_undefined
-003744                                dc.w  table_oped - op_undefined
-003746                                dc.w  table_oped - op_eda8
-003748                                dc.w  table_oped - op_eda9
-00374a                                dc.w  table_oped - op_edaa
-00374c                                dc.w  table_oped - op_edab
-00374e                                dc.w  table_oped - op_undefined
-003750                                dc.w  table_oped - op_undefined
-003752                                dc.w  table_oped - op_undefined
-003754                                dc.w  table_oped - op_undefined
-003756                                dc.w  table_oped - op_edb0
-003758                                dc.w  table_oped - op_edb1
-00375a                                dc.w  table_oped - op_edb2
-00375c                                dc.w  table_oped - op_edb3
-00375e                                dc.w  table_oped - op_undefined
-003760                                dc.w  table_oped - op_undefined
-003762                                dc.w  table_oped - op_undefined
-003764                                dc.w  table_oped - op_undefined
-003766                                dc.w  table_oped - op_edb8
-003768                                dc.w  table_oped - op_edb9
-00376a                                dc.w  table_oped - op_edba
-00376c                                dc.w  table_oped - op_edbb
-00376e                                dc.w  table_oped - op_undefined
-003770                                dc.w  table_oped - op_undefined
-003772                                dc.w  table_oped - op_undefined
-003774                                dc.w  table_oped - op_undefined
-003776                                dc.w  table_oped - op_undefined
-003778                                dc.w  table_oped - op_undefined
-00377a                                dc.w  table_oped - op_undefined
-00377c                                dc.w  table_oped - op_undefined
-00377e                                dc.w  table_oped - op_undefined
-003780                                dc.w  table_oped - op_undefined
-003782                                dc.w  table_oped - op_undefined
-003784                                dc.w  table_oped - op_undefined
-003786                                dc.w  table_oped - op_undefined
-003788                                dc.w  table_oped - op_undefined
-00378a                                dc.w  table_oped - op_undefined
-00378c                                dc.w  table_oped - op_undefined
-00378e                                dc.w  table_oped - op_undefined
-003790                                dc.w  table_oped - op_undefined
-003792                                dc.w  table_oped - op_undefined
-003794                                dc.w  table_oped - op_undefined
-003796                                dc.w  table_oped - op_undefined
-003798                                dc.w  table_oped - op_undefined
-00379a                                dc.w  table_oped - op_undefined
-00379c                                dc.w  table_oped - op_undefined
-00379e                                dc.w  table_oped - op_undefined
-0037a0                                dc.w  table_oped - op_undefined
-0037a2                                dc.w  table_oped - op_undefined
-0037a4                                dc.w  table_oped - op_undefined
-0037a6                                dc.w  table_oped - op_undefined
-0037a8                                dc.w  table_oped - op_undefined
-0037aa                                dc.w  table_oped - op_undefined
-0037ac                                dc.w  table_oped - op_undefined
-0037ae                                dc.w  table_oped - op_undefined
-0037b0                                dc.w  table_oped - op_undefined
-0037b2                                dc.w  table_oped - op_undefined
-0037b4                                dc.w  table_oped - op_undefined
-0037b6                                dc.w  table_oped - op_undefined
-0037b8                                dc.w  table_oped - op_undefined
-0037ba                                dc.w  table_oped - op_undefined
-0037bc                                dc.w  table_oped - op_undefined
-0037be                                dc.w  table_oped - op_undefined
-0037c0                                dc.w  table_oped - op_undefined
-0037c2                                dc.w  table_oped - op_undefined
-0037c4                                dc.w  table_oped - op_undefined
-0037c6                                dc.w  table_oped - op_undefined
-0037c8                                dc.w  table_oped - op_undefined
-0037ca                                dc.w  table_oped - op_undefined
-0037cc                                dc.w  table_oped - op_undefined
-0037ce                                dc.w  table_oped - op_undefined
-0037d0                                dc.w  table_oped - op_undefined
-0037d2                                dc.w  table_oped - op_undefined
-0037d4                                dc.w  table_oped - op_undefined
-0037d6                                dc.w  table_oped - op_undefined
-0037d8                                dc.w  table_oped - op_undefined
-0037da                                dc.w  table_oped - op_undefined
-0037dc                                dc.w  table_oped - op_undefined
-0037de                                dc.w  table_oped - op_undefined
-0037e0                                dc.w  table_oped - op_undefined
-0037e2                                dc.w  table_oped - op_undefined
-0037e4                                dc.w  table_oped - op_undefined
-0037e6                                dc.w  table_oped - op_undefined
-0037e8                                dc.w  table_oped - op_undefined
-0037ea                                dc.w  table_oped - op_undefined
-0037ec                                dc.w  table_oped - op_undefined
-0037ee                                dc.w  table_oped - op_undefined
-0037f0                                dc.w  table_oped - op_undefined
-0037f2                                dc.w  table_oped - op_undefined
-0037f4                                dc.w  table_oped - op_undefined
+0035f6  ffff                          op_undefined - dc.w  table_oped
+0035f8  ffff                          op_undefined - dc.w  table_oped
+0035fa  ffff                          op_undefined - dc.w  table_oped
+0035fc  ffff                          op_undefined - dc.w  table_oped
+0035fe  ffff                          op_undefined - dc.w  table_oped
+003600  ffff                          op_undefined - dc.w  table_oped
+003602  ffff                          op_undefined - dc.w  table_oped
+003604  ffff                          op_undefined - dc.w  table_oped
+003606  ffff                          op_undefined - dc.w  table_oped
+003608  ffff                          op_undefined - dc.w  table_oped
+00360a  ffff                          op_undefined - dc.w  table_oped
+00360c  ffff                          op_undefined - dc.w  table_oped
+00360e  ffff                          op_undefined - dc.w  table_oped
+003610  ffff                          op_undefined - dc.w  table_oped
+003612  ffff                          op_undefined - dc.w  table_oped
+003614  ffff                          op_undefined - dc.w  table_oped
+003616  ffff                          op_undefined - dc.w  table_oped
+003618  ffff                          op_undefined - dc.w  table_oped
+00361a  ffff                          op_undefined - dc.w  table_oped
+00361c  ffff                          op_undefined - dc.w  table_oped
+00361e  ffff                          op_undefined - dc.w  table_oped
+003620  ffff                          op_undefined - dc.w  table_oped
+003622  ffff                          op_undefined - dc.w  table_oped
+003624  ffff                          op_undefined - dc.w  table_oped
+003626  ffff                          op_undefined - dc.w  table_oped
+003628  ffff                          op_undefined - dc.w  table_oped
+00362a  ffff                          op_undefined - dc.w  table_oped
+00362c  ffff                          op_undefined - dc.w  table_oped
+00362e  ffff                          op_undefined - dc.w  table_oped
+003630  ffff                          op_undefined - dc.w  table_oped
+003632  ffff                          op_undefined - dc.w  table_oped
+003634  ffff                          op_undefined - dc.w  table_oped
+003636  ffff                          op_undefined - dc.w  table_oped
+003638  ffff                          op_undefined - dc.w  table_oped
+00363a  ffff                          op_undefined - dc.w  table_oped
+00363c  ffff                          op_undefined - dc.w  table_oped
+00363e  ffff                          op_undefined - dc.w  table_oped
+003640  ffff                          op_undefined - dc.w  table_oped
+003642  ffff                          op_undefined - dc.w  table_oped
+003644  ffff                          op_undefined - dc.w  table_oped
+003646  ffff                          op_undefined - dc.w  table_oped
+003648  ffff                          op_undefined - dc.w  table_oped
+00364a  ffff                          op_undefined - dc.w  table_oped
+00364c  ffff                          op_undefined - dc.w  table_oped
+00364e  ffff                          op_undefined - dc.w  table_oped
+003650  ffff                          op_undefined - dc.w  table_oped
+003652  ffff                          op_undefined - dc.w  table_oped
+003654  ffff                          op_undefined - dc.w  table_oped
+003656  ffff                          op_undefined - dc.w  table_oped
+003658  ffff                          op_undefined - dc.w  table_oped
+00365a  ffff                          op_undefined - dc.w  table_oped
+00365c  ffff                          op_undefined - dc.w  table_oped
+00365e  ffff                          op_undefined - dc.w  table_oped
+003660  ffff                          op_undefined - dc.w  table_oped
+003662  ffff                          op_undefined - dc.w  table_oped
+003664  ffff                          op_undefined - dc.w  table_oped
+003666  ffff                          op_undefined - dc.w  table_oped
+003668  ffff                          op_undefined - dc.w  table_oped
+00366a  ffff                          op_undefined - dc.w  table_oped
+00366c  ffff                          op_undefined - dc.w  table_oped
+00366e  ffff                          op_undefined - dc.w  table_oped
+003670  ffff                          op_undefined - dc.w  table_oped
+003672  ffff                          op_undefined - dc.w  table_oped
+003674  ffff                          op_undefined - dc.w  table_oped
+003676  0200                          op_ed40 - dc.w  table_oped
+003678  022a                          op_ed41 - dc.w  table_oped
+00367a  0258                          op_ed42 - dc.w  table_oped
+00367c  027a                          op_ed43 - dc.w  table_oped
+00367e  029a                          op_ed44 - dc.w  table_oped
+003680  ffff                          op_undefined - dc.w  table_oped
+003682  ffff                          op_undefined - dc.w  table_oped
+003684  02bc                          op_ed47 - dc.w  table_oped
+003686  02cc                          op_ed48 - dc.w  table_oped
+003688  02f6                          op_ed49 - dc.w  table_oped
+00368a  0322                          op_ed4a - dc.w  table_oped
+00368c  0342                          op_ed4b - dc.w  table_oped
+00368e  ffff                          op_undefined - dc.w  table_oped
+003690  ffff                          op_undefined - dc.w  table_oped
+003692  ffff                          op_undefined - dc.w  table_oped
+003694  0362                          op_ed4f - dc.w  table_oped
+003696  036e                          op_ed50 - dc.w  table_oped
+003698  0398                          op_ed51 - dc.w  table_oped
+00369a  03c6                          op_ed52 - dc.w  table_oped
+00369c  03e8                          op_ed53 - dc.w  table_oped
+00369e  ffff                          op_undefined - dc.w  table_oped
+0036a0  ffff                          op_undefined - dc.w  table_oped
+0036a2  ffff                          op_undefined - dc.w  table_oped
+0036a4  0408                          op_ed57 - dc.w  table_oped
+0036a6  041e                          op_ed58 - dc.w  table_oped
+0036a8  0448                          op_ed59 - dc.w  table_oped
+0036aa  0476                          op_ed5a - dc.w  table_oped
+0036ac  0496                          op_ed5b - dc.w  table_oped
+0036ae  ffff                          op_undefined - dc.w  table_oped
+0036b0  ffff                          op_undefined - dc.w  table_oped
+0036b2  ffff                          op_undefined - dc.w  table_oped
+0036b4  04b6                          op_ed5f - dc.w  table_oped
+0036b6  04d4                          op_ed60 - dc.w  table_oped
+0036b8  04fc                          op_ed61 - dc.w  table_oped
+0036ba  0528                          op_ed62 - dc.w  table_oped
+0036bc  ffff                          op_undefined - dc.w  table_oped
+0036be  ffff                          op_undefined - dc.w  table_oped
+0036c0  ffff                          op_undefined - dc.w  table_oped
+0036c2  ffff                          op_undefined - dc.w  table_oped
+0036c4  0542                          op_ed67 - dc.w  table_oped
+0036c6  0562                          op_ed68 - dc.w  table_oped
+0036c8  058c                          op_ed69 - dc.w  table_oped
+0036ca  05ba                          op_ed6a - dc.w  table_oped
+0036cc  ffff                          op_undefined - dc.w  table_oped
+0036ce  ffff                          op_undefined - dc.w  table_oped
+0036d0  ffff                          op_undefined - dc.w  table_oped
+0036d2  ffff                          op_undefined - dc.w  table_oped
+0036d4  05d6                          op_ed6f - dc.w  table_oped
+0036d6  ffff                          op_undefined - dc.w  table_oped
+0036d8  ffff                          op_undefined - dc.w  table_oped
+0036da  05f6                          op_ed72 - dc.w  table_oped
+0036dc  0618                          op_ed73 - dc.w  table_oped
+0036de  ffff                          op_undefined - dc.w  table_oped
+0036e0  ffff                          op_undefined - dc.w  table_oped
+0036e2  ffff                          op_undefined - dc.w  table_oped
+0036e4  ffff                          op_undefined - dc.w  table_oped
+0036e6  063a                          op_ed78 - dc.w  table_oped
+0036e8  0664                          op_ed79 - dc.w  table_oped
+0036ea  0690                          op_ed7a - dc.w  table_oped
+0036ec  06b0                          op_ed7b - dc.w  table_oped
+0036ee  ffff                          op_undefined - dc.w  table_oped
+0036f0  ffff                          op_undefined - dc.w  table_oped
+0036f2  ffff                          op_undefined - dc.w  table_oped
+0036f4  ffff                          op_undefined - dc.w  table_oped
+0036f6  ffff                          op_undefined - dc.w  table_oped
+0036f8  ffff                          op_undefined - dc.w  table_oped
+0036fa  ffff                          op_undefined - dc.w  table_oped
+0036fc  ffff                          op_undefined - dc.w  table_oped
+0036fe  ffff                          op_undefined - dc.w  table_oped
+003700  ffff                          op_undefined - dc.w  table_oped
+003702  ffff                          op_undefined - dc.w  table_oped
+003704  ffff                          op_undefined - dc.w  table_oped
+003706  ffff                          op_undefined - dc.w  table_oped
+003708  ffff                          op_undefined - dc.w  table_oped
+00370a  ffff                          op_undefined - dc.w  table_oped
+00370c  ffff                          op_undefined - dc.w  table_oped
+00370e  ffff                          op_undefined - dc.w  table_oped
+003710  ffff                          op_undefined - dc.w  table_oped
+003712  ffff                          op_undefined - dc.w  table_oped
+003714  ffff                          op_undefined - dc.w  table_oped
+003716  ffff                          op_undefined - dc.w  table_oped
+003718  ffff                          op_undefined - dc.w  table_oped
+00371a  ffff                          op_undefined - dc.w  table_oped
+00371c  ffff                          op_undefined - dc.w  table_oped
+00371e  ffff                          op_undefined - dc.w  table_oped
+003720  ffff                          op_undefined - dc.w  table_oped
+003722  ffff                          op_undefined - dc.w  table_oped
+003724  ffff                          op_undefined - dc.w  table_oped
+003726  ffff                          op_undefined - dc.w  table_oped
+003728  ffff                          op_undefined - dc.w  table_oped
+00372a  ffff                          op_undefined - dc.w  table_oped
+00372c  ffff                          op_undefined - dc.w  table_oped
+00372e  ffff                          op_undefined - dc.w  table_oped
+003730  ffff                          op_undefined - dc.w  table_oped
+003732  ffff                          op_undefined - dc.w  table_oped
+003734  ffff                          op_undefined - dc.w  table_oped
+003736  06d4                          op_eda0 - dc.w  table_oped
+003738  06fc                          op_eda1 - dc.w  table_oped
+00373a  071c                          op_eda2 - dc.w  table_oped
+00373c  074c                          op_eda3 - dc.w  table_oped
+00373e  ffff                          op_undefined - dc.w  table_oped
+003740  ffff                          op_undefined - dc.w  table_oped
+003742  ffff                          op_undefined - dc.w  table_oped
+003744  ffff                          op_undefined - dc.w  table_oped
+003746  077c                          op_eda8 - dc.w  table_oped
+003748  07a4                          op_eda9 - dc.w  table_oped
+00374a  07c4                          op_edaa - dc.w  table_oped
+00374c  07f4                          op_edab - dc.w  table_oped
+00374e  ffff                          op_undefined - dc.w  table_oped
+003750  ffff                          op_undefined - dc.w  table_oped
+003752  ffff                          op_undefined - dc.w  table_oped
+003754  ffff                          op_undefined - dc.w  table_oped
+003756  0824                          op_edb0 - dc.w  table_oped
+003758  085a                          op_edb1 - dc.w  table_oped
+00375a  0890                          op_edb2 - dc.w  table_oped
+00375c  08c2                          op_edb3 - dc.w  table_oped
+00375e  ffff                          op_undefined - dc.w  table_oped
+003760  ffff                          op_undefined - dc.w  table_oped
+003762  ffff                          op_undefined - dc.w  table_oped
+003764  ffff                          op_undefined - dc.w  table_oped
+003766  08f4                          op_edb8 - dc.w  table_oped
+003768  092a                          op_edb9 - dc.w  table_oped
+00376a  0960                          op_edba - dc.w  table_oped
+00376c  0992                          op_edbb - dc.w  table_oped
+00376e  ffff                          op_undefined - dc.w  table_oped
+003770  ffff                          op_undefined - dc.w  table_oped
+003772  ffff                          op_undefined - dc.w  table_oped
+003774  ffff                          op_undefined - dc.w  table_oped
+003776  ffff                          op_undefined - dc.w  table_oped
+003778  ffff                          op_undefined - dc.w  table_oped
+00377a  ffff                          op_undefined - dc.w  table_oped
+00377c  ffff                          op_undefined - dc.w  table_oped
+00377e  ffff                          op_undefined - dc.w  table_oped
+003780  ffff                          op_undefined - dc.w  table_oped
+003782  ffff                          op_undefined - dc.w  table_oped
+003784  ffff                          op_undefined - dc.w  table_oped
+003786  ffff                          op_undefined - dc.w  table_oped
+003788  ffff                          op_undefined - dc.w  table_oped
+00378a  ffff                          op_undefined - dc.w  table_oped
+00378c  ffff                          op_undefined - dc.w  table_oped
+00378e  ffff                          op_undefined - dc.w  table_oped
+003790  ffff                          op_undefined - dc.w  table_oped
+003792  ffff                          op_undefined - dc.w  table_oped
+003794  ffff                          op_undefined - dc.w  table_oped
+003796  ffff                          op_undefined - dc.w  table_oped
+003798  ffff                          op_undefined - dc.w  table_oped
+00379a  ffff                          op_undefined - dc.w  table_oped
+00379c  ffff                          op_undefined - dc.w  table_oped
+00379e  ffff                          op_undefined - dc.w  table_oped
+0037a0  ffff                          op_undefined - dc.w  table_oped
+0037a2  ffff                          op_undefined - dc.w  table_oped
+0037a4  ffff                          op_undefined - dc.w  table_oped
+0037a6  ffff                          op_undefined - dc.w  table_oped
+0037a8  ffff                          op_undefined - dc.w  table_oped
+0037aa  ffff                          op_undefined - dc.w  table_oped
+0037ac  ffff                          op_undefined - dc.w  table_oped
+0037ae  ffff                          op_undefined - dc.w  table_oped
+0037b0  ffff                          op_undefined - dc.w  table_oped
+0037b2  ffff                          op_undefined - dc.w  table_oped
+0037b4  ffff                          op_undefined - dc.w  table_oped
+0037b6  ffff                          op_undefined - dc.w  table_oped
+0037b8  ffff                          op_undefined - dc.w  table_oped
+0037ba  ffff                          op_undefined - dc.w  table_oped
+0037bc  ffff                          op_undefined - dc.w  table_oped
+0037be  ffff                          op_undefined - dc.w  table_oped
+0037c0  ffff                          op_undefined - dc.w  table_oped
+0037c2  ffff                          op_undefined - dc.w  table_oped
+0037c4  ffff                          op_undefined - dc.w  table_oped
+0037c6  ffff                          op_undefined - dc.w  table_oped
+0037c8  ffff                          op_undefined - dc.w  table_oped
+0037ca  ffff                          op_undefined - dc.w  table_oped
+0037cc  ffff                          op_undefined - dc.w  table_oped
+0037ce  ffff                          op_undefined - dc.w  table_oped
+0037d0  ffff                          op_undefined - dc.w  table_oped
+0037d2  ffff                          op_undefined - dc.w  table_oped
+0037d4  ffff                          op_undefined - dc.w  table_oped
+0037d6  ffff                          op_undefined - dc.w  table_oped
+0037d8  ffff                          op_undefined - dc.w  table_oped
+0037da  ffff                          op_undefined - dc.w  table_oped
+0037dc  ffff                          op_undefined - dc.w  table_oped
+0037de  ffff                          op_undefined - dc.w  table_oped
+0037e0  ffff                          op_undefined - dc.w  table_oped
+0037e2  ffff                          op_undefined - dc.w  table_oped
+0037e4  ffff                          op_undefined - dc.w  table_oped
+0037e6  ffff                          op_undefined - dc.w  table_oped
+0037e8  ffff                          op_undefined - dc.w  table_oped
+0037ea  ffff                          op_undefined - dc.w  table_oped
+0037ec  ffff                          op_undefined - dc.w  table_oped
+0037ee  ffff                          op_undefined - dc.w  table_oped
+0037f0  ffff                          op_undefined - dc.w  table_oped
+0037f2  ffff                          op_undefined - dc.w  table_oped
+0037f4  ffff                          op_undefined - dc.w  table_oped
         op_ed40:                      ; in b,(c)
 0037f6  102d 0005                     MOVE.b    ($0005,a5),D0
 0037fa  48e7 037e                     MOVEM.l   A6/A5/A4/A3/A2/A1/D7/D6,-(A7)
@@ -6500,262 +6500,262 @@
 003fb2  3233 0000                     MOVE.w    $00(A3,D0),D1
 003fb6  4ef3 1000                     JMP       $00(A3,D1)
         table_opdd:
-003fba                                dc.w  table_opdd - op_undefined
-003fbc                                dc.w  table_opdd - op_undefined
-003fbe                                dc.w  table_opdd - op_undefined
-003fc0                                dc.w  table_opdd - op_undefined
-003fc2                                dc.w  table_opdd - op_undefined
-003fc4                                dc.w  table_opdd - op_undefined
-003fc6                                dc.w  table_opdd - op_undefined
-003fc8                                dc.w  table_opdd - op_undefined
-003fca                                dc.w  table_opdd - op_undefined
-003fcc                                dc.w  table_opdd - op_dd09
-003fce                                dc.w  table_opdd - op_undefined
-003fd0                                dc.w  table_opdd - op_undefined
-003fd2                                dc.w  table_opdd - op_undefined
-003fd4                                dc.w  table_opdd - op_undefined
-003fd6                                dc.w  table_opdd - op_undefined
-003fd8                                dc.w  table_opdd - op_undefined
-003fda                                dc.w  table_opdd - op_undefined
-003fdc                                dc.w  table_opdd - op_undefined
-003fde                                dc.w  table_opdd - op_undefined
-003fe0                                dc.w  table_opdd - op_undefined
-003fe2                                dc.w  table_opdd - op_undefined
-003fe4                                dc.w  table_opdd - op_undefined
-003fe6                                dc.w  table_opdd - op_undefined
-003fe8                                dc.w  table_opdd - op_undefined
-003fea                                dc.w  table_opdd - op_undefined
-003fec                                dc.w  table_opdd - op_dd19
-003fee                                dc.w  table_opdd - op_undefined
-003ff0                                dc.w  table_opdd - op_undefined
-003ff2                                dc.w  table_opdd - op_undefined
-003ff4                                dc.w  table_opdd - op_undefined
-003ff6                                dc.w  table_opdd - op_undefined
-003ff8                                dc.w  table_opdd - op_undefined
-003ffa                                dc.w  table_opdd - op_undefined
-003ffc                                dc.w  table_opdd - op_dd21
-003ffe                                dc.w  table_opdd - op_dd22
-004000                                dc.w  table_opdd - op_dd23
-004002                                dc.w  table_opdd - op_undefined
-004004                                dc.w  table_opdd - op_undefined
-004006                                dc.w  table_opdd - op_undefined
-004008                                dc.w  table_opdd - op_undefined
-00400a                                dc.w  table_opdd - op_undefined
-00400c                                dc.w  table_opdd - op_dd29
-00400e                                dc.w  table_opdd - op_dd2a
-004010                                dc.w  table_opdd - op_dd2b
-004012                                dc.w  table_opdd - op_undefined
-004014                                dc.w  table_opdd - op_undefined
-004016                                dc.w  table_opdd - op_undefined
-004018                                dc.w  table_opdd - op_undefined
-00401a                                dc.w  table_opdd - op_undefined
-00401c                                dc.w  table_opdd - op_undefined
-00401e                                dc.w  table_opdd - op_undefined
-004020                                dc.w  table_opdd - op_undefined
-004022                                dc.w  table_opdd - op_dd34
-004024                                dc.w  table_opdd - op_dd35
-004026                                dc.w  table_opdd - op_dd36
-004028                                dc.w  table_opdd - op_undefined
-00402a                                dc.w  table_opdd - op_undefined
-00402c                                dc.w  table_opdd - op_dd39
-00402e                                dc.w  table_opdd - op_undefined
-004030                                dc.w  table_opdd - op_undefined
-004032                                dc.w  table_opdd - op_undefined
-004034                                dc.w  table_opdd - op_undefined
-004036                                dc.w  table_opdd - op_undefined
-004038                                dc.w  table_opdd - op_undefined
-00403a                                dc.w  table_opdd - op_undefined
-00403c                                dc.w  table_opdd - op_undefined
-00403e                                dc.w  table_opdd - op_undefined
-004040                                dc.w  table_opdd - op_undefined
-004042                                dc.w  table_opdd - op_undefined
-004044                                dc.w  table_opdd - op_undefined
-004046                                dc.w  table_opdd - op_dd46
-004048                                dc.w  table_opdd - op_undefined
-00404a                                dc.w  table_opdd - op_undefined
-00404c                                dc.w  table_opdd - op_undefined
-00404e                                dc.w  table_opdd - op_undefined
-004050                                dc.w  table_opdd - op_undefined
-004052                                dc.w  table_opdd - op_undefined
-004054                                dc.w  table_opdd - op_undefined
-004056                                dc.w  table_opdd - op_dd4e
-004058                                dc.w  table_opdd - op_undefined
-00405a                                dc.w  table_opdd - op_undefined
-00405c                                dc.w  table_opdd - op_undefined
-00405e                                dc.w  table_opdd - op_undefined
-004060                                dc.w  table_opdd - op_undefined
-004062                                dc.w  table_opdd - op_undefined
-004064                                dc.w  table_opdd - op_undefined
-004066                                dc.w  table_opdd - op_dd56
-004068                                dc.w  table_opdd - op_undefined
-00406a                                dc.w  table_opdd - op_undefined
-00406c                                dc.w  table_opdd - op_undefined
-00406e                                dc.w  table_opdd - op_undefined
-004070                                dc.w  table_opdd - op_undefined
-004072                                dc.w  table_opdd - op_undefined
-004074                                dc.w  table_opdd - op_undefined
-004076                                dc.w  table_opdd - op_dd5e
-004078                                dc.w  table_opdd - op_undefined
-00407a                                dc.w  table_opdd - op_undefined
-00407c                                dc.w  table_opdd - op_undefined
-00407e                                dc.w  table_opdd - op_undefined
-004080                                dc.w  table_opdd - op_undefined
-004082                                dc.w  table_opdd - op_undefined
-004084                                dc.w  table_opdd - op_undefined
-004086                                dc.w  table_opdd - op_dd66
-004088                                dc.w  table_opdd - op_undefined
-00408a                                dc.w  table_opdd - op_undefined
-00408c                                dc.w  table_opdd - op_undefined
-00408e                                dc.w  table_opdd - op_undefined
-004090                                dc.w  table_opdd - op_undefined
-004092                                dc.w  table_opdd - op_undefined
-004094                                dc.w  table_opdd - op_undefined
-004096                                dc.w  table_opdd - op_dd6e
-004098                                dc.w  table_opdd - op_undefined
-00409a                                dc.w  table_opdd - op_dd70
-00409c                                dc.w  table_opdd - op_dd71
-00409e                                dc.w  table_opdd - op_dd72
-0040a0                                dc.w  table_opdd - op_dd73
-0040a2                                dc.w  table_opdd - op_dd74
-0040a4                                dc.w  table_opdd - op_dd75
-0040a6                                dc.w  table_opdd - op_undefined
-0040a8                                dc.w  table_opdd - op_dd77
-0040aa                                dc.w  table_opdd - op_undefined
-0040ac                                dc.w  table_opdd - op_undefined
-0040ae                                dc.w  table_opdd - op_undefined
-0040b0                                dc.w  table_opdd - op_undefined
-0040b2                                dc.w  table_opdd - op_undefined
-0040b4                                dc.w  table_opdd - op_undefined
-0040b6                                dc.w  table_opdd - op_dd7e
-0040b8                                dc.w  table_opdd - op_undefined
-0040ba                                dc.w  table_opdd - op_undefined
-0040bc                                dc.w  table_opdd - op_undefined
-0040be                                dc.w  table_opdd - op_undefined
-0040c0                                dc.w  table_opdd - op_undefined
-0040c2                                dc.w  table_opdd - op_undefined
-0040c4                                dc.w  table_opdd - op_undefined
-0040c6                                dc.w  table_opdd - op_dd86
-0040c8                                dc.w  table_opdd - op_undefined
-0040ca                                dc.w  table_opdd - op_undefined
-0040cc                                dc.w  table_opdd - op_undefined
-0040ce                                dc.w  table_opdd - op_undefined
-0040d0                                dc.w  table_opdd - op_undefined
-0040d2                                dc.w  table_opdd - op_undefined
-0040d4                                dc.w  table_opdd - op_undefined
-0040d6                                dc.w  table_opdd - op_dd8e
-0040d8                                dc.w  table_opdd - op_undefined
-0040da                                dc.w  table_opdd - op_undefined
-0040dc                                dc.w  table_opdd - op_undefined
-0040de                                dc.w  table_opdd - op_undefined
-0040e0                                dc.w  table_opdd - op_undefined
-0040e2                                dc.w  table_opdd - op_undefined
-0040e4                                dc.w  table_opdd - op_undefined
-0040e6                                dc.w  table_opdd - op_dd96
-0040e8                                dc.w  table_opdd - op_undefined
-0040ea                                dc.w  table_opdd - op_undefined
-0040ec                                dc.w  table_opdd - op_undefined
-0040ee                                dc.w  table_opdd - op_undefined
-0040f0                                dc.w  table_opdd - op_undefined
-0040f2                                dc.w  table_opdd - op_undefined
-0040f4                                dc.w  table_opdd - op_undefined
-0040f6                                dc.w  table_opdd - op_dd9e
-0040f8                                dc.w  table_opdd - op_undefined
-0040fa                                dc.w  table_opdd - op_undefined
-0040fc                                dc.w  table_opdd - op_undefined
-0040fe                                dc.w  table_opdd - op_undefined
-004100                                dc.w  table_opdd - op_undefined
-004102                                dc.w  table_opdd - op_undefined
-004104                                dc.w  table_opdd - op_undefined
-004106                                dc.w  table_opdd - op_dda6
-004108                                dc.w  table_opdd - op_undefined
-00410a                                dc.w  table_opdd - op_undefined
-00410c                                dc.w  table_opdd - op_undefined
-00410e                                dc.w  table_opdd - op_undefined
-004110                                dc.w  table_opdd - op_undefined
-004112                                dc.w  table_opdd - op_undefined
-004114                                dc.w  table_opdd - op_undefined
-004116                                dc.w  table_opdd - op_ddae
-004118                                dc.w  table_opdd - op_undefined
-00411a                                dc.w  table_opdd - op_undefined
-00411c                                dc.w  table_opdd - op_undefined
-00411e                                dc.w  table_opdd - op_undefined
-004120                                dc.w  table_opdd - op_undefined
-004122                                dc.w  table_opdd - op_undefined
-004124                                dc.w  table_opdd - op_undefined
-004126                                dc.w  table_opdd - op_ddb6
-004128                                dc.w  table_opdd - op_undefined
-00412a                                dc.w  table_opdd - op_undefined
-00412c                                dc.w  table_opdd - op_undefined
-00412e                                dc.w  table_opdd - op_undefined
-004130                                dc.w  table_opdd - op_undefined
-004132                                dc.w  table_opdd - op_undefined
-004134                                dc.w  table_opdd - op_undefined
-004136                                dc.w  table_opdd - op_ddbe
-004138                                dc.w  table_opdd - op_undefined
-00413a                                dc.w  table_opdd - op_undefined
-00413c                                dc.w  table_opdd - op_undefined
-00413e                                dc.w  table_opdd - op_undefined
-004140                                dc.w  table_opdd - op_undefined
-004142                                dc.w  table_opdd - op_undefined
-004144                                dc.w  table_opdd - op_undefined
-004146                                dc.w  table_opdd - op_undefined
-004148                                dc.w  table_opdd - op_undefined
-00414a                                dc.w  table_opdd - op_undefined
-00414c                                dc.w  table_opdd - op_undefined
-00414e                                dc.w  table_opdd - op_undefined
-004150                                dc.w  table_opdd - op_ddcb
-004152                                dc.w  table_opdd - op_undefined
-004154                                dc.w  table_opdd - op_undefined
-004156                                dc.w  table_opdd - op_undefined
-004158                                dc.w  table_opdd - op_undefined
-00415a                                dc.w  table_opdd - op_undefined
-00415c                                dc.w  table_opdd - op_undefined
-00415e                                dc.w  table_opdd - op_undefined
-004160                                dc.w  table_opdd - op_undefined
-004162                                dc.w  table_opdd - op_undefined
-004164                                dc.w  table_opdd - op_undefined
-004166                                dc.w  table_opdd - op_undefined
-004168                                dc.w  table_opdd - op_undefined
-00416a                                dc.w  table_opdd - op_undefined
-00416c                                dc.w  table_opdd - op_undefined
-00416e                                dc.w  table_opdd - op_undefined
-004170                                dc.w  table_opdd - op_undefined
-004172                                dc.w  table_opdd - op_undefined
-004174                                dc.w  table_opdd - op_undefined
-004176                                dc.w  table_opdd - op_undefined
-004178                                dc.w  table_opdd - op_undefined
-00417a                                dc.w  table_opdd - op_undefined
-00417c                                dc.w  table_opdd - op_dde1
-00417e                                dc.w  table_opdd - op_undefined
-004180                                dc.w  table_opdd - op_dde3
-004182                                dc.w  table_opdd - op_undefined
-004184                                dc.w  table_opdd - op_dde5
-004186                                dc.w  table_opdd - op_undefined
-004188                                dc.w  table_opdd - op_undefined
-00418a                                dc.w  table_opdd - op_undefined
-00418c                                dc.w  table_opdd - op_dde9
-00418e                                dc.w  table_opdd - op_undefined
-004190                                dc.w  table_opdd - op_undefined
-004192                                dc.w  table_opdd - op_undefined
-004194                                dc.w  table_opdd - op_undefined
-004196                                dc.w  table_opdd - op_undefined
-004198                                dc.w  table_opdd - op_undefined
-00419a                                dc.w  table_opdd - op_undefined
-00419c                                dc.w  table_opdd - op_undefined
-00419e                                dc.w  table_opdd - op_undefined
-0041a0                                dc.w  table_opdd - op_undefined
-0041a2                                dc.w  table_opdd - op_undefined
-0041a4                                dc.w  table_opdd - op_undefined
-0041a6                                dc.w  table_opdd - op_undefined
-0041a8                                dc.w  table_opdd - op_undefined
-0041aa                                dc.w  table_opdd - op_undefined
-0041ac                                dc.w  table_opdd - op_ddf9
-0041ae                                dc.w  table_opdd - op_undefined
-0041b0                                dc.w  table_opdd - op_undefined
-0041b2                                dc.w  table_opdd - op_undefined
-0041b4                                dc.w  table_opdd - op_undefined
-0041b6                                dc.w  table_opdd - op_undefined
-0041b8                                dc.w  table_opdd - op_undefined
+003fba  ffff                          op_undefined - dc.w  table_opdd
+003fbc  ffff                          op_undefined - dc.w  table_opdd
+003fbe  ffff                          op_undefined - dc.w  table_opdd
+003fc0  ffff                          op_undefined - dc.w  table_opdd
+003fc2  ffff                          op_undefined - dc.w  table_opdd
+003fc4  ffff                          op_undefined - dc.w  table_opdd
+003fc6  ffff                          op_undefined - dc.w  table_opdd
+003fc8  ffff                          op_undefined - dc.w  table_opdd
+003fca  ffff                          op_undefined - dc.w  table_opdd
+003fcc  0200                          op_dd09 - dc.w  table_opdd
+003fce  ffff                          op_undefined - dc.w  table_opdd
+003fd0  ffff                          op_undefined - dc.w  table_opdd
+003fd2  ffff                          op_undefined - dc.w  table_opdd
+003fd4  ffff                          op_undefined - dc.w  table_opdd
+003fd6  ffff                          op_undefined - dc.w  table_opdd
+003fd8  ffff                          op_undefined - dc.w  table_opdd
+003fda  ffff                          op_undefined - dc.w  table_opdd
+003fdc  ffff                          op_undefined - dc.w  table_opdd
+003fde  ffff                          op_undefined - dc.w  table_opdd
+003fe0  ffff                          op_undefined - dc.w  table_opdd
+003fe2  ffff                          op_undefined - dc.w  table_opdd
+003fe4  ffff                          op_undefined - dc.w  table_opdd
+003fe6  ffff                          op_undefined - dc.w  table_opdd
+003fe8  ffff                          op_undefined - dc.w  table_opdd
+003fea  ffff                          op_undefined - dc.w  table_opdd
+003fec  0216                          op_dd19 - dc.w  table_opdd
+003fee  ffff                          op_undefined - dc.w  table_opdd
+003ff0  ffff                          op_undefined - dc.w  table_opdd
+003ff2  ffff                          op_undefined - dc.w  table_opdd
+003ff4  ffff                          op_undefined - dc.w  table_opdd
+003ff6  ffff                          op_undefined - dc.w  table_opdd
+003ff8  ffff                          op_undefined - dc.w  table_opdd
+003ffa  ffff                          op_undefined - dc.w  table_opdd
+003ffc  022c                          op_dd21 - dc.w  table_opdd
+003ffe  0240                          op_dd22 - dc.w  table_opdd
+004000  0260                          op_dd23 - dc.w  table_opdd
+004002  ffff                          op_undefined - dc.w  table_opdd
+004004  ffff                          op_undefined - dc.w  table_opdd
+004006  ffff                          op_undefined - dc.w  table_opdd
+004008  ffff                          op_undefined - dc.w  table_opdd
+00400a  ffff                          op_undefined - dc.w  table_opdd
+00400c  0270                          op_dd29 - dc.w  table_opdd
+00400e  0282                          op_dd2a - dc.w  table_opdd
+004010  02a2                          op_dd2b - dc.w  table_opdd
+004012  ffff                          op_undefined - dc.w  table_opdd
+004014  ffff                          op_undefined - dc.w  table_opdd
+004016  ffff                          op_undefined - dc.w  table_opdd
+004018  ffff                          op_undefined - dc.w  table_opdd
+00401a  ffff                          op_undefined - dc.w  table_opdd
+00401c  ffff                          op_undefined - dc.w  table_opdd
+00401e  ffff                          op_undefined - dc.w  table_opdd
+004020  ffff                          op_undefined - dc.w  table_opdd
+004022  02b2                          op_dd34 - dc.w  table_opdd
+004024  02de                          op_dd35 - dc.w  table_opdd
+004026  030a                          op_dd36 - dc.w  table_opdd
+004028  ffff                          op_undefined - dc.w  table_opdd
+00402a  ffff                          op_undefined - dc.w  table_opdd
+00402c  0322                          op_dd39 - dc.w  table_opdd
+00402e  ffff                          op_undefined - dc.w  table_opdd
+004030  ffff                          op_undefined - dc.w  table_opdd
+004032  ffff                          op_undefined - dc.w  table_opdd
+004034  ffff                          op_undefined - dc.w  table_opdd
+004036  ffff                          op_undefined - dc.w  table_opdd
+004038  ffff                          op_undefined - dc.w  table_opdd
+00403a  ffff                          op_undefined - dc.w  table_opdd
+00403c  ffff                          op_undefined - dc.w  table_opdd
+00403e  ffff                          op_undefined - dc.w  table_opdd
+004040  ffff                          op_undefined - dc.w  table_opdd
+004042  ffff                          op_undefined - dc.w  table_opdd
+004044  ffff                          op_undefined - dc.w  table_opdd
+004046  0338                          op_dd46 - dc.w  table_opdd
+004048  ffff                          op_undefined - dc.w  table_opdd
+00404a  ffff                          op_undefined - dc.w  table_opdd
+00404c  ffff                          op_undefined - dc.w  table_opdd
+00404e  ffff                          op_undefined - dc.w  table_opdd
+004050  ffff                          op_undefined - dc.w  table_opdd
+004052  ffff                          op_undefined - dc.w  table_opdd
+004054  ffff                          op_undefined - dc.w  table_opdd
+004056  0352                          op_dd4e - dc.w  table_opdd
+004058  ffff                          op_undefined - dc.w  table_opdd
+00405a  ffff                          op_undefined - dc.w  table_opdd
+00405c  ffff                          op_undefined - dc.w  table_opdd
+00405e  ffff                          op_undefined - dc.w  table_opdd
+004060  ffff                          op_undefined - dc.w  table_opdd
+004062  ffff                          op_undefined - dc.w  table_opdd
+004064  ffff                          op_undefined - dc.w  table_opdd
+004066  036c                          op_dd56 - dc.w  table_opdd
+004068  ffff                          op_undefined - dc.w  table_opdd
+00406a  ffff                          op_undefined - dc.w  table_opdd
+00406c  ffff                          op_undefined - dc.w  table_opdd
+00406e  ffff                          op_undefined - dc.w  table_opdd
+004070  ffff                          op_undefined - dc.w  table_opdd
+004072  ffff                          op_undefined - dc.w  table_opdd
+004074  ffff                          op_undefined - dc.w  table_opdd
+004076  0386                          op_dd5e - dc.w  table_opdd
+004078  ffff                          op_undefined - dc.w  table_opdd
+00407a  ffff                          op_undefined - dc.w  table_opdd
+00407c  ffff                          op_undefined - dc.w  table_opdd
+00407e  ffff                          op_undefined - dc.w  table_opdd
+004080  ffff                          op_undefined - dc.w  table_opdd
+004082  ffff                          op_undefined - dc.w  table_opdd
+004084  ffff                          op_undefined - dc.w  table_opdd
+004086  03a0                          op_dd66 - dc.w  table_opdd
+004088  ffff                          op_undefined - dc.w  table_opdd
+00408a  ffff                          op_undefined - dc.w  table_opdd
+00408c  ffff                          op_undefined - dc.w  table_opdd
+00408e  ffff                          op_undefined - dc.w  table_opdd
+004090  ffff                          op_undefined - dc.w  table_opdd
+004092  ffff                          op_undefined - dc.w  table_opdd
+004094  ffff                          op_undefined - dc.w  table_opdd
+004096  03b8                          op_dd6e - dc.w  table_opdd
+004098  ffff                          op_undefined - dc.w  table_opdd
+00409a  03d2                          op_dd70 - dc.w  table_opdd
+00409c  03ec                          op_dd71 - dc.w  table_opdd
+00409e  0406                          op_dd72 - dc.w  table_opdd
+0040a0  0420                          op_dd73 - dc.w  table_opdd
+0040a2  043a                          op_dd74 - dc.w  table_opdd
+0040a4  0452                          op_dd75 - dc.w  table_opdd
+0040a6  ffff                          op_undefined - dc.w  table_opdd
+0040a8  046c                          op_dd77 - dc.w  table_opdd
+0040aa  ffff                          op_undefined - dc.w  table_opdd
+0040ac  ffff                          op_undefined - dc.w  table_opdd
+0040ae  ffff                          op_undefined - dc.w  table_opdd
+0040b0  ffff                          op_undefined - dc.w  table_opdd
+0040b2  ffff                          op_undefined - dc.w  table_opdd
+0040b4  ffff                          op_undefined - dc.w  table_opdd
+0040b6  0484                          op_dd7e - dc.w  table_opdd
+0040b8  ffff                          op_undefined - dc.w  table_opdd
+0040ba  ffff                          op_undefined - dc.w  table_opdd
+0040bc  ffff                          op_undefined - dc.w  table_opdd
+0040be  ffff                          op_undefined - dc.w  table_opdd
+0040c0  ffff                          op_undefined - dc.w  table_opdd
+0040c2  ffff                          op_undefined - dc.w  table_opdd
+0040c4  ffff                          op_undefined - dc.w  table_opdd
+0040c6  049c                          op_dd86 - dc.w  table_opdd
+0040c8  ffff                          op_undefined - dc.w  table_opdd
+0040ca  ffff                          op_undefined - dc.w  table_opdd
+0040cc  ffff                          op_undefined - dc.w  table_opdd
+0040ce  ffff                          op_undefined - dc.w  table_opdd
+0040d0  ffff                          op_undefined - dc.w  table_opdd
+0040d2  ffff                          op_undefined - dc.w  table_opdd
+0040d4  ffff                          op_undefined - dc.w  table_opdd
+0040d6  04d2                          op_dd8e - dc.w  table_opdd
+0040d8  ffff                          op_undefined - dc.w  table_opdd
+0040da  ffff                          op_undefined - dc.w  table_opdd
+0040dc  ffff                          op_undefined - dc.w  table_opdd
+0040de  ffff                          op_undefined - dc.w  table_opdd
+0040e0  ffff                          op_undefined - dc.w  table_opdd
+0040e2  ffff                          op_undefined - dc.w  table_opdd
+0040e4  ffff                          op_undefined - dc.w  table_opdd
+0040e6  0510                          op_dd96 - dc.w  table_opdd
+0040e8  ffff                          op_undefined - dc.w  table_opdd
+0040ea  ffff                          op_undefined - dc.w  table_opdd
+0040ec  ffff                          op_undefined - dc.w  table_opdd
+0040ee  ffff                          op_undefined - dc.w  table_opdd
+0040f0  ffff                          op_undefined - dc.w  table_opdd
+0040f2  ffff                          op_undefined - dc.w  table_opdd
+0040f4  ffff                          op_undefined - dc.w  table_opdd
+0040f6  0546                          op_dd9e - dc.w  table_opdd
+0040f8  ffff                          op_undefined - dc.w  table_opdd
+0040fa  ffff                          op_undefined - dc.w  table_opdd
+0040fc  ffff                          op_undefined - dc.w  table_opdd
+0040fe  ffff                          op_undefined - dc.w  table_opdd
+004100  ffff                          op_undefined - dc.w  table_opdd
+004102  ffff                          op_undefined - dc.w  table_opdd
+004104  ffff                          op_undefined - dc.w  table_opdd
+004106  0584                          op_dda6 - dc.w  table_opdd
+004108  ffff                          op_undefined - dc.w  table_opdd
+00410a  ffff                          op_undefined - dc.w  table_opdd
+00410c  ffff                          op_undefined - dc.w  table_opdd
+00410e  ffff                          op_undefined - dc.w  table_opdd
+004110  ffff                          op_undefined - dc.w  table_opdd
+004112  ffff                          op_undefined - dc.w  table_opdd
+004114  ffff                          op_undefined - dc.w  table_opdd
+004116  05a4                          op_ddae - dc.w  table_opdd
+004118  ffff                          op_undefined - dc.w  table_opdd
+00411a  ffff                          op_undefined - dc.w  table_opdd
+00411c  ffff                          op_undefined - dc.w  table_opdd
+00411e  ffff                          op_undefined - dc.w  table_opdd
+004120  ffff                          op_undefined - dc.w  table_opdd
+004122  ffff                          op_undefined - dc.w  table_opdd
+004124  ffff                          op_undefined - dc.w  table_opdd
+004126  05c6                          op_ddb6 - dc.w  table_opdd
+004128  ffff                          op_undefined - dc.w  table_opdd
+00412a  ffff                          op_undefined - dc.w  table_opdd
+00412c  ffff                          op_undefined - dc.w  table_opdd
+00412e  ffff                          op_undefined - dc.w  table_opdd
+004130  ffff                          op_undefined - dc.w  table_opdd
+004132  ffff                          op_undefined - dc.w  table_opdd
+004134  ffff                          op_undefined - dc.w  table_opdd
+004136  05e6                          op_ddbe - dc.w  table_opdd
+004138  ffff                          op_undefined - dc.w  table_opdd
+00413a  ffff                          op_undefined - dc.w  table_opdd
+00413c  ffff                          op_undefined - dc.w  table_opdd
+00413e  ffff                          op_undefined - dc.w  table_opdd
+004140  ffff                          op_undefined - dc.w  table_opdd
+004142  ffff                          op_undefined - dc.w  table_opdd
+004144  ffff                          op_undefined - dc.w  table_opdd
+004146  ffff                          op_undefined - dc.w  table_opdd
+004148  ffff                          op_undefined - dc.w  table_opdd
+00414a  ffff                          op_undefined - dc.w  table_opdd
+00414c  ffff                          op_undefined - dc.w  table_opdd
+00414e  ffff                          op_undefined - dc.w  table_opdd
+004150  0608                          op_ddcb - dc.w  table_opdd
+004152  ffff                          op_undefined - dc.w  table_opdd
+004154  ffff                          op_undefined - dc.w  table_opdd
+004156  ffff                          op_undefined - dc.w  table_opdd
+004158  ffff                          op_undefined - dc.w  table_opdd
+00415a  ffff                          op_undefined - dc.w  table_opdd
+00415c  ffff                          op_undefined - dc.w  table_opdd
+00415e  ffff                          op_undefined - dc.w  table_opdd
+004160  ffff                          op_undefined - dc.w  table_opdd
+004162  ffff                          op_undefined - dc.w  table_opdd
+004164  ffff                          op_undefined - dc.w  table_opdd
+004166  ffff                          op_undefined - dc.w  table_opdd
+004168  ffff                          op_undefined - dc.w  table_opdd
+00416a  ffff                          op_undefined - dc.w  table_opdd
+00416c  ffff                          op_undefined - dc.w  table_opdd
+00416e  ffff                          op_undefined - dc.w  table_opdd
+004170  ffff                          op_undefined - dc.w  table_opdd
+004172  ffff                          op_undefined - dc.w  table_opdd
+004174  ffff                          op_undefined - dc.w  table_opdd
+004176  ffff                          op_undefined - dc.w  table_opdd
+004178  ffff                          op_undefined - dc.w  table_opdd
+00417a  ffff                          op_undefined - dc.w  table_opdd
+00417c  0622                          op_dde1 - dc.w  table_opdd
+00417e  ffff                          op_undefined - dc.w  table_opdd
+004180  0638                          op_dde3 - dc.w  table_opdd
+004182  ffff                          op_undefined - dc.w  table_opdd
+004184  065a                          op_dde5 - dc.w  table_opdd
+004186  ffff                          op_undefined - dc.w  table_opdd
+004188  ffff                          op_undefined - dc.w  table_opdd
+00418a  ffff                          op_undefined - dc.w  table_opdd
+00418c  0670                          op_dde9 - dc.w  table_opdd
+00418e  ffff                          op_undefined - dc.w  table_opdd
+004190  ffff                          op_undefined - dc.w  table_opdd
+004192  ffff                          op_undefined - dc.w  table_opdd
+004194  ffff                          op_undefined - dc.w  table_opdd
+004196  ffff                          op_undefined - dc.w  table_opdd
+004198  ffff                          op_undefined - dc.w  table_opdd
+00419a  ffff                          op_undefined - dc.w  table_opdd
+00419c  ffff                          op_undefined - dc.w  table_opdd
+00419e  ffff                          op_undefined - dc.w  table_opdd
+0041a0  ffff                          op_undefined - dc.w  table_opdd
+0041a2  ffff                          op_undefined - dc.w  table_opdd
+0041a4  ffff                          op_undefined - dc.w  table_opdd
+0041a6  ffff                          op_undefined - dc.w  table_opdd
+0041a8  ffff                          op_undefined - dc.w  table_opdd
+0041aa  ffff                          op_undefined - dc.w  table_opdd
+0041ac  0686                          op_ddf9 - dc.w  table_opdd
+0041ae  ffff                          op_undefined - dc.w  table_opdd
+0041b0  ffff                          op_undefined - dc.w  table_opdd
+0041b2  ffff                          op_undefined - dc.w  table_opdd
+0041b4  ffff                          op_undefined - dc.w  table_opdd
+0041b6  ffff                          op_undefined - dc.w  table_opdd
+0041b8  ffff                          op_undefined - dc.w  table_opdd
         op_dd09:                      ; add ix,bc
 0041ba  322d 0004                     MOVE.w    ($0004,a5),D1
 0041be  d36d 0018                     ADD.w     D1,$0018(A5)
@@ -7197,262 +7197,262 @@
 00464e  3233 0000                     MOVE.w    $00(A3,D0),D1
 004652  4ef3 1000                     JMP       $00(A3,D1)
         table_opfd:
-004656                                dc.w  table_opfd - op_undefined
-004658                                dc.w  table_opfd - op_undefined
-00465a                                dc.w  table_opfd - op_undefined
-00465c                                dc.w  table_opfd - op_undefined
-00465e                                dc.w  table_opfd - op_undefined
-004660                                dc.w  table_opfd - op_undefined
-004662                                dc.w  table_opfd - op_undefined
-004664                                dc.w  table_opfd - op_undefined
-004666                                dc.w  table_opfd - op_undefined
-004668                                dc.w  table_opfd - op_fd09
-00466a                                dc.w  table_opfd - op_undefined
-00466c                                dc.w  table_opfd - op_undefined
-00466e                                dc.w  table_opfd - op_undefined
-004670                                dc.w  table_opfd - op_undefined
-004672                                dc.w  table_opfd - op_undefined
-004674                                dc.w  table_opfd - op_undefined
-004676                                dc.w  table_opfd - op_undefined
-004678                                dc.w  table_opfd - op_undefined
-00467a                                dc.w  table_opfd - op_undefined
-00467c                                dc.w  table_opfd - op_undefined
-00467e                                dc.w  table_opfd - op_undefined
-004680                                dc.w  table_opfd - op_undefined
-004682                                dc.w  table_opfd - op_undefined
-004684                                dc.w  table_opfd - op_undefined
-004686                                dc.w  table_opfd - op_undefined
-004688                                dc.w  table_opfd - op_fd19
-00468a                                dc.w  table_opfd - op_undefined
-00468c                                dc.w  table_opfd - op_undefined
-00468e                                dc.w  table_opfd - op_undefined
-004690                                dc.w  table_opfd - op_undefined
-004692                                dc.w  table_opfd - op_undefined
-004694                                dc.w  table_opfd - op_undefined
-004696                                dc.w  table_opfd - op_undefined
-004698                                dc.w  table_opfd - op_fd21
-00469a                                dc.w  table_opfd - op_fd22
-00469c                                dc.w  table_opfd - op_fd23
-00469e                                dc.w  table_opfd - op_undefined
-0046a0                                dc.w  table_opfd - op_undefined
-0046a2                                dc.w  table_opfd - op_undefined
-0046a4                                dc.w  table_opfd - op_undefined
-0046a6                                dc.w  table_opfd - op_undefined
-0046a8                                dc.w  table_opfd - op_fd29
-0046aa                                dc.w  table_opfd - op_fd2a
-0046ac                                dc.w  table_opfd - op_fd2b
-0046ae                                dc.w  table_opfd - op_undefined
-0046b0                                dc.w  table_opfd - op_undefined
-0046b2                                dc.w  table_opfd - op_undefined
-0046b4                                dc.w  table_opfd - op_undefined
-0046b6                                dc.w  table_opfd - op_undefined
-0046b8                                dc.w  table_opfd - op_undefined
-0046ba                                dc.w  table_opfd - op_undefined
-0046bc                                dc.w  table_opfd - op_undefined
-0046be                                dc.w  table_opfd - op_fd34
-0046c0                                dc.w  table_opfd - op_fd35
-0046c2                                dc.w  table_opfd - op_fd36
-0046c4                                dc.w  table_opfd - op_undefined
-0046c6                                dc.w  table_opfd - op_undefined
-0046c8                                dc.w  table_opfd - op_fd39
-0046ca                                dc.w  table_opfd - op_undefined
-0046cc                                dc.w  table_opfd - op_undefined
-0046ce                                dc.w  table_opfd - op_undefined
-0046d0                                dc.w  table_opfd - op_undefined
-0046d2                                dc.w  table_opfd - op_undefined
-0046d4                                dc.w  table_opfd - op_undefined
-0046d6                                dc.w  table_opfd - op_undefined
-0046d8                                dc.w  table_opfd - op_undefined
-0046da                                dc.w  table_opfd - op_undefined
-0046dc                                dc.w  table_opfd - op_undefined
-0046de                                dc.w  table_opfd - op_undefined
-0046e0                                dc.w  table_opfd - op_undefined
-0046e2                                dc.w  table_opfd - op_fd46
-0046e4                                dc.w  table_opfd - op_undefined
-0046e6                                dc.w  table_opfd - op_undefined
-0046e8                                dc.w  table_opfd - op_undefined
-0046ea                                dc.w  table_opfd - op_undefined
-0046ec                                dc.w  table_opfd - op_undefined
-0046ee                                dc.w  table_opfd - op_undefined
-0046f0                                dc.w  table_opfd - op_undefined
-0046f2                                dc.w  table_opfd - op_fd4e
-0046f4                                dc.w  table_opfd - op_undefined
-0046f6                                dc.w  table_opfd - op_undefined
-0046f8                                dc.w  table_opfd - op_undefined
-0046fa                                dc.w  table_opfd - op_undefined
-0046fc                                dc.w  table_opfd - op_undefined
-0046fe                                dc.w  table_opfd - op_undefined
-004700                                dc.w  table_opfd - op_undefined
-004702                                dc.w  table_opfd - op_fd56
-004704                                dc.w  table_opfd - op_undefined
-004706                                dc.w  table_opfd - op_undefined
-004708                                dc.w  table_opfd - op_undefined
-00470a                                dc.w  table_opfd - op_undefined
-00470c                                dc.w  table_opfd - op_undefined
-00470e                                dc.w  table_opfd - op_undefined
-004710                                dc.w  table_opfd - op_undefined
-004712                                dc.w  table_opfd - op_fd5e
-004714                                dc.w  table_opfd - op_undefined
-004716                                dc.w  table_opfd - op_undefined
-004718                                dc.w  table_opfd - op_undefined
-00471a                                dc.w  table_opfd - op_undefined
-00471c                                dc.w  table_opfd - op_undefined
-00471e                                dc.w  table_opfd - op_undefined
-004720                                dc.w  table_opfd - op_undefined
-004722                                dc.w  table_opfd - op_fd66
-004724                                dc.w  table_opfd - op_undefined
-004726                                dc.w  table_opfd - op_undefined
-004728                                dc.w  table_opfd - op_undefined
-00472a                                dc.w  table_opfd - op_undefined
-00472c                                dc.w  table_opfd - op_undefined
-00472e                                dc.w  table_opfd - op_undefined
-004730                                dc.w  table_opfd - op_undefined
-004732                                dc.w  table_opfd - op_fd6e
-004734                                dc.w  table_opfd - op_undefined
-004736                                dc.w  table_opfd - op_fd70
-004738                                dc.w  table_opfd - op_fd71
-00473a                                dc.w  table_opfd - op_fd72
-00473c                                dc.w  table_opfd - op_fd73
-00473e                                dc.w  table_opfd - op_fd74
-004740                                dc.w  table_opfd - op_fd75
-004742                                dc.w  table_opfd - op_undefined
-004744                                dc.w  table_opfd - op_fd77
-004746                                dc.w  table_opfd - op_undefined
-004748                                dc.w  table_opfd - op_undefined
-00474a                                dc.w  table_opfd - op_undefined
-00474c                                dc.w  table_opfd - op_undefined
-00474e                                dc.w  table_opfd - op_undefined
-004750                                dc.w  table_opfd - op_undefined
-004752                                dc.w  table_opfd - op_fd7e
-004754                                dc.w  table_opfd - op_undefined
-004756                                dc.w  table_opfd - op_undefined
-004758                                dc.w  table_opfd - op_undefined
-00475a                                dc.w  table_opfd - op_undefined
-00475c                                dc.w  table_opfd - op_undefined
-00475e                                dc.w  table_opfd - op_undefined
-004760                                dc.w  table_opfd - op_undefined
-004762                                dc.w  table_opfd - op_fd86
-004764                                dc.w  table_opfd - op_undefined
-004766                                dc.w  table_opfd - op_undefined
-004768                                dc.w  table_opfd - op_undefined
-00476a                                dc.w  table_opfd - op_undefined
-00476c                                dc.w  table_opfd - op_undefined
-00476e                                dc.w  table_opfd - op_undefined
-004770                                dc.w  table_opfd - op_undefined
-004772                                dc.w  table_opfd - op_fd8e
-004774                                dc.w  table_opfd - op_undefined
-004776                                dc.w  table_opfd - op_undefined
-004778                                dc.w  table_opfd - op_undefined
-00477a                                dc.w  table_opfd - op_undefined
-00477c                                dc.w  table_opfd - op_undefined
-00477e                                dc.w  table_opfd - op_undefined
-004780                                dc.w  table_opfd - op_undefined
-004782                                dc.w  table_opfd - op_fd96
-004784                                dc.w  table_opfd - op_undefined
-004786                                dc.w  table_opfd - op_undefined
-004788                                dc.w  table_opfd - op_undefined
-00478a                                dc.w  table_opfd - op_undefined
-00478c                                dc.w  table_opfd - op_undefined
-00478e                                dc.w  table_opfd - op_undefined
-004790                                dc.w  table_opfd - op_undefined
-004792                                dc.w  table_opfd - op_fd9e
-004794                                dc.w  table_opfd - op_undefined
-004796                                dc.w  table_opfd - op_undefined
-004798                                dc.w  table_opfd - op_undefined
-00479a                                dc.w  table_opfd - op_undefined
-00479c                                dc.w  table_opfd - op_undefined
-00479e                                dc.w  table_opfd - op_undefined
-0047a0                                dc.w  table_opfd - op_undefined
-0047a2                                dc.w  table_opfd - op_fda6
-0047a4                                dc.w  table_opfd - op_undefined
-0047a6                                dc.w  table_opfd - op_undefined
-0047a8                                dc.w  table_opfd - op_undefined
-0047aa                                dc.w  table_opfd - op_undefined
-0047ac                                dc.w  table_opfd - op_undefined
-0047ae                                dc.w  table_opfd - op_undefined
-0047b0                                dc.w  table_opfd - op_undefined
-0047b2                                dc.w  table_opfd - op_fdae
-0047b4                                dc.w  table_opfd - op_undefined
-0047b6                                dc.w  table_opfd - op_undefined
-0047b8                                dc.w  table_opfd - op_undefined
-0047ba                                dc.w  table_opfd - op_undefined
-0047bc                                dc.w  table_opfd - op_undefined
-0047be                                dc.w  table_opfd - op_undefined
-0047c0                                dc.w  table_opfd - op_undefined
-0047c2                                dc.w  table_opfd - op_fdb6
-0047c4                                dc.w  table_opfd - op_undefined
-0047c6                                dc.w  table_opfd - op_undefined
-0047c8                                dc.w  table_opfd - op_undefined
-0047ca                                dc.w  table_opfd - op_undefined
-0047cc                                dc.w  table_opfd - op_undefined
-0047ce                                dc.w  table_opfd - op_undefined
-0047d0                                dc.w  table_opfd - op_undefined
-0047d2                                dc.w  table_opfd - op_fdbe
-0047d4                                dc.w  table_opfd - op_undefined
-0047d6                                dc.w  table_opfd - op_undefined
-0047d8                                dc.w  table_opfd - op_undefined
-0047da                                dc.w  table_opfd - op_undefined
-0047dc                                dc.w  table_opfd - op_undefined
-0047de                                dc.w  table_opfd - op_undefined
-0047e0                                dc.w  table_opfd - op_undefined
-0047e2                                dc.w  table_opfd - op_undefined
-0047e4                                dc.w  table_opfd - op_undefined
-0047e6                                dc.w  table_opfd - op_undefined
-0047e8                                dc.w  table_opfd - op_undefined
-0047ea                                dc.w  table_opfd - op_undefined
-0047ec                                dc.w  table_opfd - op_fdcb
-0047ee                                dc.w  table_opfd - op_undefined
-0047f0                                dc.w  table_opfd - op_undefined
-0047f2                                dc.w  table_opfd - op_undefined
-0047f4                                dc.w  table_opfd - op_undefined
-0047f6                                dc.w  table_opfd - op_undefined
-0047f8                                dc.w  table_opfd - op_undefined
-0047fa                                dc.w  table_opfd - op_undefined
-0047fc                                dc.w  table_opfd - op_undefined
-0047fe                                dc.w  table_opfd - op_undefined
-004800                                dc.w  table_opfd - op_undefined
-004802                                dc.w  table_opfd - op_undefined
-004804                                dc.w  table_opfd - op_undefined
-004806                                dc.w  table_opfd - op_undefined
-004808                                dc.w  table_opfd - op_undefined
-00480a                                dc.w  table_opfd - op_undefined
-00480c                                dc.w  table_opfd - op_undefined
-00480e                                dc.w  table_opfd - op_undefined
-004810                                dc.w  table_opfd - op_undefined
-004812                                dc.w  table_opfd - op_undefined
-004814                                dc.w  table_opfd - op_undefined
-004816                                dc.w  table_opfd - op_undefined
-004818                                dc.w  table_opfd - op_fde1
-00481a                                dc.w  table_opfd - op_undefined
-00481c                                dc.w  table_opfd - op_fde3
-00481e                                dc.w  table_opfd - op_undefined
-004820                                dc.w  table_opfd - op_fde5
-004822                                dc.w  table_opfd - op_undefined
-004824                                dc.w  table_opfd - op_undefined
-004826                                dc.w  table_opfd - op_undefined
-004828                                dc.w  table_opfd - op_fde9
-00482a                                dc.w  table_opfd - op_undefined
-00482c                                dc.w  table_opfd - op_undefined
-00482e                                dc.w  table_opfd - op_undefined
-004830                                dc.w  table_opfd - op_undefined
-004832                                dc.w  table_opfd - op_undefined
-004834                                dc.w  table_opfd - op_undefined
-004836                                dc.w  table_opfd - op_undefined
-004838                                dc.w  table_opfd - op_undefined
-00483a                                dc.w  table_opfd - op_undefined
-00483c                                dc.w  table_opfd - op_undefined
-00483e                                dc.w  table_opfd - op_undefined
-004840                                dc.w  table_opfd - op_undefined
-004842                                dc.w  table_opfd - op_undefined
-004844                                dc.w  table_opfd - op_undefined
-004846                                dc.w  table_opfd - op_undefined
-004848                                dc.w  table_opfd - op_fdf9
-00484a                                dc.w  table_opfd - op_undefined
-00484c                                dc.w  table_opfd - op_undefined
-00484e                                dc.w  table_opfd - op_undefined
-004850                                dc.w  table_opfd - op_undefined
-004852                                dc.w  table_opfd - op_undefined
-004854                                dc.w  table_opfd - op_undefined
+004656  ffff                          op_undefined - dc.w  table_opfd
+004658  ffff                          op_undefined - dc.w  table_opfd
+00465a  ffff                          op_undefined - dc.w  table_opfd
+00465c  ffff                          op_undefined - dc.w  table_opfd
+00465e  ffff                          op_undefined - dc.w  table_opfd
+004660  ffff                          op_undefined - dc.w  table_opfd
+004662  ffff                          op_undefined - dc.w  table_opfd
+004664  ffff                          op_undefined - dc.w  table_opfd
+004666  ffff                          op_undefined - dc.w  table_opfd
+004668  0200                          op_fd09 - dc.w  table_opfd
+00466a  ffff                          op_undefined - dc.w  table_opfd
+00466c  ffff                          op_undefined - dc.w  table_opfd
+00466e  ffff                          op_undefined - dc.w  table_opfd
+004670  ffff                          op_undefined - dc.w  table_opfd
+004672  ffff                          op_undefined - dc.w  table_opfd
+004674  ffff                          op_undefined - dc.w  table_opfd
+004676  ffff                          op_undefined - dc.w  table_opfd
+004678  ffff                          op_undefined - dc.w  table_opfd
+00467a  ffff                          op_undefined - dc.w  table_opfd
+00467c  ffff                          op_undefined - dc.w  table_opfd
+00467e  ffff                          op_undefined - dc.w  table_opfd
+004680  ffff                          op_undefined - dc.w  table_opfd
+004682  ffff                          op_undefined - dc.w  table_opfd
+004684  ffff                          op_undefined - dc.w  table_opfd
+004686  ffff                          op_undefined - dc.w  table_opfd
+004688  0216                          op_fd19 - dc.w  table_opfd
+00468a  ffff                          op_undefined - dc.w  table_opfd
+00468c  ffff                          op_undefined - dc.w  table_opfd
+00468e  ffff                          op_undefined - dc.w  table_opfd
+004690  ffff                          op_undefined - dc.w  table_opfd
+004692  ffff                          op_undefined - dc.w  table_opfd
+004694  ffff                          op_undefined - dc.w  table_opfd
+004696  ffff                          op_undefined - dc.w  table_opfd
+004698  022c                          op_fd21 - dc.w  table_opfd
+00469a  0240                          op_fd22 - dc.w  table_opfd
+00469c  0260                          op_fd23 - dc.w  table_opfd
+00469e  ffff                          op_undefined - dc.w  table_opfd
+0046a0  ffff                          op_undefined - dc.w  table_opfd
+0046a2  ffff                          op_undefined - dc.w  table_opfd
+0046a4  ffff                          op_undefined - dc.w  table_opfd
+0046a6  ffff                          op_undefined - dc.w  table_opfd
+0046a8  0270                          op_fd29 - dc.w  table_opfd
+0046aa  0282                          op_fd2a - dc.w  table_opfd
+0046ac  02a2                          op_fd2b - dc.w  table_opfd
+0046ae  ffff                          op_undefined - dc.w  table_opfd
+0046b0  ffff                          op_undefined - dc.w  table_opfd
+0046b2  ffff                          op_undefined - dc.w  table_opfd
+0046b4  ffff                          op_undefined - dc.w  table_opfd
+0046b6  ffff                          op_undefined - dc.w  table_opfd
+0046b8  ffff                          op_undefined - dc.w  table_opfd
+0046ba  ffff                          op_undefined - dc.w  table_opfd
+0046bc  ffff                          op_undefined - dc.w  table_opfd
+0046be  02b2                          op_fd34 - dc.w  table_opfd
+0046c0  02de                          op_fd35 - dc.w  table_opfd
+0046c2  030a                          op_fd36 - dc.w  table_opfd
+0046c4  ffff                          op_undefined - dc.w  table_opfd
+0046c6  ffff                          op_undefined - dc.w  table_opfd
+0046c8  0322                          op_fd39 - dc.w  table_opfd
+0046ca  ffff                          op_undefined - dc.w  table_opfd
+0046cc  ffff                          op_undefined - dc.w  table_opfd
+0046ce  ffff                          op_undefined - dc.w  table_opfd
+0046d0  ffff                          op_undefined - dc.w  table_opfd
+0046d2  ffff                          op_undefined - dc.w  table_opfd
+0046d4  ffff                          op_undefined - dc.w  table_opfd
+0046d6  ffff                          op_undefined - dc.w  table_opfd
+0046d8  ffff                          op_undefined - dc.w  table_opfd
+0046da  ffff                          op_undefined - dc.w  table_opfd
+0046dc  ffff                          op_undefined - dc.w  table_opfd
+0046de  ffff                          op_undefined - dc.w  table_opfd
+0046e0  ffff                          op_undefined - dc.w  table_opfd
+0046e2  0338                          op_fd46 - dc.w  table_opfd
+0046e4  ffff                          op_undefined - dc.w  table_opfd
+0046e6  ffff                          op_undefined - dc.w  table_opfd
+0046e8  ffff                          op_undefined - dc.w  table_opfd
+0046ea  ffff                          op_undefined - dc.w  table_opfd
+0046ec  ffff                          op_undefined - dc.w  table_opfd
+0046ee  ffff                          op_undefined - dc.w  table_opfd
+0046f0  ffff                          op_undefined - dc.w  table_opfd
+0046f2  0352                          op_fd4e - dc.w  table_opfd
+0046f4  ffff                          op_undefined - dc.w  table_opfd
+0046f6  ffff                          op_undefined - dc.w  table_opfd
+0046f8  ffff                          op_undefined - dc.w  table_opfd
+0046fa  ffff                          op_undefined - dc.w  table_opfd
+0046fc  ffff                          op_undefined - dc.w  table_opfd
+0046fe  ffff                          op_undefined - dc.w  table_opfd
+004700  ffff                          op_undefined - dc.w  table_opfd
+004702  036c                          op_fd56 - dc.w  table_opfd
+004704  ffff                          op_undefined - dc.w  table_opfd
+004706  ffff                          op_undefined - dc.w  table_opfd
+004708  ffff                          op_undefined - dc.w  table_opfd
+00470a  ffff                          op_undefined - dc.w  table_opfd
+00470c  ffff                          op_undefined - dc.w  table_opfd
+00470e  ffff                          op_undefined - dc.w  table_opfd
+004710  ffff                          op_undefined - dc.w  table_opfd
+004712  0386                          op_fd5e - dc.w  table_opfd
+004714  ffff                          op_undefined - dc.w  table_opfd
+004716  ffff                          op_undefined - dc.w  table_opfd
+004718  ffff                          op_undefined - dc.w  table_opfd
+00471a  ffff                          op_undefined - dc.w  table_opfd
+00471c  ffff                          op_undefined - dc.w  table_opfd
+00471e  ffff                          op_undefined - dc.w  table_opfd
+004720  ffff                          op_undefined - dc.w  table_opfd
+004722  03a0                          op_fd66 - dc.w  table_opfd
+004724  ffff                          op_undefined - dc.w  table_opfd
+004726  ffff                          op_undefined - dc.w  table_opfd
+004728  ffff                          op_undefined - dc.w  table_opfd
+00472a  ffff                          op_undefined - dc.w  table_opfd
+00472c  ffff                          op_undefined - dc.w  table_opfd
+00472e  ffff                          op_undefined - dc.w  table_opfd
+004730  ffff                          op_undefined - dc.w  table_opfd
+004732  03b8                          op_fd6e - dc.w  table_opfd
+004734  ffff                          op_undefined - dc.w  table_opfd
+004736  03d2                          op_fd70 - dc.w  table_opfd
+004738  03ec                          op_fd71 - dc.w  table_opfd
+00473a  0406                          op_fd72 - dc.w  table_opfd
+00473c  0420                          op_fd73 - dc.w  table_opfd
+00473e  043a                          op_fd74 - dc.w  table_opfd
+004740  0452                          op_fd75 - dc.w  table_opfd
+004742  ffff                          op_undefined - dc.w  table_opfd
+004744  046c                          op_fd77 - dc.w  table_opfd
+004746  ffff                          op_undefined - dc.w  table_opfd
+004748  ffff                          op_undefined - dc.w  table_opfd
+00474a  ffff                          op_undefined - dc.w  table_opfd
+00474c  ffff                          op_undefined - dc.w  table_opfd
+00474e  ffff                          op_undefined - dc.w  table_opfd
+004750  ffff                          op_undefined - dc.w  table_opfd
+004752  0484                          op_fd7e - dc.w  table_opfd
+004754  ffff                          op_undefined - dc.w  table_opfd
+004756  ffff                          op_undefined - dc.w  table_opfd
+004758  ffff                          op_undefined - dc.w  table_opfd
+00475a  ffff                          op_undefined - dc.w  table_opfd
+00475c  ffff                          op_undefined - dc.w  table_opfd
+00475e  ffff                          op_undefined - dc.w  table_opfd
+004760  ffff                          op_undefined - dc.w  table_opfd
+004762  049e                          op_fd86 - dc.w  table_opfd
+004764  ffff                          op_undefined - dc.w  table_opfd
+004766  ffff                          op_undefined - dc.w  table_opfd
+004768  ffff                          op_undefined - dc.w  table_opfd
+00476a  ffff                          op_undefined - dc.w  table_opfd
+00476c  ffff                          op_undefined - dc.w  table_opfd
+00476e  ffff                          op_undefined - dc.w  table_opfd
+004770  ffff                          op_undefined - dc.w  table_opfd
+004772  04d4                          op_fd8e - dc.w  table_opfd
+004774  ffff                          op_undefined - dc.w  table_opfd
+004776  ffff                          op_undefined - dc.w  table_opfd
+004778  ffff                          op_undefined - dc.w  table_opfd
+00477a  ffff                          op_undefined - dc.w  table_opfd
+00477c  ffff                          op_undefined - dc.w  table_opfd
+00477e  ffff                          op_undefined - dc.w  table_opfd
+004780  ffff                          op_undefined - dc.w  table_opfd
+004782  0512                          op_fd96 - dc.w  table_opfd
+004784  ffff                          op_undefined - dc.w  table_opfd
+004786  ffff                          op_undefined - dc.w  table_opfd
+004788  ffff                          op_undefined - dc.w  table_opfd
+00478a  ffff                          op_undefined - dc.w  table_opfd
+00478c  ffff                          op_undefined - dc.w  table_opfd
+00478e  ffff                          op_undefined - dc.w  table_opfd
+004790  ffff                          op_undefined - dc.w  table_opfd
+004792  0548                          op_fd9e - dc.w  table_opfd
+004794  ffff                          op_undefined - dc.w  table_opfd
+004796  ffff                          op_undefined - dc.w  table_opfd
+004798  ffff                          op_undefined - dc.w  table_opfd
+00479a  ffff                          op_undefined - dc.w  table_opfd
+00479c  ffff                          op_undefined - dc.w  table_opfd
+00479e  ffff                          op_undefined - dc.w  table_opfd
+0047a0  ffff                          op_undefined - dc.w  table_opfd
+0047a2  0586                          op_fda6 - dc.w  table_opfd
+0047a4  ffff                          op_undefined - dc.w  table_opfd
+0047a6  ffff                          op_undefined - dc.w  table_opfd
+0047a8  ffff                          op_undefined - dc.w  table_opfd
+0047aa  ffff                          op_undefined - dc.w  table_opfd
+0047ac  ffff                          op_undefined - dc.w  table_opfd
+0047ae  ffff                          op_undefined - dc.w  table_opfd
+0047b0  ffff                          op_undefined - dc.w  table_opfd
+0047b2  05a6                          op_fdae - dc.w  table_opfd
+0047b4  ffff                          op_undefined - dc.w  table_opfd
+0047b6  ffff                          op_undefined - dc.w  table_opfd
+0047b8  ffff                          op_undefined - dc.w  table_opfd
+0047ba  ffff                          op_undefined - dc.w  table_opfd
+0047bc  ffff                          op_undefined - dc.w  table_opfd
+0047be  ffff                          op_undefined - dc.w  table_opfd
+0047c0  ffff                          op_undefined - dc.w  table_opfd
+0047c2  05c8                          op_fdb6 - dc.w  table_opfd
+0047c4  ffff                          op_undefined - dc.w  table_opfd
+0047c6  ffff                          op_undefined - dc.w  table_opfd
+0047c8  ffff                          op_undefined - dc.w  table_opfd
+0047ca  ffff                          op_undefined - dc.w  table_opfd
+0047cc  ffff                          op_undefined - dc.w  table_opfd
+0047ce  ffff                          op_undefined - dc.w  table_opfd
+0047d0  ffff                          op_undefined - dc.w  table_opfd
+0047d2  05e8                          op_fdbe - dc.w  table_opfd
+0047d4  ffff                          op_undefined - dc.w  table_opfd
+0047d6  ffff                          op_undefined - dc.w  table_opfd
+0047d8  ffff                          op_undefined - dc.w  table_opfd
+0047da  ffff                          op_undefined - dc.w  table_opfd
+0047dc  ffff                          op_undefined - dc.w  table_opfd
+0047de  ffff                          op_undefined - dc.w  table_opfd
+0047e0  ffff                          op_undefined - dc.w  table_opfd
+0047e2  ffff                          op_undefined - dc.w  table_opfd
+0047e4  ffff                          op_undefined - dc.w  table_opfd
+0047e6  ffff                          op_undefined - dc.w  table_opfd
+0047e8  ffff                          op_undefined - dc.w  table_opfd
+0047ea  ffff                          op_undefined - dc.w  table_opfd
+0047ec  060a                          op_fdcb - dc.w  table_opfd
+0047ee  ffff                          op_undefined - dc.w  table_opfd
+0047f0  ffff                          op_undefined - dc.w  table_opfd
+0047f2  ffff                          op_undefined - dc.w  table_opfd
+0047f4  ffff                          op_undefined - dc.w  table_opfd
+0047f6  ffff                          op_undefined - dc.w  table_opfd
+0047f8  ffff                          op_undefined - dc.w  table_opfd
+0047fa  ffff                          op_undefined - dc.w  table_opfd
+0047fc  ffff                          op_undefined - dc.w  table_opfd
+0047fe  ffff                          op_undefined - dc.w  table_opfd
+004800  ffff                          op_undefined - dc.w  table_opfd
+004802  ffff                          op_undefined - dc.w  table_opfd
+004804  ffff                          op_undefined - dc.w  table_opfd
+004806  ffff                          op_undefined - dc.w  table_opfd
+004808  ffff                          op_undefined - dc.w  table_opfd
+00480a  ffff                          op_undefined - dc.w  table_opfd
+00480c  ffff                          op_undefined - dc.w  table_opfd
+00480e  ffff                          op_undefined - dc.w  table_opfd
+004810  ffff                          op_undefined - dc.w  table_opfd
+004812  ffff                          op_undefined - dc.w  table_opfd
+004814  ffff                          op_undefined - dc.w  table_opfd
+004816  ffff                          op_undefined - dc.w  table_opfd
+004818  0624                          op_fde1 - dc.w  table_opfd
+00481a  ffff                          op_undefined - dc.w  table_opfd
+00481c  063a                          op_fde3 - dc.w  table_opfd
+00481e  ffff                          op_undefined - dc.w  table_opfd
+004820  065c                          op_fde5 - dc.w  table_opfd
+004822  ffff                          op_undefined - dc.w  table_opfd
+004824  ffff                          op_undefined - dc.w  table_opfd
+004826  ffff                          op_undefined - dc.w  table_opfd
+004828  0672                          op_fde9 - dc.w  table_opfd
+00482a  ffff                          op_undefined - dc.w  table_opfd
+00482c  ffff                          op_undefined - dc.w  table_opfd
+00482e  ffff                          op_undefined - dc.w  table_opfd
+004830  ffff                          op_undefined - dc.w  table_opfd
+004832  ffff                          op_undefined - dc.w  table_opfd
+004834  ffff                          op_undefined - dc.w  table_opfd
+004836  ffff                          op_undefined - dc.w  table_opfd
+004838  ffff                          op_undefined - dc.w  table_opfd
+00483a  ffff                          op_undefined - dc.w  table_opfd
+00483c  ffff                          op_undefined - dc.w  table_opfd
+00483e  ffff                          op_undefined - dc.w  table_opfd
+004840  ffff                          op_undefined - dc.w  table_opfd
+004842  ffff                          op_undefined - dc.w  table_opfd
+004844  ffff                          op_undefined - dc.w  table_opfd
+004846  ffff                          op_undefined - dc.w  table_opfd
+004848  0688                          op_fdf9 - dc.w  table_opfd
+00484a  ffff                          op_undefined - dc.w  table_opfd
+00484c  ffff                          op_undefined - dc.w  table_opfd
+00484e  ffff                          op_undefined - dc.w  table_opfd
+004850  ffff                          op_undefined - dc.w  table_opfd
+004852  ffff                          op_undefined - dc.w  table_opfd
+004854  ffff                          op_undefined - dc.w  table_opfd
         op_fd09:                      ; add iy,bc
 004856  322d 0004                     MOVE.w    ($0004,a5),D1
 00485a  d36d 001a                     ADD.w     D1,$001a(A5)
@@ -7895,262 +7895,262 @@
 004cec  3233 0000                     MOVE.w    $00(A3,D0),D1
 004cf0  4ef3 1000                     JMP       $00(A3,D1)
         table_opddcb:
-004cf4                                dc.w  table_opddcb - op_undefined
-004cf6                                dc.w  table_opddcb - op_undefined
-004cf8                                dc.w  table_opddcb - op_undefined
-004cfa                                dc.w  table_opddcb - op_undefined
-004cfc                                dc.w  table_opddcb - op_undefined
-004cfe                                dc.w  table_opddcb - op_undefined
-004d00                                dc.w  table_opddcb - op_ddcb06
-004d02                                dc.w  table_opddcb - op_undefined
-004d04                                dc.w  table_opddcb - op_undefined
-004d06                                dc.w  table_opddcb - op_undefined
-004d08                                dc.w  table_opddcb - op_undefined
-004d0a                                dc.w  table_opddcb - op_undefined
-004d0c                                dc.w  table_opddcb - op_undefined
-004d0e                                dc.w  table_opddcb - op_undefined
-004d10                                dc.w  table_opddcb - op_ddcb0e
-004d12                                dc.w  table_opddcb - op_undefined
-004d14                                dc.w  table_opddcb - op_undefined
-004d16                                dc.w  table_opddcb - op_undefined
-004d18                                dc.w  table_opddcb - op_undefined
-004d1a                                dc.w  table_opddcb - op_undefined
-004d1c                                dc.w  table_opddcb - op_undefined
-004d1e                                dc.w  table_opddcb - op_undefined
-004d20                                dc.w  table_opddcb - op_ddcb16
-004d22                                dc.w  table_opddcb - op_undefined
-004d24                                dc.w  table_opddcb - op_undefined
-004d26                                dc.w  table_opddcb - op_undefined
-004d28                                dc.w  table_opddcb - op_undefined
-004d2a                                dc.w  table_opddcb - op_undefined
-004d2c                                dc.w  table_opddcb - op_undefined
-004d2e                                dc.w  table_opddcb - op_undefined
-004d30                                dc.w  table_opddcb - op_ddcb1e
-004d32                                dc.w  table_opddcb - op_undefined
-004d34                                dc.w  table_opddcb - op_undefined
-004d36                                dc.w  table_opddcb - op_undefined
-004d38                                dc.w  table_opddcb - op_undefined
-004d3a                                dc.w  table_opddcb - op_undefined
-004d3c                                dc.w  table_opddcb - op_undefined
-004d3e                                dc.w  table_opddcb - op_undefined
-004d40                                dc.w  table_opddcb - op_ddcb26
-004d42                                dc.w  table_opddcb - op_undefined
-004d44                                dc.w  table_opddcb - op_undefined
-004d46                                dc.w  table_opddcb - op_undefined
-004d48                                dc.w  table_opddcb - op_undefined
-004d4a                                dc.w  table_opddcb - op_undefined
-004d4c                                dc.w  table_opddcb - op_undefined
-004d4e                                dc.w  table_opddcb - op_undefined
-004d50                                dc.w  table_opddcb - op_ddcb2e
-004d52                                dc.w  table_opddcb - op_undefined
-004d54                                dc.w  table_opddcb - op_undefined
-004d56                                dc.w  table_opddcb - op_undefined
-004d58                                dc.w  table_opddcb - op_undefined
-004d5a                                dc.w  table_opddcb - op_undefined
-004d5c                                dc.w  table_opddcb - op_undefined
-004d5e                                dc.w  table_opddcb - op_undefined
-004d60                                dc.w  table_opddcb - op_undefined
-004d62                                dc.w  table_opddcb - op_undefined
-004d64                                dc.w  table_opddcb - op_undefined
-004d66                                dc.w  table_opddcb - op_undefined
-004d68                                dc.w  table_opddcb - op_undefined
-004d6a                                dc.w  table_opddcb - op_undefined
-004d6c                                dc.w  table_opddcb - op_undefined
-004d6e                                dc.w  table_opddcb - op_undefined
-004d70                                dc.w  table_opddcb - op_ddcb3e
-004d72                                dc.w  table_opddcb - op_undefined
-004d74                                dc.w  table_opddcb - op_undefined
-004d76                                dc.w  table_opddcb - op_undefined
-004d78                                dc.w  table_opddcb - op_undefined
-004d7a                                dc.w  table_opddcb - op_undefined
-004d7c                                dc.w  table_opddcb - op_undefined
-004d7e                                dc.w  table_opddcb - op_undefined
-004d80                                dc.w  table_opddcb - op_ddcb46
-004d82                                dc.w  table_opddcb - op_undefined
-004d84                                dc.w  table_opddcb - op_undefined
-004d86                                dc.w  table_opddcb - op_undefined
-004d88                                dc.w  table_opddcb - op_undefined
-004d8a                                dc.w  table_opddcb - op_undefined
-004d8c                                dc.w  table_opddcb - op_undefined
-004d8e                                dc.w  table_opddcb - op_undefined
-004d90                                dc.w  table_opddcb - op_ddcb4e
-004d92                                dc.w  table_opddcb - op_undefined
-004d94                                dc.w  table_opddcb - op_undefined
-004d96                                dc.w  table_opddcb - op_undefined
-004d98                                dc.w  table_opddcb - op_undefined
-004d9a                                dc.w  table_opddcb - op_undefined
-004d9c                                dc.w  table_opddcb - op_undefined
-004d9e                                dc.w  table_opddcb - op_undefined
-004da0                                dc.w  table_opddcb - op_ddcb56
-004da2                                dc.w  table_opddcb - op_undefined
-004da4                                dc.w  table_opddcb - op_undefined
-004da6                                dc.w  table_opddcb - op_undefined
-004da8                                dc.w  table_opddcb - op_undefined
-004daa                                dc.w  table_opddcb - op_undefined
-004dac                                dc.w  table_opddcb - op_undefined
-004dae                                dc.w  table_opddcb - op_undefined
-004db0                                dc.w  table_opddcb - op_ddcb5e
-004db2                                dc.w  table_opddcb - op_undefined
-004db4                                dc.w  table_opddcb - op_undefined
-004db6                                dc.w  table_opddcb - op_undefined
-004db8                                dc.w  table_opddcb - op_undefined
-004dba                                dc.w  table_opddcb - op_undefined
-004dbc                                dc.w  table_opddcb - op_undefined
-004dbe                                dc.w  table_opddcb - op_undefined
-004dc0                                dc.w  table_opddcb - op_ddcb66
-004dc2                                dc.w  table_opddcb - op_undefined
-004dc4                                dc.w  table_opddcb - op_undefined
-004dc6                                dc.w  table_opddcb - op_undefined
-004dc8                                dc.w  table_opddcb - op_undefined
-004dca                                dc.w  table_opddcb - op_undefined
-004dcc                                dc.w  table_opddcb - op_undefined
-004dce                                dc.w  table_opddcb - op_undefined
-004dd0                                dc.w  table_opddcb - op_ddcb6e
-004dd2                                dc.w  table_opddcb - op_undefined
-004dd4                                dc.w  table_opddcb - op_undefined
-004dd6                                dc.w  table_opddcb - op_undefined
-004dd8                                dc.w  table_opddcb - op_undefined
-004dda                                dc.w  table_opddcb - op_undefined
-004ddc                                dc.w  table_opddcb - op_undefined
-004dde                                dc.w  table_opddcb - op_undefined
-004de0                                dc.w  table_opddcb - op_ddcb76
-004de2                                dc.w  table_opddcb - op_undefined
-004de4                                dc.w  table_opddcb - op_undefined
-004de6                                dc.w  table_opddcb - op_undefined
-004de8                                dc.w  table_opddcb - op_undefined
-004dea                                dc.w  table_opddcb - op_undefined
-004dec                                dc.w  table_opddcb - op_undefined
-004dee                                dc.w  table_opddcb - op_undefined
-004df0                                dc.w  table_opddcb - op_ddcb7e
-004df2                                dc.w  table_opddcb - op_undefined
-004df4                                dc.w  table_opddcb - op_undefined
-004df6                                dc.w  table_opddcb - op_undefined
-004df8                                dc.w  table_opddcb - op_undefined
-004dfa                                dc.w  table_opddcb - op_undefined
-004dfc                                dc.w  table_opddcb - op_undefined
-004dfe                                dc.w  table_opddcb - op_undefined
-004e00                                dc.w  table_opddcb - op_ddcb86
-004e02                                dc.w  table_opddcb - op_undefined
-004e04                                dc.w  table_opddcb - op_undefined
-004e06                                dc.w  table_opddcb - op_undefined
-004e08                                dc.w  table_opddcb - op_undefined
-004e0a                                dc.w  table_opddcb - op_undefined
-004e0c                                dc.w  table_opddcb - op_undefined
-004e0e                                dc.w  table_opddcb - op_undefined
-004e10                                dc.w  table_opddcb - op_ddcb8e
-004e12                                dc.w  table_opddcb - op_undefined
-004e14                                dc.w  table_opddcb - op_undefined
-004e16                                dc.w  table_opddcb - op_undefined
-004e18                                dc.w  table_opddcb - op_undefined
-004e1a                                dc.w  table_opddcb - op_undefined
-004e1c                                dc.w  table_opddcb - op_undefined
-004e1e                                dc.w  table_opddcb - op_undefined
-004e20                                dc.w  table_opddcb - op_ddcb96
-004e22                                dc.w  table_opddcb - op_undefined
-004e24                                dc.w  table_opddcb - op_undefined
-004e26                                dc.w  table_opddcb - op_undefined
-004e28                                dc.w  table_opddcb - op_undefined
-004e2a                                dc.w  table_opddcb - op_undefined
-004e2c                                dc.w  table_opddcb - op_undefined
-004e2e                                dc.w  table_opddcb - op_undefined
-004e30                                dc.w  table_opddcb - op_ddcb9e
-004e32                                dc.w  table_opddcb - op_undefined
-004e34                                dc.w  table_opddcb - op_undefined
-004e36                                dc.w  table_opddcb - op_undefined
-004e38                                dc.w  table_opddcb - op_undefined
-004e3a                                dc.w  table_opddcb - op_undefined
-004e3c                                dc.w  table_opddcb - op_undefined
-004e3e                                dc.w  table_opddcb - op_undefined
-004e40                                dc.w  table_opddcb - op_ddcba6
-004e42                                dc.w  table_opddcb - op_undefined
-004e44                                dc.w  table_opddcb - op_undefined
-004e46                                dc.w  table_opddcb - op_undefined
-004e48                                dc.w  table_opddcb - op_undefined
-004e4a                                dc.w  table_opddcb - op_undefined
-004e4c                                dc.w  table_opddcb - op_undefined
-004e4e                                dc.w  table_opddcb - op_undefined
-004e50                                dc.w  table_opddcb - op_ddcbae
-004e52                                dc.w  table_opddcb - op_undefined
-004e54                                dc.w  table_opddcb - op_undefined
-004e56                                dc.w  table_opddcb - op_undefined
-004e58                                dc.w  table_opddcb - op_undefined
-004e5a                                dc.w  table_opddcb - op_undefined
-004e5c                                dc.w  table_opddcb - op_undefined
-004e5e                                dc.w  table_opddcb - op_undefined
-004e60                                dc.w  table_opddcb - op_ddcbb6
-004e62                                dc.w  table_opddcb - op_undefined
-004e64                                dc.w  table_opddcb - op_undefined
-004e66                                dc.w  table_opddcb - op_undefined
-004e68                                dc.w  table_opddcb - op_undefined
-004e6a                                dc.w  table_opddcb - op_undefined
-004e6c                                dc.w  table_opddcb - op_undefined
-004e6e                                dc.w  table_opddcb - op_undefined
-004e70                                dc.w  table_opddcb - op_ddcbbe
-004e72                                dc.w  table_opddcb - op_undefined
-004e74                                dc.w  table_opddcb - op_undefined
-004e76                                dc.w  table_opddcb - op_undefined
-004e78                                dc.w  table_opddcb - op_undefined
-004e7a                                dc.w  table_opddcb - op_undefined
-004e7c                                dc.w  table_opddcb - op_undefined
-004e7e                                dc.w  table_opddcb - op_undefined
-004e80                                dc.w  table_opddcb - op_ddcbc6
-004e82                                dc.w  table_opddcb - op_undefined
-004e84                                dc.w  table_opddcb - op_undefined
-004e86                                dc.w  table_opddcb - op_undefined
-004e88                                dc.w  table_opddcb - op_undefined
-004e8a                                dc.w  table_opddcb - op_undefined
-004e8c                                dc.w  table_opddcb - op_undefined
-004e8e                                dc.w  table_opddcb - op_undefined
-004e90                                dc.w  table_opddcb - op_ddcbce
-004e92                                dc.w  table_opddcb - op_undefined
-004e94                                dc.w  table_opddcb - op_undefined
-004e96                                dc.w  table_opddcb - op_undefined
-004e98                                dc.w  table_opddcb - op_undefined
-004e9a                                dc.w  table_opddcb - op_undefined
-004e9c                                dc.w  table_opddcb - op_undefined
-004e9e                                dc.w  table_opddcb - op_undefined
-004ea0                                dc.w  table_opddcb - op_ddcbd6
-004ea2                                dc.w  table_opddcb - op_undefined
-004ea4                                dc.w  table_opddcb - op_undefined
-004ea6                                dc.w  table_opddcb - op_undefined
-004ea8                                dc.w  table_opddcb - op_undefined
-004eaa                                dc.w  table_opddcb - op_undefined
-004eac                                dc.w  table_opddcb - op_undefined
-004eae                                dc.w  table_opddcb - op_undefined
-004eb0                                dc.w  table_opddcb - op_ddcbde
-004eb2                                dc.w  table_opddcb - op_undefined
-004eb4                                dc.w  table_opddcb - op_undefined
-004eb6                                dc.w  table_opddcb - op_undefined
-004eb8                                dc.w  table_opddcb - op_undefined
-004eba                                dc.w  table_opddcb - op_undefined
-004ebc                                dc.w  table_opddcb - op_undefined
-004ebe                                dc.w  table_opddcb - op_undefined
-004ec0                                dc.w  table_opddcb - op_ddcbe6
-004ec2                                dc.w  table_opddcb - op_undefined
-004ec4                                dc.w  table_opddcb - op_undefined
-004ec6                                dc.w  table_opddcb - op_undefined
-004ec8                                dc.w  table_opddcb - op_undefined
-004eca                                dc.w  table_opddcb - op_undefined
-004ecc                                dc.w  table_opddcb - op_undefined
-004ece                                dc.w  table_opddcb - op_undefined
-004ed0                                dc.w  table_opddcb - op_ddcbee
-004ed2                                dc.w  table_opddcb - op_undefined
-004ed4                                dc.w  table_opddcb - op_undefined
-004ed6                                dc.w  table_opddcb - op_undefined
-004ed8                                dc.w  table_opddcb - op_undefined
-004eda                                dc.w  table_opddcb - op_undefined
-004edc                                dc.w  table_opddcb - op_undefined
-004ede                                dc.w  table_opddcb - op_undefined
-004ee0                                dc.w  table_opddcb - op_ddcbf6
-004ee2                                dc.w  table_opddcb - op_undefined
-004ee4                                dc.w  table_opddcb - op_undefined
-004ee6                                dc.w  table_opddcb - op_undefined
-004ee8                                dc.w  table_opddcb - op_undefined
-004eea                                dc.w  table_opddcb - op_undefined
-004eec                                dc.w  table_opddcb - op_undefined
-004eee                                dc.w  table_opddcb - op_undefined
-004ef0                                dc.w  table_opddcb - op_ddcbfe
-004ef2                                dc.w  table_opddcb - op_undefined
+004cf4  ffff                          op_undefined - dc.w  table_opddcb
+004cf6  ffff                          op_undefined - dc.w  table_opddcb
+004cf8  ffff                          op_undefined - dc.w  table_opddcb
+004cfa  ffff                          op_undefined - dc.w  table_opddcb
+004cfc  ffff                          op_undefined - dc.w  table_opddcb
+004cfe  ffff                          op_undefined - dc.w  table_opddcb
+004d00  0200                          op_ddcb06 - dc.w  table_opddcb
+004d02  ffff                          op_undefined - dc.w  table_opddcb
+004d04  ffff                          op_undefined - dc.w  table_opddcb
+004d06  ffff                          op_undefined - dc.w  table_opddcb
+004d08  ffff                          op_undefined - dc.w  table_opddcb
+004d0a  ffff                          op_undefined - dc.w  table_opddcb
+004d0c  ffff                          op_undefined - dc.w  table_opddcb
+004d0e  ffff                          op_undefined - dc.w  table_opddcb
+004d10  021e                          op_ddcb0e - dc.w  table_opddcb
+004d12  ffff                          op_undefined - dc.w  table_opddcb
+004d14  ffff                          op_undefined - dc.w  table_opddcb
+004d16  ffff                          op_undefined - dc.w  table_opddcb
+004d18  ffff                          op_undefined - dc.w  table_opddcb
+004d1a  ffff                          op_undefined - dc.w  table_opddcb
+004d1c  ffff                          op_undefined - dc.w  table_opddcb
+004d1e  ffff                          op_undefined - dc.w  table_opddcb
+004d20  023c                          op_ddcb16 - dc.w  table_opddcb
+004d22  ffff                          op_undefined - dc.w  table_opddcb
+004d24  ffff                          op_undefined - dc.w  table_opddcb
+004d26  ffff                          op_undefined - dc.w  table_opddcb
+004d28  ffff                          op_undefined - dc.w  table_opddcb
+004d2a  ffff                          op_undefined - dc.w  table_opddcb
+004d2c  ffff                          op_undefined - dc.w  table_opddcb
+004d2e  ffff                          op_undefined - dc.w  table_opddcb
+004d30  025c                          op_ddcb1e - dc.w  table_opddcb
+004d32  ffff                          op_undefined - dc.w  table_opddcb
+004d34  ffff                          op_undefined - dc.w  table_opddcb
+004d36  ffff                          op_undefined - dc.w  table_opddcb
+004d38  ffff                          op_undefined - dc.w  table_opddcb
+004d3a  ffff                          op_undefined - dc.w  table_opddcb
+004d3c  ffff                          op_undefined - dc.w  table_opddcb
+004d3e  ffff                          op_undefined - dc.w  table_opddcb
+004d40  027c                          op_ddcb26 - dc.w  table_opddcb
+004d42  ffff                          op_undefined - dc.w  table_opddcb
+004d44  ffff                          op_undefined - dc.w  table_opddcb
+004d46  ffff                          op_undefined - dc.w  table_opddcb
+004d48  ffff                          op_undefined - dc.w  table_opddcb
+004d4a  ffff                          op_undefined - dc.w  table_opddcb
+004d4c  ffff                          op_undefined - dc.w  table_opddcb
+004d4e  ffff                          op_undefined - dc.w  table_opddcb
+004d50  0298                          op_ddcb2e - dc.w  table_opddcb
+004d52  ffff                          op_undefined - dc.w  table_opddcb
+004d54  ffff                          op_undefined - dc.w  table_opddcb
+004d56  ffff                          op_undefined - dc.w  table_opddcb
+004d58  ffff                          op_undefined - dc.w  table_opddcb
+004d5a  ffff                          op_undefined - dc.w  table_opddcb
+004d5c  ffff                          op_undefined - dc.w  table_opddcb
+004d5e  ffff                          op_undefined - dc.w  table_opddcb
+004d60  ffff                          op_undefined - dc.w  table_opddcb
+004d62  ffff                          op_undefined - dc.w  table_opddcb
+004d64  ffff                          op_undefined - dc.w  table_opddcb
+004d66  ffff                          op_undefined - dc.w  table_opddcb
+004d68  ffff                          op_undefined - dc.w  table_opddcb
+004d6a  ffff                          op_undefined - dc.w  table_opddcb
+004d6c  ffff                          op_undefined - dc.w  table_opddcb
+004d6e  ffff                          op_undefined - dc.w  table_opddcb
+004d70  02b6                          op_ddcb3e - dc.w  table_opddcb
+004d72  ffff                          op_undefined - dc.w  table_opddcb
+004d74  ffff                          op_undefined - dc.w  table_opddcb
+004d76  ffff                          op_undefined - dc.w  table_opddcb
+004d78  ffff                          op_undefined - dc.w  table_opddcb
+004d7a  ffff                          op_undefined - dc.w  table_opddcb
+004d7c  ffff                          op_undefined - dc.w  table_opddcb
+004d7e  ffff                          op_undefined - dc.w  table_opddcb
+004d80  02d4                          op_ddcb46 - dc.w  table_opddcb
+004d82  ffff                          op_undefined - dc.w  table_opddcb
+004d84  ffff                          op_undefined - dc.w  table_opddcb
+004d86  ffff                          op_undefined - dc.w  table_opddcb
+004d88  ffff                          op_undefined - dc.w  table_opddcb
+004d8a  ffff                          op_undefined - dc.w  table_opddcb
+004d8c  ffff                          op_undefined - dc.w  table_opddcb
+004d8e  ffff                          op_undefined - dc.w  table_opddcb
+004d90  02ea                          op_ddcb4e - dc.w  table_opddcb
+004d92  ffff                          op_undefined - dc.w  table_opddcb
+004d94  ffff                          op_undefined - dc.w  table_opddcb
+004d96  ffff                          op_undefined - dc.w  table_opddcb
+004d98  ffff                          op_undefined - dc.w  table_opddcb
+004d9a  ffff                          op_undefined - dc.w  table_opddcb
+004d9c  ffff                          op_undefined - dc.w  table_opddcb
+004d9e  ffff                          op_undefined - dc.w  table_opddcb
+004da0  0300                          op_ddcb56 - dc.w  table_opddcb
+004da2  ffff                          op_undefined - dc.w  table_opddcb
+004da4  ffff                          op_undefined - dc.w  table_opddcb
+004da6  ffff                          op_undefined - dc.w  table_opddcb
+004da8  ffff                          op_undefined - dc.w  table_opddcb
+004daa  ffff                          op_undefined - dc.w  table_opddcb
+004dac  ffff                          op_undefined - dc.w  table_opddcb
+004dae  ffff                          op_undefined - dc.w  table_opddcb
+004db0  0316                          op_ddcb5e - dc.w  table_opddcb
+004db2  ffff                          op_undefined - dc.w  table_opddcb
+004db4  ffff                          op_undefined - dc.w  table_opddcb
+004db6  ffff                          op_undefined - dc.w  table_opddcb
+004db8  ffff                          op_undefined - dc.w  table_opddcb
+004dba  ffff                          op_undefined - dc.w  table_opddcb
+004dbc  ffff                          op_undefined - dc.w  table_opddcb
+004dbe  ffff                          op_undefined - dc.w  table_opddcb
+004dc0  032c                          op_ddcb66 - dc.w  table_opddcb
+004dc2  ffff                          op_undefined - dc.w  table_opddcb
+004dc4  ffff                          op_undefined - dc.w  table_opddcb
+004dc6  ffff                          op_undefined - dc.w  table_opddcb
+004dc8  ffff                          op_undefined - dc.w  table_opddcb
+004dca  ffff                          op_undefined - dc.w  table_opddcb
+004dcc  ffff                          op_undefined - dc.w  table_opddcb
+004dce  ffff                          op_undefined - dc.w  table_opddcb
+004dd0  0342                          op_ddcb6e - dc.w  table_opddcb
+004dd2  ffff                          op_undefined - dc.w  table_opddcb
+004dd4  ffff                          op_undefined - dc.w  table_opddcb
+004dd6  ffff                          op_undefined - dc.w  table_opddcb
+004dd8  ffff                          op_undefined - dc.w  table_opddcb
+004dda  ffff                          op_undefined - dc.w  table_opddcb
+004ddc  ffff                          op_undefined - dc.w  table_opddcb
+004dde  ffff                          op_undefined - dc.w  table_opddcb
+004de0  0358                          op_ddcb76 - dc.w  table_opddcb
+004de2  ffff                          op_undefined - dc.w  table_opddcb
+004de4  ffff                          op_undefined - dc.w  table_opddcb
+004de6  ffff                          op_undefined - dc.w  table_opddcb
+004de8  ffff                          op_undefined - dc.w  table_opddcb
+004dea  ffff                          op_undefined - dc.w  table_opddcb
+004dec  ffff                          op_undefined - dc.w  table_opddcb
+004dee  ffff                          op_undefined - dc.w  table_opddcb
+004df0  036e                          op_ddcb7e - dc.w  table_opddcb
+004df2  ffff                          op_undefined - dc.w  table_opddcb
+004df4  ffff                          op_undefined - dc.w  table_opddcb
+004df6  ffff                          op_undefined - dc.w  table_opddcb
+004df8  ffff                          op_undefined - dc.w  table_opddcb
+004dfa  ffff                          op_undefined - dc.w  table_opddcb
+004dfc  ffff                          op_undefined - dc.w  table_opddcb
+004dfe  ffff                          op_undefined - dc.w  table_opddcb
+004e00  0382                          op_ddcb86 - dc.w  table_opddcb
+004e02  ffff                          op_undefined - dc.w  table_opddcb
+004e04  ffff                          op_undefined - dc.w  table_opddcb
+004e06  ffff                          op_undefined - dc.w  table_opddcb
+004e08  ffff                          op_undefined - dc.w  table_opddcb
+004e0a  ffff                          op_undefined - dc.w  table_opddcb
+004e0c  ffff                          op_undefined - dc.w  table_opddcb
+004e0e  ffff                          op_undefined - dc.w  table_opddcb
+004e10  0396                          op_ddcb8e - dc.w  table_opddcb
+004e12  ffff                          op_undefined - dc.w  table_opddcb
+004e14  ffff                          op_undefined - dc.w  table_opddcb
+004e16  ffff                          op_undefined - dc.w  table_opddcb
+004e18  ffff                          op_undefined - dc.w  table_opddcb
+004e1a  ffff                          op_undefined - dc.w  table_opddcb
+004e1c  ffff                          op_undefined - dc.w  table_opddcb
+004e1e  ffff                          op_undefined - dc.w  table_opddcb
+004e20  03aa                          op_ddcb96 - dc.w  table_opddcb
+004e22  ffff                          op_undefined - dc.w  table_opddcb
+004e24  ffff                          op_undefined - dc.w  table_opddcb
+004e26  ffff                          op_undefined - dc.w  table_opddcb
+004e28  ffff                          op_undefined - dc.w  table_opddcb
+004e2a  ffff                          op_undefined - dc.w  table_opddcb
+004e2c  ffff                          op_undefined - dc.w  table_opddcb
+004e2e  ffff                          op_undefined - dc.w  table_opddcb
+004e30  03be                          op_ddcb9e - dc.w  table_opddcb
+004e32  ffff                          op_undefined - dc.w  table_opddcb
+004e34  ffff                          op_undefined - dc.w  table_opddcb
+004e36  ffff                          op_undefined - dc.w  table_opddcb
+004e38  ffff                          op_undefined - dc.w  table_opddcb
+004e3a  ffff                          op_undefined - dc.w  table_opddcb
+004e3c  ffff                          op_undefined - dc.w  table_opddcb
+004e3e  ffff                          op_undefined - dc.w  table_opddcb
+004e40  03d2                          op_ddcba6 - dc.w  table_opddcb
+004e42  ffff                          op_undefined - dc.w  table_opddcb
+004e44  ffff                          op_undefined - dc.w  table_opddcb
+004e46  ffff                          op_undefined - dc.w  table_opddcb
+004e48  ffff                          op_undefined - dc.w  table_opddcb
+004e4a  ffff                          op_undefined - dc.w  table_opddcb
+004e4c  ffff                          op_undefined - dc.w  table_opddcb
+004e4e  ffff                          op_undefined - dc.w  table_opddcb
+004e50  03e6                          op_ddcbae - dc.w  table_opddcb
+004e52  ffff                          op_undefined - dc.w  table_opddcb
+004e54  ffff                          op_undefined - dc.w  table_opddcb
+004e56  ffff                          op_undefined - dc.w  table_opddcb
+004e58  ffff                          op_undefined - dc.w  table_opddcb
+004e5a  ffff                          op_undefined - dc.w  table_opddcb
+004e5c  ffff                          op_undefined - dc.w  table_opddcb
+004e5e  ffff                          op_undefined - dc.w  table_opddcb
+004e60  03fa                          op_ddcbb6 - dc.w  table_opddcb
+004e62  ffff                          op_undefined - dc.w  table_opddcb
+004e64  ffff                          op_undefined - dc.w  table_opddcb
+004e66  ffff                          op_undefined - dc.w  table_opddcb
+004e68  ffff                          op_undefined - dc.w  table_opddcb
+004e6a  ffff                          op_undefined - dc.w  table_opddcb
+004e6c  ffff                          op_undefined - dc.w  table_opddcb
+004e6e  ffff                          op_undefined - dc.w  table_opddcb
+004e70  040e                          op_ddcbbe - dc.w  table_opddcb
+004e72  ffff                          op_undefined - dc.w  table_opddcb
+004e74  ffff                          op_undefined - dc.w  table_opddcb
+004e76  ffff                          op_undefined - dc.w  table_opddcb
+004e78  ffff                          op_undefined - dc.w  table_opddcb
+004e7a  ffff                          op_undefined - dc.w  table_opddcb
+004e7c  ffff                          op_undefined - dc.w  table_opddcb
+004e7e  ffff                          op_undefined - dc.w  table_opddcb
+004e80  0422                          op_ddcbc6 - dc.w  table_opddcb
+004e82  ffff                          op_undefined - dc.w  table_opddcb
+004e84  ffff                          op_undefined - dc.w  table_opddcb
+004e86  ffff                          op_undefined - dc.w  table_opddcb
+004e88  ffff                          op_undefined - dc.w  table_opddcb
+004e8a  ffff                          op_undefined - dc.w  table_opddcb
+004e8c  ffff                          op_undefined - dc.w  table_opddcb
+004e8e  ffff                          op_undefined - dc.w  table_opddcb
+004e90  0436                          op_ddcbce - dc.w  table_opddcb
+004e92  ffff                          op_undefined - dc.w  table_opddcb
+004e94  ffff                          op_undefined - dc.w  table_opddcb
+004e96  ffff                          op_undefined - dc.w  table_opddcb
+004e98  ffff                          op_undefined - dc.w  table_opddcb
+004e9a  ffff                          op_undefined - dc.w  table_opddcb
+004e9c  ffff                          op_undefined - dc.w  table_opddcb
+004e9e  ffff                          op_undefined - dc.w  table_opddcb
+004ea0  044a                          op_ddcbd6 - dc.w  table_opddcb
+004ea2  ffff                          op_undefined - dc.w  table_opddcb
+004ea4  ffff                          op_undefined - dc.w  table_opddcb
+004ea6  ffff                          op_undefined - dc.w  table_opddcb
+004ea8  ffff                          op_undefined - dc.w  table_opddcb
+004eaa  ffff                          op_undefined - dc.w  table_opddcb
+004eac  ffff                          op_undefined - dc.w  table_opddcb
+004eae  ffff                          op_undefined - dc.w  table_opddcb
+004eb0  045e                          op_ddcbde - dc.w  table_opddcb
+004eb2  ffff                          op_undefined - dc.w  table_opddcb
+004eb4  ffff                          op_undefined - dc.w  table_opddcb
+004eb6  ffff                          op_undefined - dc.w  table_opddcb
+004eb8  ffff                          op_undefined - dc.w  table_opddcb
+004eba  ffff                          op_undefined - dc.w  table_opddcb
+004ebc  ffff                          op_undefined - dc.w  table_opddcb
+004ebe  ffff                          op_undefined - dc.w  table_opddcb
+004ec0  0472                          op_ddcbe6 - dc.w  table_opddcb
+004ec2  ffff                          op_undefined - dc.w  table_opddcb
+004ec4  ffff                          op_undefined - dc.w  table_opddcb
+004ec6  ffff                          op_undefined - dc.w  table_opddcb
+004ec8  ffff                          op_undefined - dc.w  table_opddcb
+004eca  ffff                          op_undefined - dc.w  table_opddcb
+004ecc  ffff                          op_undefined - dc.w  table_opddcb
+004ece  ffff                          op_undefined - dc.w  table_opddcb
+004ed0  0486                          op_ddcbee - dc.w  table_opddcb
+004ed2  ffff                          op_undefined - dc.w  table_opddcb
+004ed4  ffff                          op_undefined - dc.w  table_opddcb
+004ed6  ffff                          op_undefined - dc.w  table_opddcb
+004ed8  ffff                          op_undefined - dc.w  table_opddcb
+004eda  ffff                          op_undefined - dc.w  table_opddcb
+004edc  ffff                          op_undefined - dc.w  table_opddcb
+004ede  ffff                          op_undefined - dc.w  table_opddcb
+004ee0  049a                          op_ddcbf6 - dc.w  table_opddcb
+004ee2  ffff                          op_undefined - dc.w  table_opddcb
+004ee4  ffff                          op_undefined - dc.w  table_opddcb
+004ee6  ffff                          op_undefined - dc.w  table_opddcb
+004ee8  ffff                          op_undefined - dc.w  table_opddcb
+004eea  ffff                          op_undefined - dc.w  table_opddcb
+004eec  ffff                          op_undefined - dc.w  table_opddcb
+004eee  ffff                          op_undefined - dc.w  table_opddcb
+004ef0  04ae                          op_ddcbfe - dc.w  table_opddcb
+004ef2  ffff                          op_undefined - dc.w  table_opddcb
         op_ddcb06:                    ; rlc (ix+d)
 004ef4  1036 1800                     MOVE.b    $00(A6,D1.l),D0
 004ef8  e318                          ROL.b     #1,D0

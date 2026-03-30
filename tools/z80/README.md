@@ -1,5 +1,7 @@
 
-Some tools to collect together some z80 opcode data and put it into a format useful for various other projects I am working on.
+Some tools to collect together some z80 opcode data and put it into a format useful for various other projects I am working on.  Much of the data is based on the tables at the following link.
+
+https://clrhome.org/table/
 
 z80.json      This file contains data on all the z80 ops that I have so far found info on.
 

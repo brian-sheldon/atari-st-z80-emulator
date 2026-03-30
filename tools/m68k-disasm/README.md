@@ -21,7 +21,7 @@ The modifications I made include the following changes.
 - When printing a list version of the disassembled code, the bytes were each separated by a space.  I modified this to group the output as two bytes separated by a space, a more typical output format.
 - The original formatted print statements, a capital X was used to specify hex output whereas all other format codes were lowercase.  So I changed all the uppercase X's to lowercase for consistency.  This does not affect the function of the code.
 
-The following image file displays the decoding table in color.  I am again not sure where I found this image file.
+The following image file displays the decoding table in color.  I am again not sure where I found this image file, but the line to a PDF file with this image is shown in image.
 
 m68k.opcodes.png
 

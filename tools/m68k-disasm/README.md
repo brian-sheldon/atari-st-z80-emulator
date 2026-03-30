@@ -7,7 +7,7 @@ opcodetable.ods  Does not require this file
 
 Note:  The github link to the current verion of this file is as follows.  I have yet to see if this version corrects the issues I ran into.
 
-(https://github.com/jefftranter/68000/tree/master/toolchain/disasm)
+https://github.com/jefftranter/68000/tree/master/toolchain/disasm
 
 Using it, I came across a number of small issues.  So I currently use my modified version of this disassembler, which is includes the following two files.
 

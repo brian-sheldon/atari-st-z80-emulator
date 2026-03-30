@@ -1,11 +1,13 @@
 
-Please let me know if anyone knows the original source of any of these files as I was not able to find the source.
-
 I found the following m68k disassembler written in python at some point in the past.  I cannot remember where it came from.
 
 disasm68k.py     The python m68k disassembler
 opcodetable.csv  Table used for decoding
 opcodetable.ods  Does not require this file
+
+Note:  The github link to the current verion of this file is as follows.  I have yet to see if this version corrects the issues I ran into.
+
+(https://github.com/jefftranter/68000/tree/master/toolchain/disasm)
 
 Using it, I came across a number of small issues.  So I currently use my modified version of this disassembler, which is includes the following two files.
 

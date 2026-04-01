@@ -50,8 +50,16 @@ We are now in the Hatari debug console.
 Enter r to examine the cpu state.
 ![](img/12.png)
 Enter d $118e4 to list the assembly code that will execute next.
+
+In this case, we can see code that is fairly typical of emulators.  Each instruction typically has a small number of assembly lines that perform the function of the opcode that it is emulating, followed by code to either jump back to the emulation loop or in this case, do what the emulation loop typically does.  Either way, instruction code blocks typically end with some kind of jump or branch instruction that will be the same for each block.  Here we see such a repeating block, starting with the add.w d0,d0 and ending with the jmp ($00,a3,d0.w).
 ![](img/13.png)
+Enter r to again look at the cpu state and let's see what the A3 register value is.
+
+Let's look at the memory of the value we see.
+
+Enter m $110aa
 ![](img/14.png)
+
 ![](img/15.png)
 ![](img/16.png)
 

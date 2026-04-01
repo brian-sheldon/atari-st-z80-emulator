@@ -24,25 +24,33 @@ Open Drive A and double click on CPMZ80.TOS
 
 ![](img/05.png)
 
-When asked to insert floppy, click F12, go into floppy disk menu, browse to CP/M system floppy img and exit menu.
+When asked to insert floppy, click F12
 
 ![](img/06.png)
 
-press any key
+Go into floppy disk menu, browse to CP/M system floppy img.
 
 ![](img/07.png)
 
-
+Exit menu
 
 ![](img/08.png)
+```
+Type dir and press enter.
+Type type happy.txt and do not press enter.
+Get ready to quickly press press the alt-pause key to enter the Hatari debug console.
+Press enter followed quickly by pressing alt-pause key.
+```
+Note:  The reason for entering the Hatari debug console while the type happy.txt is running, is to ensure the emulator is currently running the emulation loop, so the registers and the program counter are set with the values used when the loop is running, making it far easier to analyze the code.
 ![](img/09.png)
 ![](img/10.png)
+![](img/11.png)
 ![](img/11.png)
 ![](img/12.png)
 ![](img/13.png)
 ![](img/14.png)
 ![](img/15.png)
-1[](img/16.png)
+![](img/16.png)
 
 
 

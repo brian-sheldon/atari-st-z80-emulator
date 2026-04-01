@@ -44,7 +44,7 @@ Note: Other code used by the emulator
 
 
 #### Some registers and variables used by the emulator, pointed to by the A5 register
-
+```
 a0
 a1
 a2
@@ -80,7 +80,7 @@ d7  reg a
        24  147b2  pointer to table_op_ed
        28  15836  pointer to table_op_fd
        2c  15ed4  pointer to table_op_ddcb,  also for fdcb
-
+```
 ### The z80 emulation loop
 
 Code used to get the values in the jump tables and jump to the code for the individual instructions.  Many emulators do this in the main emulation loop, however, as the 68000 processor as fast as more modern processors, saving the one additional instruction required to jump to a main loop, speeds up the emulation enough to run at close to the typical speed of z80 systems.  Depending on the system being emulated, it is often necessary to have a central loop in order to drop out of loop after a specific number of instructions are emulated, at which point the emulator can emulate other hardware.  CP/M however has a bios where all other hardware interfacing is typically done, so, it is only necessary to perform emulation for this hardware when the bios functions are executed, typically by using input and output z80 instructions.  It is therefore only necessary to have these input and output instructions jump into the hardware specific emulation code.

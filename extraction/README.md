@@ -58,10 +58,23 @@ Enter r to again look at the cpu state and let's see what the A3 register value 
 Let's look at the memory of the value we see.
 
 Enter m $110aa
-![](img/14.png)
 
+This looks a lot like a typical emulation jump table.  In the case of 8-bit processors, we expect to see a jump table with 256 entries.  In this case, the entries appear to be 2 byte long, so the total table length is 512 bytes.  The first table entry is 0200, which happens to be the length of the table.  So it appears as if the entries are relative jump values that are added to the table starting address.  As we can see, the values are gradually increasing as would be expected.
+
+So next, let's look at the code pointed to by the first entry, 110aa + 200 = 112aa.
+
+Enter m $112aa
+![](img/14.png)
+This does look as expected for a z80.  Opcode 0 for a z80 is the nop instruction, which basically does nothing.  The code we see here just has the code we see at the end of every instruction code block, with nothing before it.  In other words, the code does not but jump to the next instruction.
 ![](img/15.png)
+At this point, we have done enough analysis of the code to have an idea of where the code is located.  So let's dump the binary code of the first 256 KBytes of memory, more than is probably needed.
+
+Enter savebin savebin.bin 0 $40000
 ![](img/16.png)
+
+The next steps will be to identify the parts of this saved binary code to extract and disassemble.  This will require further analysis.
+
+This may be expanded, not sure, but it is enough to get started.
 
 
 

@@ -10,24 +10,24 @@ Run the following command from a Windows shell to start Hatari.  Will be differe
 
 click ok
 
-[](img/02.png)
+![](img/02.png)
 
 
 
-[](img/03.png)
-[](img/04.png)
-[](img/05.png)
-[](img/06.png)
-[](img/07.png)
-[](img/08.png)
-[](img/09.png)
-[](img/10.png)
-[](img/11.png)
-[](img/12.png)
-[](img/13.png)
-[](img/14.png)
-[](img/15.png)
-[](img/16.png)
+![](img/03.png)
+![](img/04.png)
+![](img/05.png)
+![](img/06.png)
+![](img/07.png)
+![](img/08.png)
+![](img/09.png)
+![](img/10.png)
+![](img/11.png)
+![](img/12.png)
+![](img/13.png)
+![](img/14.png)
+![](img/15.png)
+1[](img/16.png)
 
 
 

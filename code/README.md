@@ -1,0 +1,172 @@
+
+* Analysis of the original CP/M emulator code
+
+The z80 instruction are emulated using 6 jump tables, each with 256 - 2 byte entries.  Each 2 byte entry is added to the base address of the table and this the emulator then jumps to this address, where the code for the specific z80 instruction is located.  Following are the addresses of the jump tables and the code sections.
+
+Note:  The tables I generated currently use a value of ffff for all undefined opcodes.  This needs to be changed to the relative address pointing to any code used to handle undefined instructions.  I did not put in the original relative jumps as I have not included the actual code in the current code.
+
+#### Table for the 1 byte opcode instructions, plus the 4 bytes ( cb, dd, ed, fd ) that are the start of the 2 byte or longer opcodes.
+```
+110aa - 112a9 opxx      table
+112aa - 12ff3 opxx      code
+```
+Note: Other code used by the emulator
+#### Table and code for instructions starting with opcode cb.
+```
+13106 - 13305 opcbxx    table
+13306 - 147b1 opcbxx    code
+```
+#### Table and code for instructions starting with opcode ed.
+```
+147b2 - 149b1 opedxx    table
+149b2 - 15175 opedxx    code
+```
+Note: Other code used by the emulator
+#### Table and code for instructions starting with opcode dd.
+```
+1519a - 15399 opddxx    table
+1539a - 15835 opddxx    code
+```
+#### Table and code for instructions starting with opcode fd.
+```
+15836 - 15a35 opfdxx    table
+15a36 - 15ed3 opfdxx    code
+```
+#### Table and code for instructions starting with opcode ddcb or fdcb.
+```
+15ed4 - 160d3 opddcb    table
+160d4 - 16395 opddcb    code
+```
+
+
+15176 - 1517f opcb oped illegal bra 10dc2
+15180 - 15199 sub init vars at a5 + 20, 28, 2c for dd, fd, ?? 1519a, 15836, 15ed4
+
+
+#### Some registers and variables used by the emulator, pointed to by the A5 register
+
+a0
+a1
+a2
+a3  110aa  pointer to table_op, the 1 byte instructions or first byte of longer instructions
+a4
+a5  2a4d0
+a6
+a7
+
+d0  tmp
+d1  tmp
+d2  flag n
+d3  flag z
+d4  flag for bcd
+d5  flag  v or p
+d6  flag c
+d7  reg a
+
+2a4d0  00  reg h or reg hl for 16 bit ops
+       01  reg l
+       02  reg d or reg de for 16 bit ops
+       03  reg e
+       04  reg b or reg bc for 16 bit ops
+       05  reg c
+       06
+       0c
+       10
+       14
+       18  reg ix
+       1a  reg iy
+       1c  13106  pointer to table_op_cb
+       20  1519a  pointer to table_op_dd
+       24  147b2  pointer to table_op_ed
+       28  15836  pointer to table_op_fd
+       2c  15ed4  pointer to table_op_ddcb,  also for fdcb
+
+### The z80 emulation loop
+
+Code used to get the values in the jump tables and jump to the code for the individual instructions.  Many emulators do this in the main emulation loop, however, as the 68000 processor as fast as more modern processors, saving the one additional instruction required to jump to a main loop, speeds up the emulation enough to run at close to the typical speed of z80 systems.  Depending on the system being emulated, it is often necessary to have a central loop in order to drop out of loop after a specific number of instructions are emulated, at which point the emulator can emulate other hardware.  CP/M however has a bios where all other hardware interfacing is typically done, so, it is only necessary to perform emulation for this hardware when the bios functions are executed, typically by using input and output z80 instructions.  It is therefore only necessary to have these input and output instructions jump into the hardware specific emulation code.
+
+#### Code to get relative address of the code for each xx instruction and jumps to it
+The code here shown for the nop instrucion is put at the final processing of every instruction to begin execution of next instruction.  Depending how the D0 register was used, some instruction also add the ClR.w D0 instruction.
+```
+        op_00:                        ; nop
+000200  1019                          MOVE.b    (A1)+,D0
+000202  d040                          ADD.w     D0,D0
+000204  3233 0000                     MOVE.w    $00(A3,D0),D1
+000208  4ef3 1000                     JMP       $00(A3,D1)
+```
+Note:  D0 needs to be cleared in cases where the upper 8 bits of the word value are not 0
+```
+000d26  4240                          CLR.w     D0
+000d28  1019                          MOVE.b    (A1)+,D0
+000d2a  d040                          ADD.w     D0,D0
+000d2c  3233 0000                     MOVE.w    $00(A3,D0),D1
+000d30  4ef3 1000                     JMP       $00(A3,D1)
+```
+#### Code to get relative address of the code for each cbxx instruction and jumps to it
+```
+        op_cb:                        ; redirect -->
+0017ae  206d 001c                     MOVEA.l   $001c(A5),A0
+0017b2  4240                          CLR.w     D0
+0017b4  1019                          MOVE.b    (A1)+,D0
+0017b6  d040                          ADD.w     D0,D0
+0017b8  3230 0000                     MOVE.w    $00(A0,D0),D1
+0017bc  4ef0 1000                     JMP       $00(A0,D1)
+```
+#### Code to get relative address of the code for each ddxx instruction and jumps to it
+```
+        op_dd:                        ; redirect -->
+001a8c  206d 0020                     MOVEA.l   $0020(A5),A0
+001a90  4240                          CLR.w     D0
+001a92  1019                          MOVE.b    (A1)+,D0
+001a94  d040                          ADD.w     D0,D0
+001a96  3230 0000                     MOVE.w    $00(A0,D0),D1
+001a9a  4ef0 1000                     JMP       $00(A0,D1)
+```
+#### Code to get relative address of the code for each edxx instruction and jumps to it
+```
+        op_ed:                        ; redirect -->
+001cbe  206d 0024                     MOVEA.l   $0024(A5),A0
+001cc2  4240                          CLR.w     D0
+001cc4  1019                          MOVE.b    (A1)+,D0
+001cc6  d040                          ADD.w     D0,D0
+001cc8  3230 0000                     MOVE.w    $00(A0,D0),D1
+001ccc  4ef0 1000                     JMP       $00(A0,D1)
+```
+#### Code to get relative address of the code for each fdxx instruction and jumps to it
+```
+        op_fd:                        ; redirect -->
+001f02  206d 0028                     MOVEA.l   $0028(A5),A0
+001f06  4240                          CLR.w     D0
+001f08  1019                          MOVE.b    (A1)+,D0
+001f0a  d040                          ADD.w     D0,D0
+001f0c  3230 0000                     MOVE.w    $00(A0,D0),D1
+001f10  4ef0 1000                     JMP       $00(A0,D1)
+```
+#### Code to get relative address of the code for each ddcbxx instruction and jumps to it
+The next code sections are very similar, with the only difference being which reg is used as the index register.  By doing the index register specific function here, table_ddcbxx can be also be used for fdcbxx instructions.
+```
+        op_ddcb:                      ; redirect -->
+0045c2  1219                          MOVE.b    (A1)+,D1      ; get the displacement byte
+0045c4  4881                          EXT.w     D1            ; sign extend the value to 16 bits
+0045c6  d26d 0018                     ADD.w     $0018(A5),D1  ; add the displacement to the index reg IX
+0045ca  206d 002c                     MOVEA.l   $002c(A5),A0  ; get the address of table_opddcbxx
+0045ce  4240                          CLR.w     D0            ; clear all 16 bits of D0
+0045d0  1019                          MOVE.b    (A1)+,D0      ; get the final opcode byte of this instruction
+0045d2  d040                          ADD.w     D0,D0         ; multiply by 2 to get address in table
+0045d4  3030 0000                     MOVE.w    $00(A0,D0),D0 ; add this address to the base table address in A0
+0045d8  4ef0 0000                     JMP       $00(A0,D0)    ; jump to the final code to emulate the instruction
+```
+#### Code to get relative address of the code for each fdcbxx instruction and jumps to it
+```
+        op_fdcb:                      ; redirect -->
+004c60  1219                          MOVE.b    (A1)+,D1
+004c62  4881                          EXT.w     D1
+004c64  d26d 001a                     ADD.w     $001a(A5),D1  ; same as above except the index reg IY is used
+004c68  206d 002c                     MOVEA.l   $002c(A5),A0
+004c6c  4240                          CLR.w     D0
+004c6e  1019                          MOVE.b    (A1)+,D0
+004c70  d040                          ADD.w     D0,D0
+004c72  3030 0000                     MOVE.w    $00(A0,D0),D0
+004c76  4ef0 0000                     JMP       $00(A0,D0)
+```
+

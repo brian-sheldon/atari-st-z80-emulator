@@ -1,5 +1,7 @@
 
-* Analysis of the original CP/M emulator code
+# Analysis of the original CP/M emulator code
+
+Analysis done so far, more to come ...
 
 The z80 instruction are emulated using 6 jump tables, each with 256 - 2 byte entries.  Each 2 byte entry is added to the base address of the table and this the emulator then jumps to this address, where the code for the specific z80 instruction is located.  Following are the addresses of the jump tables and the code sections.
 

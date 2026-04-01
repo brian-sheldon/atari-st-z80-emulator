@@ -35,18 +35,21 @@ Go into floppy disk menu, browse to CP/M system floppy img.
 Exit menu
 
 ![](img/08.png)
-```
 Type dir and press enter.
+
 Type type happy.txt and do not press enter.
+
 Get ready to quickly press press the alt-pause key to enter the Hatari debug console.
-Press enter followed quickly by pressing alt-pause key.
-```
+
 Note:  The reason for entering the Hatari debug console while the type happy.txt is running, is to ensure the emulator is currently running the emulation loop, so the registers and the program counter are set with the values used when the loop is running, making it far easier to analyze the code.
 ![](img/09.png)
+Press enter followed quickly by pressing alt-pause key.
 ![](img/10.png)
+We are now in the Hatari debug console.
 ![](img/11.png)
-![](img/11.png)
+Enter r to examine the cpu state.
 ![](img/12.png)
+Enter d $118e4 to list the assembly code that will execute next.
 ![](img/13.png)
 ![](img/14.png)
 ![](img/15.png)
